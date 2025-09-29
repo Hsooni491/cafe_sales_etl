@@ -16,7 +16,7 @@ df['price_per_unit'].replace(['UNKNOWN', 'ERROR'], np.nan, inplace=True)
 df['location'].replace(['UNKNOWN', 'ERROR'], np.nan, inplace=True)
 df['transaction_date'].replace(['UNKNOWN', 'ERROR'], np.nan, inplace=True)
 
-# remove rows with missing values from item and transaction_id column
+# remove rows with missing values from the following columns
 df = df.dropna(subset=['transaction_id', 'item', 'quantity', 'transaction_date'])
 
 # converting data type 
@@ -25,5 +25,6 @@ df['item'] = df['item'].astype('category')
 df['total_spent'] = df['total_spent'].astype('float64')
 df['price_per_unit'] = df['total_spent'].astype('float64')
 df['transaction_date'] = pd.to_datetime(df['transaction_date'])
+df['payment_method'] = df['payment_method'].astype('category')
+df['location'] = df['location'].astype('category')
 
-print(df)
