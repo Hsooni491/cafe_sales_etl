@@ -28,3 +28,7 @@ df['transaction_date'] = pd.to_datetime(df['transaction_date'])
 df['payment_method'] = df['payment_method'].astype('category')
 df['location'] = df['location'].astype('category')
 
+# creating a new column 'day_of_week' from 'transaction_date'
+df['day_of_week'] = df['transaction_date'].dt.day_name().astype('category')
+
+print(df.head())
