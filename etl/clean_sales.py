@@ -1,7 +1,11 @@
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv("data/dirty_cafe_sales.csv")
+def extract_csv(file_name):
+	df = pd.read_csv(file_name)
+	return df
+
+df = extract_csv('data/dirty_cafe_sales.csv')
 
 # strip and rename the column names
 df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
