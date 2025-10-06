@@ -1,0 +1,2 @@
+2025-10-06 11:38:34,710 - INFO - Successfully extracted, transformed.
+2025-10-06 11:38:52,641 - ERROR - Pipeline failed with error: [Errno 2] No such file or directory: 'data/dirty_cafe_sals.csv'
