@@ -8,8 +8,8 @@ sys.path.append(str(root_path))
 from utils.pipeline_utils import extract_csv, clean_cafe_sales
 import logging
 
-logs_dir = root_path / "logs"                       # this points to your logs folder
-log_file = logs_dir / "pipeline.log"                # this is the log file path
+logs_dir = root_path / "logs" # this points to your logs folder
+log_file = logs_dir / "pipeline.log" # this is the log file path
 
 logging.basicConfig(
 	level=logging.INFO,
