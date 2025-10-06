@@ -1,3 +1,13 @@
 {
-	"python.analysis.autoImportCompletions": true
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run current Python file from project root",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
 }
