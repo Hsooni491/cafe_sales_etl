@@ -1,1 +1,1 @@
-from .pipeline_utils import extract_csv, clean_cafe_sales
+from .pipeline_utils import extract_csv, clean_cafe_sales, load_to_postgres

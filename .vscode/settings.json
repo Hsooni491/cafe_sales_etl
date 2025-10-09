@@ -9,5 +9,8 @@
             "console": "integratedTerminal",
             "cwd": "${workspaceFolder}"
         }
-    ]
+	],
+	"cSpell.words": [
+		"apacheairflow"
+	]
 }

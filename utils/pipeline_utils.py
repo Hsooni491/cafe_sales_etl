@@ -1,5 +1,9 @@
 import pandas as pd
 import numpy as np
+from sqlalchemy import create_engine
+from sqlalchemy.exc import SQLAlchemyError
+
+
 
 def extract_csv(file_name: str) -> pd.DataFrame:
 	'''Reads a CSV file and returns a Dataframe'''
@@ -20,7 +24,7 @@ def clean_cafe_sales(df: pd.DataFrame) -> pd.DataFrame:
 		'total_spent', 'price_per_unit', 'location', 'transaction_date'
 		]
 	for col in cols_to_clean:
-		df[col].replace(['UNKNOWN', 'ERROR'], np.nan, inplace=True)
+		df[col] = df[col].replace(['UNKNOWN', 'ERROR'], np.nan)
 
 
 	# remove rows with missing values from the following columns
@@ -42,3 +46,19 @@ def clean_cafe_sales(df: pd.DataFrame) -> pd.DataFrame:
 	df['day_of_week'] = df['transaction_date'].dt.day_name().astype('category')
 
 	return df
+
+
+def load_to_postgres(df: pd.DataFrame, table_name: str = 'sales_data'):
+    """Loads DataFrame into PostgreSQL table safely using SQLAlchemy engine."""
+    try:
+        engine = create_engine("postgresql+psycopg2://postgres:4602@localhost:5432/cafe_sales")
+
+        with engine.begin() as conn:
+            df.to_sql(table_name, con=conn, if_exists='replace', index=False)
+
+        row_count = len(df)
+        print(f"✅ Loaded {row_count} rows into PostgreSQL table: {table_name}")
+
+    except Exception as e:
+        raise RuntimeError(f"❌ Failed to load data into PostgreSQL: {e}")
+

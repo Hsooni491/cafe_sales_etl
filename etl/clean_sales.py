@@ -5,7 +5,7 @@ from pathlib import Path
 root_path = Path(__file__).resolve().parent.parent
 sys.path.append(str(root_path))
 
-from utils.pipeline_utils import extract_csv, clean_cafe_sales
+from utils.pipeline_utils import extract_csv, clean_cafe_sales, load_to_postgres
 import logging
 
 logs_dir = root_path / "logs" # this points to your logs folder
@@ -24,9 +24,8 @@ logging.basicConfig(
 try:
 	df = extract_csv('data/dirty_cafe_sales.csv')
 	df = clean_cafe_sales(df)
-	logging.info('Successfully extracted, transformed.')
+	load_to_postgres(df)
+	logging.info('Successfully extracted, transformed, load')
 
 except Exception as e:
 	logging.error(f'Pipeline failed with error: {e}')
-
-print(df.head())
