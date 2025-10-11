@@ -1,0 +1,736 @@
+[2025-10-10T19:09:03.306+0300] {processor.py:186} INFO - Started process (PID=5378) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:09:03.307+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:09:03.309+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:09:03.309+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:09:03.324+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:09:03.358+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:09:03.356+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:09:03.385+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:09:03.385+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:09:03.417+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.119 seconds
+[2025-10-10T19:10:08.076+0300] {processor.py:186} INFO - Started process (PID=5691) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:10:08.077+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:10:08.080+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:08.080+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:10:08.091+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:10:08.109+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:08.109+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:10:08.134+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:08.133+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:10:08.161+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.091 seconds
+[2025-10-10T19:11:06.810+0300] {processor.py:186} INFO - Started process (PID=6162) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:11:06.811+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:11:06.814+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:06.813+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:11:06.825+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:11:06.844+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:06.844+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:11:06.868+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:06.868+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:11:06.910+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.106 seconds
+[2025-10-10T19:12:05.850+0300] {processor.py:186} INFO - Started process (PID=6409) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:12:05.856+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:12:05.859+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:05.858+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:12:05.870+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:12:05.890+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:05.890+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:12:05.915+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:05.915+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:12:05.950+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.107 seconds
+[2025-10-10T19:13:06.883+0300] {processor.py:186} INFO - Started process (PID=6694) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:13:06.884+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:13:06.888+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:06.887+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:13:06.900+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:13:06.922+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:06.920+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:13:06.948+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:06.948+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:13:06.975+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.098 seconds
+[2025-10-10T19:14:09.296+0300] {processor.py:186} INFO - Started process (PID=7017) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:14:09.302+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:14:09.304+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:09.304+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:14:09.315+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:14:09.334+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:09.334+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:14:09.357+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:09.356+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:14:09.390+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T19:15:14.539+0300] {processor.py:186} INFO - Started process (PID=7368) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:15:14.546+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:15:14.548+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:14.548+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:15:14.558+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:15:14.577+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:14.577+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:15:14.599+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:14.599+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:15:14.630+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.098 seconds
+[2025-10-10T19:16:11.809+0300] {processor.py:186} INFO - Started process (PID=7636) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:16:11.815+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:16:11.818+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:11.817+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:16:11.829+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:16:11.848+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:11.848+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:16:11.871+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:11.871+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:16:11.901+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T19:17:10.265+0300] {processor.py:186} INFO - Started process (PID=8194) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:17:10.271+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:17:10.274+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:10.274+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:17:10.286+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:17:10.306+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:10.306+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:17:10.330+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:10.330+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:17:10.358+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T19:18:08.084+0300] {processor.py:186} INFO - Started process (PID=8762) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:18:08.090+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:18:08.093+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:08.092+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:18:08.105+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:18:08.126+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:08.126+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:18:08.151+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:08.151+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:18:08.203+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.126 seconds
+[2025-10-10T19:19:07.567+0300] {processor.py:186} INFO - Started process (PID=9098) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:19:07.573+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:19:07.576+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:07.575+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:19:07.586+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:19:07.604+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:07.604+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:19:07.625+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:07.624+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:19:07.653+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.094 seconds
+[2025-10-10T19:20:03.543+0300] {processor.py:186} INFO - Started process (PID=9421) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:20:03.544+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:20:03.546+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:03.546+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:20:03.557+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:20:03.576+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:03.576+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:20:03.598+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:03.598+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:20:03.622+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.087 seconds
+[2025-10-10T19:21:00.029+0300] {processor.py:186} INFO - Started process (PID=9697) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:21:00.035+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:21:00.038+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:00.037+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:21:00.048+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:21:00.068+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:00.068+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:21:00.091+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:00.091+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:21:00.124+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T19:21:55.165+0300] {processor.py:186} INFO - Started process (PID=9948) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:21:55.171+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:21:55.174+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:55.174+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:21:55.186+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:21:55.207+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:55.206+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:21:55.229+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:55.229+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:21:55.259+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.102 seconds
+[2025-10-10T19:22:51.789+0300] {processor.py:186} INFO - Started process (PID=10233) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:22:51.796+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:22:51.799+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:51.798+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:22:51.811+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:22:51.830+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:51.830+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:22:51.851+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:51.851+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:22:51.881+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T19:23:51.082+0300] {processor.py:186} INFO - Started process (PID=10515) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:23:51.088+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:23:51.091+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:51.090+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:23:51.102+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:23:51.122+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:51.122+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:23:51.146+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:51.146+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:23:51.180+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.105 seconds
+[2025-10-10T19:24:48.218+0300] {processor.py:186} INFO - Started process (PID=10854) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:24:48.224+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:24:48.227+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:48.226+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:24:48.238+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:24:48.257+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:48.256+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:24:48.278+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:48.278+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:24:48.306+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.096 seconds
+[2025-10-10T19:25:42.679+0300] {processor.py:186} INFO - Started process (PID=11165) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:25:42.685+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:25:42.688+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:42.688+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:25:42.699+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:25:42.717+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:42.717+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:25:42.738+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:42.738+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:25:42.767+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.093 seconds
+[2025-10-10T19:26:40.550+0300] {processor.py:186} INFO - Started process (PID=11453) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:26:40.551+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:26:40.554+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:40.554+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:26:40.565+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:26:40.587+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:40.587+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:26:40.609+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:40.608+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:26:40.637+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.093 seconds
+[2025-10-10T19:27:37.299+0300] {processor.py:186} INFO - Started process (PID=11725) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:27:37.305+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:27:37.308+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:37.308+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:27:37.318+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:27:37.336+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:37.336+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:27:37.357+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:37.357+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:27:37.387+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.095 seconds
+[2025-10-10T19:28:36.148+0300] {processor.py:186} INFO - Started process (PID=12005) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:28:36.154+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:28:36.157+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:36.157+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:28:36.167+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:28:36.185+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:36.185+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:28:36.207+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:36.206+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:28:36.235+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.094 seconds
+[2025-10-10T19:29:29.883+0300] {processor.py:186} INFO - Started process (PID=12282) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:29:29.889+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:29:29.892+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:29.891+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:29:29.904+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:29:29.925+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:29.925+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:29:29.948+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:29.947+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:29:29.989+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.114 seconds
+[2025-10-10T19:30:23.390+0300] {processor.py:186} INFO - Started process (PID=12544) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:30:23.396+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:30:23.399+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:23.399+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:30:23.411+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:30:23.432+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:23.431+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:30:23.453+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:23.453+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:30:23.483+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T19:31:20.395+0300] {processor.py:186} INFO - Started process (PID=12813) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:31:20.401+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:31:20.404+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:20.403+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:31:20.416+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:31:20.436+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:20.436+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:31:20.457+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:20.457+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:31:20.486+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T19:32:16.387+0300] {processor.py:186} INFO - Started process (PID=13064) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:32:16.393+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:32:16.396+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:16.396+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:32:16.409+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:32:16.428+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:16.428+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:32:16.450+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:16.450+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:32:16.478+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T19:33:14.339+0300] {processor.py:186} INFO - Started process (PID=13340) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:33:14.345+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:33:14.348+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:14.347+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:33:14.360+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:33:14.380+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:14.380+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:33:14.402+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:14.401+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:33:14.431+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T19:34:11.240+0300] {processor.py:186} INFO - Started process (PID=13671) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:34:11.246+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:34:11.248+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:11.248+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:34:11.260+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:34:11.280+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:11.280+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:34:11.301+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:11.301+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:34:11.330+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.096 seconds
+[2025-10-10T19:35:06.070+0300] {processor.py:186} INFO - Started process (PID=13933) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:35:06.071+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T19:35:06.074+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:35:06.073+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:35:06.086+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T19:35:06.105+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:35:06.105+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:35:06.126+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:35:06.126+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T19:35:06.155+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.093 seconds
+[2025-10-10T20:15:27.592+0300] {processor.py:186} INFO - Started process (PID=14202) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:15:27.599+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:15:27.601+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:27.601+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:15:27.613+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:15:27.631+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:27.631+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:15:27.652+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:27.652+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:15:27.681+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.095 seconds
+[2025-10-10T20:16:22.545+0300] {processor.py:186} INFO - Started process (PID=14429) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:16:22.551+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:16:22.554+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:22.553+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:16:22.566+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:16:22.586+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:22.585+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:16:22.607+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:22.607+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:16:22.636+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T20:17:18.887+0300] {processor.py:186} INFO - Started process (PID=14681) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:17:18.893+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:17:18.896+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:18.895+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:17:18.908+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:17:18.928+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:18.928+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:17:18.950+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:18.949+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:17:18.980+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T20:18:15.905+0300] {processor.py:186} INFO - Started process (PID=14929) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:18:15.911+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:18:15.913+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:15.913+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:18:15.923+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:18:15.941+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:15.941+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:18:15.963+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:15.963+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:18:15.988+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.091 seconds
+[2025-10-10T20:19:11.968+0300] {processor.py:186} INFO - Started process (PID=15198) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:19:11.974+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:19:11.977+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:11.977+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:19:11.990+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:19:12.010+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:12.010+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:19:12.031+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:12.031+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:19:12.061+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T20:20:07.279+0300] {processor.py:186} INFO - Started process (PID=15447) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:20:07.285+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:20:07.288+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:07.288+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:20:07.301+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:20:07.321+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:07.320+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:20:07.343+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:07.342+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:20:07.371+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.098 seconds
+[2025-10-10T20:21:03.850+0300] {processor.py:186} INFO - Started process (PID=15722) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:21:03.856+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:21:03.858+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:03.858+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:21:03.871+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:21:03.891+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:03.891+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:21:03.913+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:03.912+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:21:03.941+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T20:22:01.204+0300] {processor.py:186} INFO - Started process (PID=15991) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:22:01.206+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:22:01.208+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:01.208+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:22:01.219+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:22:01.238+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:01.238+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:22:01.260+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:01.259+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:22:01.284+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.085 seconds
+[2025-10-10T20:22:59.362+0300] {processor.py:186} INFO - Started process (PID=16256) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:22:59.363+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:22:59.366+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:59.365+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:22:59.378+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:22:59.397+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:59.397+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:22:59.418+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:59.418+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:22:59.447+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.092 seconds
+[2025-10-10T20:23:56.786+0300] {processor.py:186} INFO - Started process (PID=16536) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:23:56.792+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:23:56.795+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:56.795+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:23:56.807+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:23:56.826+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:56.826+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:23:56.848+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:56.848+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:23:56.879+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T20:24:55.729+0300] {processor.py:186} INFO - Started process (PID=16797) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:24:55.735+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:24:55.738+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:55.737+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:24:55.750+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:24:55.770+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:55.770+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:24:55.791+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:55.791+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:24:55.820+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T20:25:55.231+0300] {processor.py:186} INFO - Started process (PID=17093) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:25:55.237+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:25:55.240+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:55.239+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:25:55.253+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:25:55.274+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:55.273+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:25:55.296+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:55.295+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:25:55.334+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.111 seconds
+[2025-10-10T20:26:54.563+0300] {processor.py:186} INFO - Started process (PID=17349) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:26:54.569+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:26:54.572+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:54.571+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:26:54.584+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:26:54.604+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:54.604+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:26:54.625+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:54.625+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:26:54.654+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T20:27:53.843+0300] {processor.py:186} INFO - Started process (PID=17606) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:27:53.844+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:27:53.846+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:53.846+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:27:53.857+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:27:53.875+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:53.874+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:27:53.896+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:53.896+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:27:53.926+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.090 seconds
+[2025-10-10T20:28:50.649+0300] {processor.py:186} INFO - Started process (PID=17929) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:28:50.655+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:28:50.658+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:50.657+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:28:50.668+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:28:50.686+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:50.686+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:28:50.707+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:50.707+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:28:50.736+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.093 seconds
+[2025-10-10T20:29:49.290+0300] {processor.py:186} INFO - Started process (PID=18181) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:29:49.296+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:29:49.299+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:49.298+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:29:49.312+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:29:49.332+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:49.332+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:29:49.353+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:49.353+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:29:49.382+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T20:30:47.371+0300] {processor.py:186} INFO - Started process (PID=18441) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:30:47.377+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:30:47.380+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:47.379+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:30:47.394+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:30:47.416+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:47.416+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:30:47.438+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:47.437+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:30:47.467+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.105 seconds
+[2025-10-10T20:31:48.570+0300] {processor.py:186} INFO - Started process (PID=18717) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:31:48.576+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:31:48.579+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:48.578+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:31:48.591+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:31:48.611+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:48.611+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:31:48.633+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:48.632+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:31:48.663+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T20:32:49.058+0300] {processor.py:186} INFO - Started process (PID=18984) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:32:49.064+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:32:49.067+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:49.066+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:32:49.079+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:32:49.099+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:49.099+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:32:49.120+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:49.120+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:32:49.150+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T20:33:48.060+0300] {processor.py:186} INFO - Started process (PID=19278) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:33:48.061+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:33:48.064+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:48.063+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:33:48.075+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:33:48.095+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:48.094+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:33:48.117+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:48.117+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:33:48.143+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.091 seconds
+[2025-10-10T20:34:44.963+0300] {processor.py:186} INFO - Started process (PID=19541) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:34:44.970+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:34:44.972+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:44.972+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:34:44.983+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:34:45.001+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:45.001+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:34:45.022+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:45.022+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:34:45.052+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.096 seconds
+[2025-10-10T20:35:42.236+0300] {processor.py:186} INFO - Started process (PID=19804) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:35:42.237+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:35:42.240+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:42.240+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:35:42.252+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:35:42.271+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:42.271+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:35:42.294+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:42.294+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:35:42.318+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.089 seconds
+[2025-10-10T20:36:40.444+0300] {processor.py:186} INFO - Started process (PID=20066) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:36:40.450+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:36:40.452+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:40.452+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:36:40.465+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:36:40.485+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:40.485+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:36:40.506+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:40.506+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:36:40.536+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T20:37:36.245+0300] {processor.py:186} INFO - Started process (PID=20337) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:37:36.251+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T20:37:36.253+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:36.253+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:37:36.264+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T20:37:36.282+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:36.282+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:37:36.303+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:36.303+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T20:37:36.332+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.095 seconds
+[2025-10-10T21:51:22.796+0300] {processor.py:186} INFO - Started process (PID=20649) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:51:22.802+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T21:51:22.805+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:22.805+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:51:22.818+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:51:22.838+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:22.838+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:51:22.861+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:22.861+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T21:51:22.886+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.098 seconds
+[2025-10-10T21:52:19.306+0300] {processor.py:186} INFO - Started process (PID=20995) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:52:19.312+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T21:52:19.315+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:19.314+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:52:19.326+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:52:19.346+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:19.346+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:52:19.369+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:19.369+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T21:52:19.400+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T21:53:17.648+0300] {processor.py:186} INFO - Started process (PID=21473) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:53:17.654+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T21:53:17.657+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:17.656+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:53:17.667+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:53:17.685+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:17.685+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:53:17.709+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:17.709+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T21:53:17.741+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T21:54:15.349+0300] {processor.py:186} INFO - Started process (PID=22020) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:54:15.350+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T21:54:15.352+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:54:15.352+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:54:15.364+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T21:54:15.385+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:54:15.384+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:54:15.414+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:54:15.414+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T21:54:15.449+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.107 seconds
+[2025-10-10T22:16:06.477+0300] {processor.py:186} INFO - Started process (PID=25577) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:16:06.483+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:16:06.486+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:06.485+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:16:06.499+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:16:06.528+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:06.528+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:16:06.551+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:06.551+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:16:06.581+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.111 seconds
+[2025-10-10T22:17:05.351+0300] {processor.py:186} INFO - Started process (PID=25898) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:17:05.357+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:17:05.360+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:05.360+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:17:05.371+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:17:05.393+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:05.392+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:17:05.418+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:05.418+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:17:05.451+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.106 seconds
+[2025-10-10T22:17:54.358+0300] {processor.py:186} INFO - Started process (PID=26141) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:17:54.359+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:17:54.362+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:54.361+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:17:54.374+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:17:54.415+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:54.415+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:17:54.441+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:54.441+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:17:54.469+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.117 seconds
+[2025-10-10T22:18:02.628+0300] {processor.py:186} INFO - Started process (PID=26192) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:18:02.629+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:18:02.632+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:02.631+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:18:02.642+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:18:02.662+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:02.661+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:18:02.686+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:02.685+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:18:02.718+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.097 seconds
+[2025-10-10T22:18:52.787+0300] {processor.py:186} INFO - Started process (PID=26626) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:18:52.793+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:18:52.797+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:52.797+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:18:52.812+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:18:52.840+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:52.840+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:18:52.872+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:52.872+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:18:52.910+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.130 seconds
+[2025-10-10T22:19:21.798+0300] {processor.py:186} INFO - Started process (PID=27122) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:19:21.799+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:19:21.802+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:21.801+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:19:21.813+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:19:21.842+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:21.842+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:19:21.866+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:21.865+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:19:21.891+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T22:20:22.613+0300] {processor.py:186} INFO - Started process (PID=27486) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:20:22.620+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:20:22.624+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:22.623+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:20:22.636+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:20:22.660+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:22.660+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:20:22.686+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:22.686+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:20:22.713+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.108 seconds
+[2025-10-10T22:22:27.510+0300] {processor.py:186} INFO - Started process (PID=28395) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:22:27.516+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:22:27.519+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:22:27.518+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:22:27.531+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:22:27.558+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:22:27.558+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:22:27.580+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:22:27.579+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:22:27.609+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.105 seconds
+[2025-10-10T22:23:27.164+0300] {processor.py:186} INFO - Started process (PID=28714) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:23:27.170+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:23:27.173+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:27.172+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:23:27.186+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:23:27.206+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:27.206+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:23:27.229+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:27.229+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:23:27.260+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.104 seconds
+[2025-10-10T22:24:39.824+0300] {processor.py:186} INFO - Started process (PID=29494) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:24:39.828+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:24:39.832+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:24:39.831+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:24:39.844+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:24:39.875+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:24:39.875+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:24:39.902+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:24:39.902+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:24:39.931+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.112 seconds
+[2025-10-10T22:25:40.888+0300] {processor.py:186} INFO - Started process (PID=29829) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:25:40.894+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:25:40.897+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:40.896+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:25:40.907+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:25:40.925+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:40.925+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:25:40.947+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:40.947+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:25:40.975+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.094 seconds
+[2025-10-10T22:26:40.008+0300] {processor.py:186} INFO - Started process (PID=30278) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:26:40.017+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:26:40.023+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:40.023+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:26:40.035+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:26:40.055+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:40.055+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:26:40.080+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:40.080+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:26:40.128+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.138 seconds
+[2025-10-10T22:29:21.312+0300] {processor.py:186} INFO - Started process (PID=31310) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:29:21.318+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:29:21.321+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:21.321+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:29:21.333+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:29:21.359+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:21.359+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:29:21.379+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:21.379+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:29:21.409+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.102 seconds
+[2025-10-10T22:32:18.973+0300] {processor.py:186} INFO - Started process (PID=31963) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:32:18.974+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:32:18.977+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:18.976+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:32:18.988+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:32:19.016+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:19.016+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:32:19.038+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:19.038+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:32:19.069+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T22:33:17.369+0300] {processor.py:186} INFO - Started process (PID=32586) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:33:17.375+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:33:17.378+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:17.377+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:33:17.389+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:33:17.408+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:17.408+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:33:17.433+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:17.433+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:33:17.475+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.112 seconds
+[2025-10-10T22:34:12.006+0300] {processor.py:186} INFO - Started process (PID=32788) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:34:12.008+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:34:12.011+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:12.010+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:34:12.022+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:34:12.041+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:12.041+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:34:12.065+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:12.065+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:34:12.100+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T22:35:08.334+0300] {processor.py:186} INFO - Started process (PID=33195) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:35:08.341+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:35:08.343+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:08.343+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:35:08.356+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:35:08.376+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:08.376+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:35:08.398+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:08.397+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:35:08.429+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.102 seconds
+[2025-10-10T22:36:14.811+0300] {processor.py:186} INFO - Started process (PID=34006) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:36:14.812+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:36:14.814+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:14.814+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:36:14.826+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:36:14.846+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:14.846+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:36:14.871+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:14.871+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:36:14.900+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.096 seconds
+[2025-10-10T22:37:12.294+0300] {processor.py:186} INFO - Started process (PID=34867) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:37:12.296+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:37:12.298+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:12.298+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:37:12.309+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:37:12.330+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:12.329+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:37:12.353+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:12.353+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:37:12.386+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T22:38:08.836+0300] {processor.py:186} INFO - Started process (PID=35696) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:38:08.842+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:38:08.845+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:08.844+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:38:08.857+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:38:08.877+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:08.877+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:38:08.899+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:08.899+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:38:08.924+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.093 seconds
+[2025-10-10T22:39:12.526+0300] {processor.py:186} INFO - Started process (PID=36622) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:39:12.532+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:39:12.534+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:12.534+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:39:12.547+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:39:12.567+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:12.567+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:39:12.589+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:12.588+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:39:12.619+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T22:40:14.744+0300] {processor.py:186} INFO - Started process (PID=37444) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:40:14.750+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:40:14.753+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:40:14.752+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:40:14.765+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:40:14.786+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:40:14.785+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:40:14.807+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:40:14.807+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:40:14.838+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.102 seconds
+[2025-10-10T22:41:24.452+0300] {processor.py:186} INFO - Started process (PID=38331) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:41:24.458+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:41:24.461+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:24.461+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:41:24.473+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:41:24.492+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:24.491+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:41:24.515+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:24.514+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:41:24.545+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T22:42:22.644+0300] {processor.py:186} INFO - Started process (PID=39073) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:42:22.650+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:42:22.653+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:22.653+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:42:22.666+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:42:22.686+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:22.686+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:42:22.709+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:22.709+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:42:22.739+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.102 seconds
+[2025-10-10T22:43:22.431+0300] {processor.py:186} INFO - Started process (PID=39606) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:43:22.437+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:43:22.440+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:43:22.440+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:43:22.453+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:43:22.473+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:43:22.473+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:43:22.495+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:43:22.495+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:43:22.525+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T22:44:23.196+0300] {processor.py:186} INFO - Started process (PID=40473) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:44:23.202+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:44:23.205+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:23.204+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:44:23.217+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:44:23.238+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:23.238+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:44:23.268+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:23.268+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:44:23.300+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.111 seconds
+[2025-10-10T22:45:23.121+0300] {processor.py:186} INFO - Started process (PID=41309) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:45:23.122+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:45:23.128+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:23.124+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:45:23.140+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:45:23.163+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:23.163+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:45:23.187+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:23.186+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:45:23.216+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.112 seconds
+[2025-10-10T22:46:21.237+0300] {processor.py:186} INFO - Started process (PID=41834) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:46:21.243+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:46:21.246+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:21.246+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:46:21.257+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:46:21.276+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:21.276+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:46:21.298+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:21.297+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:46:21.328+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.098 seconds
+[2025-10-10T22:47:22.643+0300] {processor.py:186} INFO - Started process (PID=42426) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:47:22.649+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:47:22.651+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:22.651+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:47:22.662+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:47:22.682+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:22.682+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:47:22.706+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:22.706+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:47:22.739+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.102 seconds
+[2025-10-10T22:48:19.403+0300] {processor.py:186} INFO - Started process (PID=42668) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:48:19.410+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:48:19.412+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:19.412+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:48:19.425+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:48:19.445+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:19.445+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:48:19.467+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:19.467+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:48:19.497+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T22:49:14.549+0300] {processor.py:186} INFO - Started process (PID=42978) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:49:14.550+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:49:14.553+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:14.552+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:49:14.565+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:49:14.588+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:14.588+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:49:14.619+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:14.619+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:49:14.654+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.113 seconds
+[2025-10-10T22:50:12.814+0300] {processor.py:186} INFO - Started process (PID=43264) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:50:12.815+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:50:12.817+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:12.817+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:50:12.827+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:50:12.845+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:12.845+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:50:12.867+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:12.866+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:50:12.897+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.092 seconds
+[2025-10-10T22:51:10.505+0300] {processor.py:186} INFO - Started process (PID=43653) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:51:10.511+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:51:10.514+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:10.513+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:51:10.525+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:51:10.545+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:10.545+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:51:10.567+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:10.566+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:51:10.596+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.100 seconds
+[2025-10-10T22:52:07.903+0300] {processor.py:186} INFO - Started process (PID=43917) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:52:07.909+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:52:07.912+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:07.911+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:52:07.922+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:52:07.942+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:07.942+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:52:07.970+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:07.969+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:52:08.001+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.104 seconds
+[2025-10-10T22:53:17.636+0300] {processor.py:186} INFO - Started process (PID=44601) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:53:17.643+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:53:17.645+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:17.645+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:53:17.658+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:53:17.678+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:17.677+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:53:17.700+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:17.699+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:53:17.730+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.102 seconds
+[2025-10-10T22:54:19.838+0300] {processor.py:186} INFO - Started process (PID=45095) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:54:19.844+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:54:19.847+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:19.846+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:54:19.857+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:54:19.876+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:19.876+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:54:19.900+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:19.899+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:54:19.931+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.099 seconds
+[2025-10-10T22:55:20.062+0300] {processor.py:186} INFO - Started process (PID=45402) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:55:20.068+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:55:20.071+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:20.070+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:55:20.083+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:55:20.104+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:20.103+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:55:20.125+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:20.125+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:55:20.156+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-10T22:56:24.590+0300] {processor.py:186} INFO - Started process (PID=45855) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:56:24.593+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:56:24.600+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:56:24.599+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:56:24.613+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:56:24.633+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:56:24.632+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:56:24.657+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:56:24.657+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:56:24.691+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.108 seconds
+[2025-10-10T22:57:25.327+0300] {processor.py:186} INFO - Started process (PID=46176) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:57:25.329+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:57:25.331+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:25.331+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:57:25.343+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:57:25.363+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:25.363+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:57:25.385+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:25.385+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:57:25.410+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.090 seconds
+[2025-10-10T22:58:20.230+0300] {processor.py:186} INFO - Started process (PID=46813) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:58:20.236+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:58:20.239+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:20.239+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:58:20.250+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:58:20.273+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:20.273+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:58:20.298+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:20.298+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:58:20.333+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.110 seconds
+[2025-10-10T22:59:22.563+0300] {processor.py:186} INFO - Started process (PID=47239) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:59:22.564+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T22:59:22.567+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:22.566+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:59:22.578+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T22:59:22.599+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:22.599+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:59:22.625+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:22.624+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T22:59:22.653+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.097 seconds
+[2025-10-10T23:00:22.237+0300] {processor.py:186} INFO - Started process (PID=47496) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:00:22.244+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T23:00:22.247+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:22.246+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:00:22.259+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:00:22.279+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:22.279+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:00:22.306+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:22.305+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T23:00:22.338+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.109 seconds
+[2025-10-10T23:01:30.903+0300] {processor.py:186} INFO - Started process (PID=48437) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:01:30.904+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T23:01:30.906+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:30.906+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:01:30.919+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:01:31.059+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:31.058+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_xcom
+[2025-10-10T23:01:31.075+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:31.074+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:example_xcom
+[2025-10-10T23:01:31.088+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:31.087+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_xcom
+[2025-10-10T23:01:31.107+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:31.107+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_xcom
+[2025-10-10T23:01:31.120+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:31.120+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_xcom
+[2025-10-10T23:01:31.133+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:31.133+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_xcom
+[2025-10-10T23:01:31.145+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:31.145+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_xcom
+[2025-10-10T23:01:31.146+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:31.145+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:01:31.159+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:31.159+0300] {dag.py:3262} INFO - Creating ORM DAG for example_xcom
+[2025-10-10T23:01:31.170+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:31.169+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T23:01:31.193+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.297 seconds
+[2025-10-10T23:02:41.296+0300] {processor.py:186} INFO - Started process (PID=48772) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:02:41.302+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T23:02:41.305+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:41.305+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:02:41.316+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:02:41.335+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:41.335+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:02:41.359+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:41.358+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T23:02:41.393+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.103 seconds
+[2025-10-10T23:03:39.695+0300] {processor.py:186} INFO - Started process (PID=49543) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:03:39.701+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T23:03:39.703+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:39.703+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:03:39.714+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:03:39.732+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:39.732+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:03:39.754+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:39.754+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T23:03:39.785+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.096 seconds
+[2025-10-10T23:04:37.213+0300] {processor.py:186} INFO - Started process (PID=50055) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:04:37.219+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T23:04:37.222+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:37.222+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:04:37.233+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:04:37.253+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:37.253+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:04:37.278+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:37.278+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T23:04:37.312+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.105 seconds
+[2025-10-10T23:05:41.104+0300] {processor.py:186} INFO - Started process (PID=50689) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:05:41.111+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T23:05:41.114+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:41.113+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:05:41.126+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:05:41.147+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:41.146+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:05:41.168+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:41.168+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T23:05:41.199+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.102 seconds
+[2025-10-10T23:06:42.163+0300] {processor.py:186} INFO - Started process (PID=50998) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:06:42.169+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-10T23:06:42.172+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:42.171+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:06:42.185+0300] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-10T23:06:42.205+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:42.205+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:06:42.226+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:42.226+0300] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-10-10T23:06:42.259+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.102 seconds

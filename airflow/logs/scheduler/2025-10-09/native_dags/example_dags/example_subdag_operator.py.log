@@ -1,0 +1,118 @@
+[2025-10-09T23:47:20.622+0300] {processor.py:186} INFO - Started process (PID=44607) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:47:20.623+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-09T23:47:20.625+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.625+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:47:20.650+0300] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:47:20.781+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.781+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_subdag_operator
+[2025-10-09T23:47:20.798+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.798+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:example_subdag_operator
+[2025-10-09T23:47:20.812+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.812+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_subdag_operator
+[2025-10-09T23:47:20.833+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.833+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_subdag_operator
+[2025-10-09T23:47:20.845+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.845+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_subdag_operator
+[2025-10-09T23:47:20.858+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.857+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_subdag_operator
+[2025-10-09T23:47:20.870+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.870+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_subdag_operator
+[2025-10-09T23:47:20.870+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.870+0300] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-10-09T23:47:20.883+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.883+0300] {dag.py:3262} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2025-10-09T23:47:20.884+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.884+0300] {dag.py:3262} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2025-10-09T23:47:20.884+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.884+0300] {dag.py:3262} INFO - Creating ORM DAG for example_subdag_operator
+[2025-10-09T23:47:20.893+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.892+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-10-09T23:47:20.893+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.893+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:47:20.894+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.893+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:47:20.900+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.899+0300] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-10-09T23:47:20.904+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.903+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:47:20.906+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:20.906+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:47:20.926+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.314 seconds
+[2025-10-09T23:48:59.482+0300] {processor.py:186} INFO - Started process (PID=45149) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:48:59.488+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-09T23:48:59.491+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:59.490+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:48:59.517+0300] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:48:59.537+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:59.536+0300] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-10-09T23:48:59.558+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:59.558+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-10-09T23:48:59.562+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:59.562+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:48:59.563+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:59.562+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:48:59.568+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:59.568+0300] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-10-09T23:48:59.573+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:59.572+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:48:59.573+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:59.573+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:48:59.596+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.121 seconds
+[2025-10-09T23:49:59.037+0300] {processor.py:186} INFO - Started process (PID=45584) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:49:59.043+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-09T23:49:59.045+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:59.045+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:49:59.075+0300] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:49:59.094+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:59.094+0300] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-10-09T23:49:59.117+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:59.117+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-10-09T23:49:59.122+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:59.122+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:49:59.123+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:59.123+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:49:59.129+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:59.129+0300] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-10-09T23:49:59.134+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:59.133+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:49:59.134+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:59.134+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:49:59.158+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.128 seconds
+[2025-10-09T23:50:55.871+0300] {processor.py:186} INFO - Started process (PID=45828) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:50:55.877+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-09T23:50:55.880+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:55.879+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:50:55.905+0300] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:50:55.923+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:55.922+0300] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-10-09T23:50:55.945+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:55.944+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-10-09T23:50:55.948+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:55.948+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:50:55.949+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:55.949+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:50:55.954+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:55.954+0300] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-10-09T23:50:55.958+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:55.958+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:50:55.959+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:55.959+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:50:55.980+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.118 seconds
+[2025-10-09T23:51:50.778+0300] {processor.py:186} INFO - Started process (PID=46234) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:51:50.784+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-09T23:51:50.786+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:50.786+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:51:50.811+0300] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:51:50.828+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:50.828+0300] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-10-09T23:51:50.850+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:50.850+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-10-09T23:51:50.854+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:50.853+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:51:50.855+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:50.854+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:51:50.862+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:50.861+0300] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-10-09T23:51:50.866+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:50.866+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:51:50.866+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:50.866+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:51:50.888+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.116 seconds
+[2025-10-09T23:52:44.408+0300] {processor.py:186} INFO - Started process (PID=46481) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:52:44.414+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-09T23:52:44.417+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:44.417+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:52:44.443+0300] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:52:44.460+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:44.460+0300] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-10-09T23:52:44.484+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:44.484+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-10-09T23:52:44.488+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:44.488+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:52:44.489+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:44.489+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:52:44.496+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:44.495+0300] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-10-09T23:52:44.500+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:44.500+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:52:44.501+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:44.500+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:52:44.524+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.121 seconds
+[2025-10-09T23:53:38.320+0300] {processor.py:186} INFO - Started process (PID=46721) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:53:38.326+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-09T23:53:38.329+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:38.328+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:53:38.354+0300] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:53:38.371+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:38.370+0300] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-10-09T23:53:38.394+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:38.393+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-10-09T23:53:38.397+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:38.397+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:53:38.398+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:38.398+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:53:38.405+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:38.404+0300] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-10-09T23:53:38.410+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:38.409+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:53:38.410+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:38.410+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:53:38.437+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.123 seconds
+[2025-10-09T23:54:38.388+0300] {processor.py:186} INFO - Started process (PID=47257) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:54:38.394+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-09T23:54:38.397+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:38.396+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:54:38.422+0300] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:54:38.440+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:38.440+0300] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-10-09T23:54:38.464+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:38.464+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-10-09T23:54:38.468+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:38.467+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:54:38.469+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:38.469+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:54:38.478+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:38.478+0300] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-10-09T23:54:38.482+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:38.482+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:54:38.483+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:38.483+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:54:38.509+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.129 seconds
+[2025-10-09T23:55:35.939+0300] {processor.py:186} INFO - Started process (PID=47607) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:55:35.945+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-09T23:55:35.949+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:35.948+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:55:35.977+0300] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-09T23:55:35.996+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:35.996+0300] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-10-09T23:55:36.019+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:36.018+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-10-09T23:55:36.022+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:36.022+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:55:36.023+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:36.023+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:55:36.029+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:36.029+0300] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-10-09T23:55:36.033+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:36.033+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-09T23:55:36.033+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:36.033+0300] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-09T23:55:36.056+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.124 seconds

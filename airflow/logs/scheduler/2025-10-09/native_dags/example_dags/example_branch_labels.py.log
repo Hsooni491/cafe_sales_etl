@@ -1,0 +1,50 @@
+[2025-10-09T23:49:35.210+0300] {processor.py:186} INFO - Started process (PID=45392) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:49:35.211+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-09T23:49:35.213+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.213+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:49:35.226+0300] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:49:35.355+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.354+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2025-10-09T23:49:35.372+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.372+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2025-10-09T23:49:35.386+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.385+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2025-10-09T23:49:35.408+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.408+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_branch_labels
+[2025-10-09T23:49:35.421+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.421+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_branch_labels
+[2025-10-09T23:49:35.434+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.434+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_branch_labels
+[2025-10-09T23:49:35.448+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.448+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_branch_labels
+[2025-10-09T23:49:35.448+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.448+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:49:35.462+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.461+0300] {dag.py:3262} INFO - Creating ORM DAG for example_branch_labels
+[2025-10-09T23:49:35.472+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:35.472+0300] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-10-08 00:00:00+00:00, run_after=2025-10-09 00:00:00+00:00
+[2025-10-09T23:49:35.512+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.310 seconds
+[2025-10-09T23:50:34.293+0300] {processor.py:186} INFO - Started process (PID=45709) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:50:34.294+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-09T23:50:34.296+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:34.296+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:50:34.307+0300] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:50:34.326+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:34.326+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:50:34.355+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:34.354+0300] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-10-08 00:00:00+00:00, run_after=2025-10-09 00:00:00+00:00
+[2025-10-09T23:50:34.387+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.101 seconds
+[2025-10-09T23:51:31.508+0300] {processor.py:186} INFO - Started process (PID=46134) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:51:31.514+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-09T23:51:31.516+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:31.516+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:51:31.529+0300] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:51:31.549+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:31.549+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:51:31.576+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:31.575+0300] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-10-08 00:00:00+00:00, run_after=2025-10-09 00:00:00+00:00
+[2025-10-09T23:51:31.612+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.111 seconds
+[2025-10-09T23:52:52.824+0300] {processor.py:186} INFO - Started process (PID=46515) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:52:52.830+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-09T23:52:52.832+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:52.832+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:52:52.843+0300] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:52:52.861+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:52.861+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:52:52.885+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:52.884+0300] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-10-08 00:00:00+00:00, run_after=2025-10-09 00:00:00+00:00
+[2025-10-09T23:52:52.913+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.096 seconds
+[2025-10-09T23:54:15.036+0300] {processor.py:186} INFO - Started process (PID=47028) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:54:15.042+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-09T23:54:15.051+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:15.050+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:54:15.086+0300] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:54:15.152+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:15.152+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:54:15.193+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:15.193+0300] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-10-08 00:00:00+00:00, run_after=2025-10-09 00:00:00+00:00
+[2025-10-09T23:54:15.248+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.245 seconds
+[2025-10-09T23:55:15.172+0300] {processor.py:186} INFO - Started process (PID=47473) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:55:15.178+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-09T23:55:15.181+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:15.180+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:55:15.194+0300] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-09T23:55:15.214+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:15.214+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:55:15.238+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:15.237+0300] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-10-08 00:00:00+00:00, run_after=2025-10-09 00:00:00+00:00
+[2025-10-09T23:55:15.266+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.102 seconds

@@ -1,0 +1,43 @@
+[2025-10-09T23:49:40.291+0300] {processor.py:186} INFO - Started process (PID=45454) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:49:40.292+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-10-09T23:49:40.294+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.294+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:49:40.316+0300] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:49:40.483+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.482+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_bash_decorator
+[2025-10-09T23:49:40.503+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.503+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:example_bash_decorator
+[2025-10-09T23:49:40.524+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.523+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_bash_decorator
+[2025-10-09T23:49:40.552+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.552+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_bash_decorator
+[2025-10-09T23:49:40.568+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.568+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_bash_decorator
+[2025-10-09T23:49:40.585+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.584+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_bash_decorator
+[2025-10-09T23:49:40.600+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.599+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_bash_decorator
+[2025-10-09T23:49:40.600+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.600+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:49:40.618+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.618+0300] {dag.py:3262} INFO - Creating ORM DAG for example_bash_decorator
+[2025-10-09T23:49:40.620+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:40.620+0300] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-10-09T23:49:40.647+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py took 0.365 seconds
+[2025-10-09T23:50:39.229+0300] {processor.py:186} INFO - Started process (PID=45730) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:50:39.235+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-10-09T23:50:39.237+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:39.237+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:50:39.255+0300] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:50:39.281+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:39.280+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:50:39.298+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:39.297+0300] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-10-09T23:50:39.328+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py took 0.106 seconds
+[2025-10-09T23:51:59.938+0300] {processor.py:186} INFO - Started process (PID=46266) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:51:59.944+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-10-09T23:51:59.946+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:59.946+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:51:59.963+0300] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:51:59.985+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:59.984+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:51:59.999+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:59.999+0300] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-10-09T23:52:00.030+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py took 0.098 seconds
+[2025-10-09T23:53:21.543+0300] {processor.py:186} INFO - Started process (PID=46643) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:53:21.549+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-10-09T23:53:21.551+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:21.551+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:53:21.568+0300] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:53:21.591+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:21.591+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:53:21.606+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:21.605+0300] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-10-09T23:53:21.636+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py took 0.099 seconds
+[2025-10-09T23:54:50.523+0300] {processor.py:186} INFO - Started process (PID=47328) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:54:50.525+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2025-10-09T23:54:50.527+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:50.527+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:54:50.545+0300] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py
+[2025-10-09T23:54:50.567+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:50.567+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:54:50.583+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:50.583+0300] {dag.py:4180} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2025-10-09T23:54:50.614+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_decorator.py took 0.097 seconds

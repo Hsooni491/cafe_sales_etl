@@ -1,0 +1,302 @@
+[2025-10-11T11:51:17.696+0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-10-11T11:51:17.708+0300] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: cafe_sales_etl.load_to_postgres scheduled__2025-10-10T00:00:00+00:00 [queued]>
+[2025-10-11T11:51:17.713+0300] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: cafe_sales_etl.load_to_postgres scheduled__2025-10-10T00:00:00+00:00 [queued]>
+[2025-10-11T11:51:17.713+0300] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-10-11T11:51:17.733+0300] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): load_to_postgres> on 2025-10-10 00:00:00+00:00
+[2025-10-11T11:51:17.738+0300] {standard_task_runner.py:72} INFO - Started process 6138 to run task
+[2025-10-11T11:51:17.741+0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'cafe_sales_etl', 'load_to_postgres', 'scheduled__2025-10-10T00:00:00+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/cafe_sales_etl_dag.py', '--cfg-path', '/tmp/tmp7rex6a7p']
+[2025-10-11T11:51:17.741+0300] {standard_task_runner.py:105} INFO - Job 6: Subtask load_to_postgres
+[2025-10-11T11:51:17.787+0300] {task_command.py:467} INFO - Running <TaskInstance: cafe_sales_etl.load_to_postgres scheduled__2025-10-10T00:00:00+00:00 [running]> on host archlinux
+[2025-10-11T11:51:17.858+0300] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='cafe_sales_etl' AIRFLOW_CTX_TASK_ID='load_to_postgres' AIRFLOW_CTX_EXECUTION_DATE='2025-10-10T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-10-10T00:00:00+00:00'
+[2025-10-11T11:51:17.859+0300] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-10-11T11:51:17.860+0300] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-10-11T11:51:17.860+0300] {logging_mixin.py:190} INFO - Current task name:load_to_postgres state:running start_date:2025-10-11 08:51:17.708283+00:00
+[2025-10-11T11:51:17.860+0300] {logging_mixin.py:190} INFO - Dag name:cafe_sales_etl and current dag run status:running
+[2025-10-11T11:51:17.860+0300] {taskinstance.py:731} INFO - ::endgroup::
+[2025-10-11T11:51:17.888+0300] {logging_mixin.py:190} WARNING - /home/hsooni/cafe_sales_etl/airflow/dags/cafe_sales_etl_dag.py:60 FutureWarning: Passing literal json to 'read_json' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+[2025-10-11T11:51:17.966+0300] {logging_mixin.py:190} WARNING - /home/hsooni/cafe_sales_etl/utils/pipeline_utils.py:60 UserWarning: pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.
+[2025-10-11T11:51:17.970+0300] {taskinstance.py:3310} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/hsooni/cafe_sales_etl/utils/pipeline_utils.py", line 60, in load_to_postgres
+    df.to_sql(table_name, con=connection, if_exists='replace', index=False, method='multi')
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/core/generic.py", line 3087, in to_sql
+    return sql.to_sql(
+           ^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 842, in to_sql
+    return pandas_sql.to_sql(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 2850, in to_sql
+    table.create()
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 984, in create
+    if self.exists():
+       ^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 970, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 2865, in has_table
+    return len(self.execute(query, [name]).fetchall()) > 0
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 2672, in execute
+    cur = self.con.cursor()
+          ^^^^^^^^^^^^^^^
+AttributeError: 'Connection' object has no attribute 'cursor'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/operators/python.py", line 238, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/operators/python.py", line 256, in execute_callable
+    return runner.run(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/airflow/dags/cafe_sales_etl_dag.py", line 61, in load_task
+    load_to_postgres(df)
+  File "/home/hsooni/cafe_sales_etl/utils/pipeline_utils.py", line 65, in load_to_postgres
+    raise RuntimeError(f"❌ Failed to load data into PostgreSQL: {e}")
+RuntimeError: ❌ Failed to load data into PostgreSQL: 'Connection' object has no attribute 'cursor'
+[2025-10-11T11:51:17.986+0300] {logging_mixin.py:190} INFO - Task instance in failure state
+[2025-10-11T11:51:17.986+0300] {logging_mixin.py:190} INFO - Task start:2025-10-11 08:51:17.708283+00:00 end:2025-10-11 08:51:17.985423+00:00 duration:0.27714
+[2025-10-11T11:51:17.986+0300] {logging_mixin.py:190} INFO - Task:<Task(PythonOperator): load_to_postgres> dag:<DAG: cafe_sales_etl> dagrun:<DagRun cafe_sales_etl @ 2025-10-10 00:00:00+00:00: scheduled__2025-10-10T00:00:00+00:00, state:running, queued_at: 2025-10-11 08:50:59.717963+00:00. externally triggered: False>
+[2025-10-11T11:51:17.986+0300] {logging_mixin.py:190} INFO - Failure caused by ❌ Failed to load data into PostgreSQL: 'Connection' object has no attribute 'cursor'
+[2025-10-11T11:51:17.987+0300] {taskinstance.py:1225} INFO - Marking task as UP_FOR_RETRY. dag_id=cafe_sales_etl, task_id=load_to_postgres, run_id=scheduled__2025-10-10T00:00:00+00:00, execution_date=20251010T000000, start_date=20251011T085117, end_date=20251011T085117
+[2025-10-11T11:51:18.004+0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-10-11T11:51:18.005+0300] {standard_task_runner.py:124} ERROR - Failed to execute job 6 for task load_to_postgres (❌ Failed to load data into PostgreSQL: 'Connection' object has no attribute 'cursor'; 6138)
+Traceback (most recent call last):
+  File "/home/hsooni/cafe_sales_etl/utils/pipeline_utils.py", line 60, in load_to_postgres
+    df.to_sql(table_name, con=connection, if_exists='replace', index=False, method='multi')
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/core/generic.py", line 3087, in to_sql
+    return sql.to_sql(
+           ^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 842, in to_sql
+    return pandas_sql.to_sql(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 2850, in to_sql
+    table.create()
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 984, in create
+    if self.exists():
+       ^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 970, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 2865, in has_table
+    return len(self.execute(query, [name]).fetchall()) > 0
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/pandas/io/sql.py", line 2672, in execute
+    cur = self.con.cursor()
+          ^^^^^^^^^^^^^^^
+AttributeError: 'Connection' object has no attribute 'cursor'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/cli.py", line 115, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3004, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3158, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3182, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/operators/python.py", line 238, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/operators/python.py", line 256, in execute_callable
+    return runner.run(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/airflow/dags/cafe_sales_etl_dag.py", line 61, in load_task
+    load_to_postgres(df)
+  File "/home/hsooni/cafe_sales_etl/utils/pipeline_utils.py", line 65, in load_to_postgres
+    raise RuntimeError(f"❌ Failed to load data into PostgreSQL: {e}")
+RuntimeError: ❌ Failed to load data into PostgreSQL: 'Connection' object has no attribute 'cursor'
+[2025-10-11T11:51:18.033+0300] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2025-10-11T11:51:18.053+0300] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-10-11T11:51:18.054+0300] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2025-10-11T13:04:38.861+0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-10-11T13:04:38.873+0300] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: cafe_sales_etl.load_to_postgres scheduled__2025-10-10T00:00:00+00:00 [queued]>
+[2025-10-11T13:04:38.879+0300] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: cafe_sales_etl.load_to_postgres scheduled__2025-10-10T00:00:00+00:00 [queued]>
+[2025-10-11T13:04:38.879+0300] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2025-10-11T13:04:38.899+0300] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): load_to_postgres> on 2025-10-10 00:00:00+00:00
+[2025-10-11T13:04:38.905+0300] {standard_task_runner.py:72} INFO - Started process 23199 to run task
+[2025-10-11T13:04:38.908+0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'cafe_sales_etl', 'load_to_postgres', 'scheduled__2025-10-10T00:00:00+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/cafe_sales_etl_dag.py', '--cfg-path', '/tmp/tmp6txw0a7n']
+[2025-10-11T13:04:38.908+0300] {standard_task_runner.py:105} INFO - Job 4: Subtask load_to_postgres
+[2025-10-11T13:04:38.953+0300] {task_command.py:467} INFO - Running <TaskInstance: cafe_sales_etl.load_to_postgres scheduled__2025-10-10T00:00:00+00:00 [running]> on host archlinux
+[2025-10-11T13:04:39.027+0300] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='cafe_sales_etl' AIRFLOW_CTX_TASK_ID='load_to_postgres' AIRFLOW_CTX_EXECUTION_DATE='2025-10-10T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-10-10T00:00:00+00:00'
+[2025-10-11T13:04:39.029+0300] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-10-11T13:04:39.029+0300] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-10-11T13:04:39.029+0300] {logging_mixin.py:190} INFO - Current task name:load_to_postgres state:running start_date:2025-10-11 10:04:38.873775+00:00
+[2025-10-11T13:04:39.029+0300] {logging_mixin.py:190} INFO - Dag name:cafe_sales_etl and current dag run status:running
+[2025-10-11T13:04:39.030+0300] {taskinstance.py:731} INFO - ::endgroup::
+[2025-10-11T13:04:39.114+0300] {taskinstance.py:3310} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/hsooni/cafe_sales_etl/utils/pipeline_utils.py", line 61, in load_to_postgres
+    conn.commit()
+    ^^^^^^^^^^^
+AttributeError: 'Connection' object has no attribute 'commit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/operators/python.py", line 238, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/operators/python.py", line 256, in execute_callable
+    return runner.run(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/airflow/dags/cafe_sales_etl_dag.py", line 74, in load_task
+    load_to_postgres(df)
+  File "/home/hsooni/cafe_sales_etl/utils/pipeline_utils.py", line 70, in load_to_postgres
+    raise RuntimeError(f"❌ Failed to load data into PostgreSQL: {e}")
+RuntimeError: ❌ Failed to load data into PostgreSQL: 'Connection' object has no attribute 'commit'
+[2025-10-11T13:04:39.124+0300] {logging_mixin.py:190} INFO - Task instance in failure state
+[2025-10-11T13:04:39.125+0300] {logging_mixin.py:190} INFO - Task start:2025-10-11 10:04:38.873775+00:00 end:2025-10-11 10:04:39.124312+00:00 duration:0.250537
+[2025-10-11T13:04:39.125+0300] {logging_mixin.py:190} INFO - Task:<Task(PythonOperator): load_to_postgres> dag:<DAG: cafe_sales_etl> dagrun:<DagRun cafe_sales_etl @ 2025-10-10 00:00:00+00:00: scheduled__2025-10-10T00:00:00+00:00, state:running, queued_at: 2025-10-11 10:04:27.599759+00:00. externally triggered: False>
+[2025-10-11T13:04:39.125+0300] {logging_mixin.py:190} INFO - Failure caused by ❌ Failed to load data into PostgreSQL: 'Connection' object has no attribute 'commit'
+[2025-10-11T13:04:39.125+0300] {taskinstance.py:1225} INFO - Marking task as UP_FOR_RETRY. dag_id=cafe_sales_etl, task_id=load_to_postgres, run_id=scheduled__2025-10-10T00:00:00+00:00, execution_date=20251010T000000, start_date=20251011T100438, end_date=20251011T100439
+[2025-10-11T13:04:39.143+0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-10-11T13:04:39.143+0300] {standard_task_runner.py:124} ERROR - Failed to execute job 4 for task load_to_postgres (❌ Failed to load data into PostgreSQL: 'Connection' object has no attribute 'commit'; 23199)
+Traceback (most recent call last):
+  File "/home/hsooni/cafe_sales_etl/utils/pipeline_utils.py", line 61, in load_to_postgres
+    conn.commit()
+    ^^^^^^^^^^^
+AttributeError: 'Connection' object has no attribute 'commit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/cli.py", line 115, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3004, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 273, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3158, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3182, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 767, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 733, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/operators/python.py", line 238, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/operators/python.py", line 256, in execute_callable
+    return runner.run(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hsooni/cafe_sales_etl/airflow/dags/cafe_sales_etl_dag.py", line 74, in load_task
+    load_to_postgres(df)
+  File "/home/hsooni/cafe_sales_etl/utils/pipeline_utils.py", line 70, in load_to_postgres
+    raise RuntimeError(f"❌ Failed to load data into PostgreSQL: {e}")
+RuntimeError: ❌ Failed to load data into PostgreSQL: 'Connection' object has no attribute 'commit'
+[2025-10-11T13:04:39.160+0300] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2025-10-11T13:04:39.179+0300] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-10-11T13:04:39.180+0300] {local_task_job_runner.py:245} INFO - ::endgroup::

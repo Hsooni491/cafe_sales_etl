@@ -1,0 +1,968 @@
+[2025-10-11T11:51:26.595+0300] {processor.py:186} INFO - Started process (PID=6243) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:51:26.596+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T11:51:26.599+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.598+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:51:26.610+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:51:26.745+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.744+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2025-10-11T11:51:26.762+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.762+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2025-10-11T11:51:26.776+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.776+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2025-10-11T11:51:26.799+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.799+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_sla_dag
+[2025-10-11T11:51:26.812+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.812+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_sla_dag
+[2025-10-11T11:51:26.825+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.825+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_sla_dag
+[2025-10-11T11:51:26.840+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.840+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_sla_dag
+[2025-10-11T11:51:26.841+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.841+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T11:51:26.857+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.857+0300] {dag.py:3262} INFO - Creating ORM DAG for example_sla_dag
+[2025-10-11T11:51:26.871+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:51:26.871+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 08:48:00+00:00, run_after=2025-10-11 08:50:00+00:00
+[2025-10-11T11:51:26.893+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.304 seconds
+[2025-10-11T11:52:38.509+0300] {processor.py:186} INFO - Started process (PID=6948) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:52:38.510+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T11:52:38.512+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:52:38.512+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:52:38.524+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:52:38.541+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:52:38.540+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T11:52:38.567+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:52:38.567+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 08:50:00+00:00, run_after=2025-10-11 08:52:00+00:00
+[2025-10-11T11:52:38.596+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.094 seconds
+[2025-10-11T11:53:40.758+0300] {processor.py:186} INFO - Started process (PID=7317) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:53:40.764+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T11:53:40.768+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:53:40.767+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:53:40.781+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:53:40.799+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:53:40.798+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T11:53:40.824+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:53:40.824+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 08:50:00+00:00, run_after=2025-10-11 08:52:00+00:00
+[2025-10-11T11:53:40.853+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.101 seconds
+[2025-10-11T11:54:53.609+0300] {processor.py:186} INFO - Started process (PID=8066) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:54:53.615+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T11:54:53.618+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:54:53.618+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:54:53.630+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:54:53.647+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:54:53.647+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T11:54:53.674+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:54:53.674+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 08:52:00+00:00, run_after=2025-10-11 08:54:00+00:00
+[2025-10-11T11:54:53.706+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T11:56:03.826+0300] {processor.py:186} INFO - Started process (PID=8751) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:56:03.827+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T11:56:03.830+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:56:03.830+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:56:03.843+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:56:03.861+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:56:03.860+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T11:56:03.888+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:56:03.888+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 08:54:00+00:00, run_after=2025-10-11 08:56:00+00:00
+[2025-10-11T11:56:03.915+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.097 seconds
+[2025-10-11T11:57:03.045+0300] {processor.py:186} INFO - Started process (PID=9421) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:57:03.051+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T11:57:03.054+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:57:03.053+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:57:03.066+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:57:03.087+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:57:03.087+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T11:57:03.114+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:57:03.113+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 08:54:00+00:00, run_after=2025-10-11 08:56:00+00:00
+[2025-10-11T11:57:03.145+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.106 seconds
+[2025-10-11T11:58:03.155+0300] {processor.py:186} INFO - Started process (PID=9654) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:58:03.161+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T11:58:03.163+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:58:03.163+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:58:03.175+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:58:03.192+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:58:03.191+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T11:58:03.218+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:58:03.218+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 08:56:00+00:00, run_after=2025-10-11 08:58:00+00:00
+[2025-10-11T11:58:03.249+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T11:59:05.025+0300] {processor.py:186} INFO - Started process (PID=9944) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:59:05.031+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T11:59:05.034+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:59:05.033+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:59:05.047+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T11:59:05.065+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:59:05.064+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T11:59:05.090+0300] {logging_mixin.py:190} INFO - [2025-10-11T11:59:05.090+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 08:56:00+00:00, run_after=2025-10-11 08:58:00+00:00
+[2025-10-11T11:59:05.119+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T12:00:08.068+0300] {processor.py:186} INFO - Started process (PID=10300) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:00:08.074+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:00:08.077+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:00:08.077+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:00:08.090+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:00:08.107+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:00:08.107+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:00:08.134+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:00:08.134+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 08:58:00+00:00, run_after=2025-10-11 09:00:00+00:00
+[2025-10-11T12:00:08.165+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2025-10-11T12:01:05.270+0300] {processor.py:186} INFO - Started process (PID=10600) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:01:05.277+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:01:05.279+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:01:05.279+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:01:05.293+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:01:05.311+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:01:05.310+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:01:05.336+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:01:05.336+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 08:58:00+00:00, run_after=2025-10-11 09:00:00+00:00
+[2025-10-11T12:01:05.364+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T12:02:01.625+0300] {processor.py:186} INFO - Started process (PID=10936) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:02:01.632+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:02:01.635+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:02:01.634+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:02:01.648+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:02:01.665+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:02:01.665+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:02:01.690+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:02:01.690+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:00:00+00:00, run_after=2025-10-11 09:02:00+00:00
+[2025-10-11T12:02:01.719+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T12:02:58.945+0300] {processor.py:186} INFO - Started process (PID=11198) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:02:58.952+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:02:58.955+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:02:58.954+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:02:58.968+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:02:58.986+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:02:58.986+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:02:59.012+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:02:59.011+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:00:00+00:00, run_after=2025-10-11 09:02:00+00:00
+[2025-10-11T12:02:59.040+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T12:03:59.811+0300] {processor.py:186} INFO - Started process (PID=11484) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:03:59.817+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:03:59.820+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:03:59.819+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:03:59.832+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:03:59.848+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:03:59.847+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:03:59.873+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:03:59.872+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:00:00+00:00, run_after=2025-10-11 09:02:00+00:00
+[2025-10-11T12:03:59.901+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.096 seconds
+[2025-10-11T12:04:55.704+0300] {processor.py:186} INFO - Started process (PID=11747) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:04:55.711+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:04:55.714+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:04:55.713+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:04:55.727+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:04:55.744+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:04:55.744+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:04:55.769+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:04:55.769+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:02:00+00:00, run_after=2025-10-11 09:04:00+00:00
+[2025-10-11T12:04:55.799+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T12:05:50.141+0300] {processor.py:186} INFO - Started process (PID=11986) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:05:50.147+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:05:50.151+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:05:50.150+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:05:50.164+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:05:50.181+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:05:50.181+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:05:50.206+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:05:50.206+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:02:00+00:00, run_after=2025-10-11 09:04:00+00:00
+[2025-10-11T12:05:50.235+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.101 seconds
+[2025-10-11T12:06:48.572+0300] {processor.py:186} INFO - Started process (PID=12289) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:06:48.578+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:06:48.581+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:06:48.581+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:06:48.595+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:06:48.612+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:06:48.612+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:06:48.638+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:06:48.637+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:04:00+00:00, run_after=2025-10-11 09:06:00+00:00
+[2025-10-11T12:06:48.666+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T12:07:46.611+0300] {processor.py:186} INFO - Started process (PID=12551) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:07:46.618+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:07:46.621+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:07:46.620+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:07:46.634+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:07:46.652+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:07:46.651+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:07:46.679+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:07:46.679+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:04:00+00:00, run_after=2025-10-11 09:06:00+00:00
+[2025-10-11T12:07:46.706+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T12:08:42.728+0300] {processor.py:186} INFO - Started process (PID=12823) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:08:42.734+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:08:42.737+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:08:42.737+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:08:42.751+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:08:42.768+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:08:42.768+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:08:42.794+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:08:42.794+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:06:00+00:00, run_after=2025-10-11 09:08:00+00:00
+[2025-10-11T12:08:42.822+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T12:09:40.056+0300] {processor.py:186} INFO - Started process (PID=13094) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:09:40.062+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:09:40.065+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:09:40.065+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:09:40.078+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:09:40.096+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:09:40.096+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:09:40.123+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:09:40.122+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:06:00+00:00, run_after=2025-10-11 09:08:00+00:00
+[2025-10-11T12:09:40.150+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T12:10:37.135+0300] {processor.py:186} INFO - Started process (PID=13368) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:10:37.142+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:10:37.145+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:10:37.144+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:10:37.158+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:10:37.176+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:10:37.175+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:10:37.202+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:10:37.202+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:08:00+00:00, run_after=2025-10-11 09:10:00+00:00
+[2025-10-11T12:10:37.227+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.099 seconds
+[2025-10-11T12:11:37.420+0300] {processor.py:186} INFO - Started process (PID=13673) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:11:37.426+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:11:37.429+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:11:37.429+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:11:37.443+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:11:37.461+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:11:37.460+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:11:37.487+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:11:37.487+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:08:00+00:00, run_after=2025-10-11 09:10:00+00:00
+[2025-10-11T12:11:37.516+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T12:44:35.123+0300] {processor.py:186} INFO - Started process (PID=14084) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:44:35.129+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:44:35.132+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:44:35.132+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:44:35.146+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:44:35.165+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:44:35.164+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:44:35.191+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:44:35.191+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:42:00+00:00, run_after=2025-10-11 09:44:00+00:00
+[2025-10-11T12:44:35.220+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.105 seconds
+[2025-10-11T12:45:37.240+0300] {processor.py:186} INFO - Started process (PID=15053) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:45:37.247+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:45:37.250+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:45:37.249+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:45:37.263+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:45:37.281+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:45:37.281+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:45:37.308+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:45:37.308+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:42:00+00:00, run_after=2025-10-11 09:44:00+00:00
+[2025-10-11T12:45:37.363+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.129 seconds
+[2025-10-11T12:46:33.984+0300] {processor.py:186} INFO - Started process (PID=15588) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:46:33.990+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:46:33.993+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:46:33.993+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:46:34.005+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:46:34.022+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:46:34.022+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:46:34.048+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:46:34.048+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:44:00+00:00, run_after=2025-10-11 09:46:00+00:00
+[2025-10-11T12:46:34.079+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T12:47:29.226+0300] {processor.py:186} INFO - Started process (PID=16142) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:47:29.232+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:47:29.236+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:47:29.235+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:47:29.249+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:47:29.267+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:47:29.267+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:47:29.296+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:47:29.295+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:44:00+00:00, run_after=2025-10-11 09:46:00+00:00
+[2025-10-11T12:47:29.327+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.107 seconds
+[2025-10-11T12:48:31.206+0300] {processor.py:186} INFO - Started process (PID=16876) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:48:31.212+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:48:31.214+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:48:31.214+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:48:31.225+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:48:31.244+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:48:31.244+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:48:31.271+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:48:31.271+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:46:00+00:00, run_after=2025-10-11 09:48:00+00:00
+[2025-10-11T12:48:31.301+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T12:48:32.156+0300] {processor.py:186} INFO - Started process (PID=16883) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:48:32.157+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:48:32.160+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:48:32.159+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:48:32.173+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:48:32.189+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:48:32.189+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:48:32.214+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:48:32.213+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:46:00+00:00, run_after=2025-10-11 09:48:00+00:00
+[2025-10-11T12:48:32.242+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.094 seconds
+[2025-10-11T12:49:28.332+0300] {processor.py:186} INFO - Started process (PID=17203) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:49:28.338+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:49:28.341+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:49:28.340+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:49:28.354+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:49:28.370+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:49:28.370+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:49:28.398+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:49:28.398+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:46:00+00:00, run_after=2025-10-11 09:48:00+00:00
+[2025-10-11T12:49:28.427+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T12:49:30.838+0300] {processor.py:186} INFO - Started process (PID=17215) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:49:30.839+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:49:30.842+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:49:30.842+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:49:30.854+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:49:30.871+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:49:30.871+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:49:30.900+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:49:30.900+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:46:00+00:00, run_after=2025-10-11 09:48:00+00:00
+[2025-10-11T12:49:30.925+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.094 seconds
+[2025-10-11T12:50:23.935+0300] {processor.py:186} INFO - Started process (PID=17461) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:50:23.941+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:50:23.944+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:50:23.943+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:50:23.957+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:50:23.975+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:50:23.974+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:50:24.002+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:50:24.002+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:48:00+00:00, run_after=2025-10-11 09:50:00+00:00
+[2025-10-11T12:50:24.036+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.109 seconds
+[2025-10-11T12:50:30.530+0300] {processor.py:186} INFO - Started process (PID=17504) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:50:30.531+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:50:30.534+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:50:30.534+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:50:30.546+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:50:30.584+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:50:30.584+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:50:30.613+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:50:30.613+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:48:00+00:00, run_after=2025-10-11 09:50:00+00:00
+[2025-10-11T12:50:30.643+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.120 seconds
+[2025-10-11T12:51:21.668+0300] {processor.py:186} INFO - Started process (PID=17730) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:51:21.669+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:51:21.672+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:51:21.671+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:51:21.684+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:51:21.702+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:51:21.702+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:51:21.732+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:51:21.732+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:48:00+00:00, run_after=2025-10-11 09:50:00+00:00
+[2025-10-11T12:51:21.758+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.098 seconds
+[2025-10-11T12:51:28.557+0300] {processor.py:186} INFO - Started process (PID=17772) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:51:28.558+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:51:28.561+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:51:28.561+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:51:28.574+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:51:28.592+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:51:28.592+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:51:28.621+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:51:28.620+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:48:00+00:00, run_after=2025-10-11 09:50:00+00:00
+[2025-10-11T12:51:28.659+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.111 seconds
+[2025-10-11T12:52:19.949+0300] {processor.py:186} INFO - Started process (PID=18034) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:52:19.950+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:52:19.953+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:52:19.952+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:52:19.964+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:52:19.979+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:52:19.979+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:52:20.004+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:52:20.004+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:50:00+00:00, run_after=2025-10-11 09:52:00+00:00
+[2025-10-11T12:52:20.030+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.088 seconds
+[2025-10-11T12:52:24.662+0300] {processor.py:186} INFO - Started process (PID=18047) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:52:24.663+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:52:24.666+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:52:24.665+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:52:24.677+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:52:24.693+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:52:24.693+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:52:24.719+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:52:24.718+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:50:00+00:00, run_after=2025-10-11 09:52:00+00:00
+[2025-10-11T12:52:24.748+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.093 seconds
+[2025-10-11T12:53:17.060+0300] {processor.py:186} INFO - Started process (PID=18294) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:53:17.066+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:53:17.069+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:53:17.068+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:53:17.083+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:53:17.101+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:53:17.100+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:53:17.126+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:53:17.126+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:50:00+00:00, run_after=2025-10-11 09:52:00+00:00
+[2025-10-11T12:53:17.156+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T12:53:21.689+0300] {processor.py:186} INFO - Started process (PID=18307) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:53:21.690+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:53:21.693+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:53:21.693+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:53:21.705+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:53:21.721+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:53:21.721+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:53:21.746+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:53:21.746+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:50:00+00:00, run_after=2025-10-11 09:52:00+00:00
+[2025-10-11T12:53:21.777+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.095 seconds
+[2025-10-11T12:54:53.942+0300] {processor.py:186} INFO - Started process (PID=19205) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:54:53.943+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:54:53.945+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:54:53.945+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:54:53.958+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:54:53.980+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:54:53.980+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:54:54.006+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:54:54.006+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:52:00+00:00, run_after=2025-10-11 09:54:00+00:00
+[2025-10-11T12:54:54.035+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T12:55:54.464+0300] {processor.py:186} INFO - Started process (PID=19827) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:55:54.470+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T12:55:54.473+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:55:54.473+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:55:54.485+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T12:55:54.501+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:55:54.501+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T12:55:54.532+0300] {logging_mixin.py:190} INFO - [2025-10-11T12:55:54.532+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:52:00+00:00, run_after=2025-10-11 09:54:00+00:00
+[2025-10-11T12:55:54.563+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.106 seconds
+[2025-10-11T13:00:40.017+0300] {processor.py:186} INFO - Started process (PID=21039) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:00:40.023+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:00:40.026+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:00:40.025+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:00:40.037+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:00:40.057+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:00:40.057+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:00:40.085+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:00:40.085+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:58:00+00:00, run_after=2025-10-11 10:00:00+00:00
+[2025-10-11T13:00:40.111+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T13:01:38.989+0300] {processor.py:186} INFO - Started process (PID=21437) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:01:38.996+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:01:38.999+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:01:38.998+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:01:39.010+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:01:39.028+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:01:39.028+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:01:39.055+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:01:39.055+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 09:58:00+00:00, run_after=2025-10-11 10:00:00+00:00
+[2025-10-11T13:01:39.081+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.099 seconds
+[2025-10-11T13:02:35.103+0300] {processor.py:186} INFO - Started process (PID=22000) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:02:35.109+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:02:35.112+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:02:35.111+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:02:35.125+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:02:35.143+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:02:35.143+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:02:35.169+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:02:35.169+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:00:00+00:00, run_after=2025-10-11 10:02:00+00:00
+[2025-10-11T13:02:35.200+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.105 seconds
+[2025-10-11T13:04:16.245+0300] {processor.py:186} INFO - Started process (PID=23060) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:04:16.251+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:04:16.254+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.253+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:04:16.268+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:04:16.399+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.398+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2025-10-11T13:04:16.416+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.416+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2025-10-11T13:04:16.430+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.430+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2025-10-11T13:04:16.452+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.451+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_sla_dag
+[2025-10-11T13:04:16.465+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.465+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_sla_dag
+[2025-10-11T13:04:16.479+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.479+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_sla_dag
+[2025-10-11T13:04:16.491+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.491+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_sla_dag
+[2025-10-11T13:04:16.492+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.491+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:04:16.504+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.504+0300] {dag.py:3262} INFO - Creating ORM DAG for example_sla_dag
+[2025-10-11T13:04:16.518+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:04:16.518+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:02:00+00:00, run_after=2025-10-11 10:04:00+00:00
+[2025-10-11T13:04:16.539+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.303 seconds
+[2025-10-11T13:05:34.643+0300] {processor.py:186} INFO - Started process (PID=23552) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:05:34.649+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:05:34.651+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:05:34.651+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:05:34.664+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:05:34.681+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:05:34.681+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:05:34.710+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:05:34.710+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:02:00+00:00, run_after=2025-10-11 10:04:00+00:00
+[2025-10-11T13:05:34.752+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.116 seconds
+[2025-10-11T13:06:31.015+0300] {processor.py:186} INFO - Started process (PID=24120) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:06:31.016+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:06:31.018+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:06:31.018+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:06:31.030+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:06:31.047+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:06:31.047+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:06:31.074+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:06:31.073+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:04:00+00:00, run_after=2025-10-11 10:06:00+00:00
+[2025-10-11T13:06:31.106+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.097 seconds
+[2025-10-11T13:07:33.190+0300] {processor.py:186} INFO - Started process (PID=24682) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:07:33.196+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:07:33.200+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:07:33.199+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:07:33.212+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:07:33.233+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:07:33.233+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:07:33.269+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:07:33.268+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:04:00+00:00, run_after=2025-10-11 10:06:00+00:00
+[2025-10-11T13:07:33.315+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.136 seconds
+[2025-10-11T13:08:41.491+0300] {processor.py:186} INFO - Started process (PID=25464) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:08:41.497+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:08:41.500+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:08:41.500+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:08:41.514+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:08:41.535+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:08:41.534+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:08:41.560+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:08:41.559+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:06:00+00:00, run_after=2025-10-11 10:08:00+00:00
+[2025-10-11T13:08:41.590+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.107 seconds
+[2025-10-11T13:09:53.177+0300] {processor.py:186} INFO - Started process (PID=26058) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:09:53.178+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:09:53.181+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:09:53.180+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:09:53.198+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:09:53.217+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:09:53.217+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:09:53.250+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:09:53.250+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:06:00+00:00, run_after=2025-10-11 10:08:00+00:00
+[2025-10-11T13:09:53.301+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.131 seconds
+[2025-10-11T13:10:55.822+0300] {processor.py:186} INFO - Started process (PID=26347) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:10:55.828+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:10:55.831+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:10:55.830+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:10:55.843+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:10:55.859+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:10:55.859+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:10:55.884+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:10:55.884+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:08:00+00:00, run_after=2025-10-11 10:10:00+00:00
+[2025-10-11T13:10:55.914+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T13:11:56.036+0300] {processor.py:186} INFO - Started process (PID=26607) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:11:56.037+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:11:56.040+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:11:56.039+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:11:56.053+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:11:56.069+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:11:56.069+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:11:56.094+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:11:56.094+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:08:00+00:00, run_after=2025-10-11 10:10:00+00:00
+[2025-10-11T13:11:56.123+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.093 seconds
+[2025-10-11T13:12:56.108+0300] {processor.py:186} INFO - Started process (PID=27035) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:12:56.114+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:12:56.117+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:12:56.116+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:12:56.128+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:12:56.145+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:12:56.145+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:12:56.171+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:12:56.171+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:10:00+00:00, run_after=2025-10-11 10:12:00+00:00
+[2025-10-11T13:12:56.203+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T13:13:53.455+0300] {processor.py:186} INFO - Started process (PID=27322) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:13:53.461+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:13:53.464+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:13:53.464+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:13:53.479+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:13:53.497+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:13:53.496+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:13:53.523+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:13:53.523+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:10:00+00:00, run_after=2025-10-11 10:12:00+00:00
+[2025-10-11T13:13:53.553+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.105 seconds
+[2025-10-11T13:14:57.263+0300] {processor.py:186} INFO - Started process (PID=27666) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:14:57.269+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:14:57.272+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:14:57.271+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:14:57.284+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:14:57.301+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:14:57.300+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:14:57.329+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:14:57.328+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:12:00+00:00, run_after=2025-10-11 10:14:00+00:00
+[2025-10-11T13:14:57.367+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.111 seconds
+[2025-10-11T13:15:55.263+0300] {processor.py:186} INFO - Started process (PID=27934) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:15:55.269+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:15:55.272+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:15:55.272+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:15:55.285+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:15:55.304+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:15:55.304+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:15:55.336+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:15:55.335+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:12:00+00:00, run_after=2025-10-11 10:14:00+00:00
+[2025-10-11T13:15:55.362+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.106 seconds
+[2025-10-11T13:16:53.244+0300] {processor.py:186} INFO - Started process (PID=28358) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:16:53.250+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:16:53.253+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:16:53.253+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:16:53.265+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:16:53.282+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:16:53.282+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:16:53.309+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:16:53.309+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:14:00+00:00, run_after=2025-10-11 10:16:00+00:00
+[2025-10-11T13:16:53.340+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.101 seconds
+[2025-10-11T13:17:52.696+0300] {processor.py:186} INFO - Started process (PID=28750) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:17:52.703+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:17:52.706+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:17:52.706+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:17:52.720+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:17:52.738+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:17:52.737+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:17:52.763+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:17:52.763+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:14:00+00:00, run_after=2025-10-11 10:16:00+00:00
+[2025-10-11T13:17:52.793+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2025-10-11T13:18:47.416+0300] {processor.py:186} INFO - Started process (PID=29110) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:18:47.422+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:18:47.425+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:18:47.424+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:18:47.436+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:18:47.453+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:18:47.453+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:18:47.481+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:18:47.480+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:16:00+00:00, run_after=2025-10-11 10:18:00+00:00
+[2025-10-11T13:18:47.512+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:19:45.532+0300] {processor.py:186} INFO - Started process (PID=29371) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:19:45.533+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:19:45.537+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:19:45.536+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:19:45.550+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:19:45.567+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:19:45.566+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:19:45.592+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:19:45.592+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:16:00+00:00, run_after=2025-10-11 10:18:00+00:00
+[2025-10-11T13:19:45.620+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.096 seconds
+[2025-10-11T13:20:43.729+0300] {processor.py:186} INFO - Started process (PID=29641) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:20:43.735+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:20:43.739+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:20:43.738+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:20:43.752+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:20:43.770+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:20:43.770+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:20:43.796+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:20:43.796+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:18:00+00:00, run_after=2025-10-11 10:20:00+00:00
+[2025-10-11T13:20:43.827+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.106 seconds
+[2025-10-11T13:21:40.010+0300] {processor.py:186} INFO - Started process (PID=29911) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:21:40.016+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:21:40.019+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:21:40.019+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:21:40.033+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:21:40.051+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:21:40.051+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:21:40.076+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:21:40.076+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:18:00+00:00, run_after=2025-10-11 10:20:00+00:00
+[2025-10-11T13:21:40.105+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:22:39.541+0300] {processor.py:186} INFO - Started process (PID=30199) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:22:39.547+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:22:39.551+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:22:39.550+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:22:39.565+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:22:39.583+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:22:39.583+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:22:39.609+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:22:39.609+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:20:00+00:00, run_after=2025-10-11 10:22:00+00:00
+[2025-10-11T13:22:39.639+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.106 seconds
+[2025-10-11T13:23:34.540+0300] {processor.py:186} INFO - Started process (PID=30466) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:23:34.546+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:23:34.550+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:23:34.549+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:23:34.564+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:23:34.581+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:23:34.581+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:23:34.607+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:23:34.607+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:20:00+00:00, run_after=2025-10-11 10:22:00+00:00
+[2025-10-11T13:23:34.636+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:24:31.675+0300] {processor.py:186} INFO - Started process (PID=30772) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:24:31.681+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:24:31.684+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:24:31.684+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:24:31.698+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:24:31.716+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:24:31.716+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:24:31.744+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:24:31.744+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:22:00+00:00, run_after=2025-10-11 10:24:00+00:00
+[2025-10-11T13:24:31.769+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T13:25:29.882+0300] {processor.py:186} INFO - Started process (PID=31044) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:25:29.888+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:25:29.892+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:25:29.891+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:25:29.905+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:25:29.923+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:25:29.923+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:25:29.948+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:25:29.948+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:22:00+00:00, run_after=2025-10-11 10:24:00+00:00
+[2025-10-11T13:25:29.978+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:26:28.332+0300] {processor.py:186} INFO - Started process (PID=31341) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:26:28.333+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:26:28.337+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:26:28.336+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:26:28.350+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:26:28.370+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:26:28.369+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:26:28.399+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:26:28.399+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:24:00+00:00, run_after=2025-10-11 10:26:00+00:00
+[2025-10-11T13:26:28.428+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2025-10-11T13:27:23.562+0300] {processor.py:186} INFO - Started process (PID=31596) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:27:23.568+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:27:23.572+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:27:23.571+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:27:23.585+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:27:23.603+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:27:23.603+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:27:23.629+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:27:23.629+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:24:00+00:00, run_after=2025-10-11 10:26:00+00:00
+[2025-10-11T13:27:23.657+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:28:19.989+0300] {processor.py:186} INFO - Started process (PID=31873) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:28:19.996+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:28:19.999+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:28:19.998+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:28:20.012+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:28:20.031+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:28:20.030+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:28:20.059+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:28:20.059+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:26:00+00:00, run_after=2025-10-11 10:28:00+00:00
+[2025-10-11T13:28:20.083+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T13:29:13.971+0300] {processor.py:186} INFO - Started process (PID=32140) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:29:13.977+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:29:13.980+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:29:13.980+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:29:13.994+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:29:14.012+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:29:14.012+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:29:14.038+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:29:14.038+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:26:00+00:00, run_after=2025-10-11 10:28:00+00:00
+[2025-10-11T13:29:14.067+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2025-10-11T13:30:12.469+0300] {processor.py:186} INFO - Started process (PID=32414) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:30:12.475+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:30:12.478+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:30:12.477+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:30:12.489+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:30:12.505+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:30:12.504+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:30:12.530+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:30:12.530+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:28:00+00:00, run_after=2025-10-11 10:30:00+00:00
+[2025-10-11T13:30:12.558+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.095 seconds
+[2025-10-11T13:31:11.757+0300] {processor.py:186} INFO - Started process (PID=32710) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:31:11.763+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:31:11.766+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:31:11.766+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:31:11.780+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:31:11.797+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:31:11.797+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:31:11.823+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:31:11.823+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:28:00+00:00, run_after=2025-10-11 10:30:00+00:00
+[2025-10-11T13:31:11.851+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T13:32:13.629+0300] {processor.py:186} INFO - Started process (PID=33007) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:32:13.635+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:32:13.639+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:32:13.638+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:32:13.652+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:32:13.670+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:32:13.670+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:32:13.695+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:32:13.695+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:30:00+00:00, run_after=2025-10-11 10:32:00+00:00
+[2025-10-11T13:32:13.726+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:33:12.641+0300] {processor.py:186} INFO - Started process (PID=33284) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:33:12.648+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:33:12.651+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:33:12.650+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:33:12.664+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:33:12.682+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:33:12.682+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:33:12.707+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:33:12.707+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:30:00+00:00, run_after=2025-10-11 10:32:00+00:00
+[2025-10-11T13:33:12.735+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.101 seconds
+[2025-10-11T13:34:13.768+0300] {processor.py:186} INFO - Started process (PID=33608) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:34:13.774+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:34:13.777+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:34:13.777+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:34:13.791+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:34:13.809+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:34:13.809+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:34:13.834+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:34:13.834+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:32:00+00:00, run_after=2025-10-11 10:34:00+00:00
+[2025-10-11T13:34:13.864+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:35:12.482+0300] {processor.py:186} INFO - Started process (PID=33881) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:35:12.488+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:35:12.492+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:35:12.491+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:35:12.505+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:35:12.523+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:35:12.523+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:35:12.551+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:35:12.550+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:32:00+00:00, run_after=2025-10-11 10:34:00+00:00
+[2025-10-11T13:35:12.585+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.111 seconds
+[2025-10-11T13:36:11.174+0300] {processor.py:186} INFO - Started process (PID=34166) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:36:11.180+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:36:11.184+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:36:11.183+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:36:11.197+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:36:11.215+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:36:11.215+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:36:11.240+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:36:11.240+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:34:00+00:00, run_after=2025-10-11 10:36:00+00:00
+[2025-10-11T13:36:11.269+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:37:07.887+0300] {processor.py:186} INFO - Started process (PID=34434) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:37:07.893+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:37:07.896+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:37:07.896+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:37:07.910+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:37:07.928+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:37:07.927+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:37:07.953+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:37:07.953+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:34:00+00:00, run_after=2025-10-11 10:36:00+00:00
+[2025-10-11T13:37:07.982+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:38:05.730+0300] {processor.py:186} INFO - Started process (PID=34687) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:38:05.736+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:38:05.740+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:38:05.739+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:38:05.752+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:38:05.767+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:38:05.767+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:38:05.792+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:38:05.792+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:36:00+00:00, run_after=2025-10-11 10:38:00+00:00
+[2025-10-11T13:38:05.821+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.097 seconds
+[2025-10-11T13:39:04.346+0300] {processor.py:186} INFO - Started process (PID=34991) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:39:04.352+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:39:04.355+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:39:04.355+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:39:04.368+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:39:04.385+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:39:04.384+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:39:04.409+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:39:04.409+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:36:00+00:00, run_after=2025-10-11 10:38:00+00:00
+[2025-10-11T13:39:04.439+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.099 seconds
+[2025-10-11T13:40:02.607+0300] {processor.py:186} INFO - Started process (PID=35270) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:40:02.613+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:40:02.616+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:40:02.616+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:40:02.630+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:40:02.647+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:40:02.647+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:40:02.672+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:40:02.672+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:38:00+00:00, run_after=2025-10-11 10:40:00+00:00
+[2025-10-11T13:40:02.701+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T13:40:59.677+0300] {processor.py:186} INFO - Started process (PID=35605) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:40:59.678+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:40:59.681+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:40:59.680+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:40:59.692+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:40:59.711+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:40:59.711+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:40:59.737+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:40:59.736+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:38:00+00:00, run_after=2025-10-11 10:40:00+00:00
+[2025-10-11T13:40:59.765+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.095 seconds
+[2025-10-11T13:41:59.506+0300] {processor.py:186} INFO - Started process (PID=35868) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:41:59.512+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:41:59.516+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:41:59.515+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:41:59.529+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:41:59.547+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:41:59.547+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:41:59.573+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:41:59.573+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:38:00+00:00, run_after=2025-10-11 10:40:00+00:00
+[2025-10-11T13:41:59.719+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.220 seconds
+[2025-10-11T13:42:58.182+0300] {processor.py:186} INFO - Started process (PID=36134) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:42:58.188+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:42:58.191+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:42:58.190+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:42:58.204+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:42:58.222+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:42:58.221+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:42:58.247+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:42:58.246+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:40:00+00:00, run_after=2025-10-11 10:42:00+00:00
+[2025-10-11T13:42:58.276+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.101 seconds
+[2025-10-11T13:43:52.963+0300] {processor.py:186} INFO - Started process (PID=36411) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:43:52.964+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:43:52.967+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:43:52.967+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:43:52.981+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:43:52.999+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:43:52.998+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:43:53.026+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:43:53.026+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:40:00+00:00, run_after=2025-10-11 10:42:00+00:00
+[2025-10-11T13:43:53.052+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.097 seconds
+[2025-10-11T13:44:51.841+0300] {processor.py:186} INFO - Started process (PID=36672) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:44:51.857+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:44:51.861+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:44:51.860+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:44:51.873+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:44:51.890+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:44:51.890+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:44:52.032+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:44:52.032+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:42:00+00:00, run_after=2025-10-11 10:44:00+00:00
+[2025-10-11T13:44:52.059+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.226 seconds
+[2025-10-11T13:45:57.180+0300] {processor.py:186} INFO - Started process (PID=36961) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:45:57.186+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:45:57.190+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:45:57.189+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:45:57.203+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:45:57.221+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:45:57.221+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:45:57.247+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:45:57.247+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:42:00+00:00, run_after=2025-10-11 10:44:00+00:00
+[2025-10-11T13:45:57.388+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.215 seconds
+[2025-10-11T13:47:05.878+0300] {processor.py:186} INFO - Started process (PID=37302) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:47:05.885+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:47:05.887+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:47:05.887+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:47:05.901+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:47:05.919+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:47:05.919+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:47:05.945+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:47:05.945+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:44:00+00:00, run_after=2025-10-11 10:46:00+00:00
+[2025-10-11T13:47:05.974+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:48:07.044+0300] {processor.py:186} INFO - Started process (PID=37582) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:48:07.050+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:48:07.053+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:48:07.052+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:48:07.067+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:48:07.084+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:48:07.084+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:48:07.109+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:48:07.109+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:46:00+00:00, run_after=2025-10-11 10:48:00+00:00
+[2025-10-11T13:48:07.140+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2025-10-11T13:49:05.363+0300] {processor.py:186} INFO - Started process (PID=37874) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:49:05.369+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:49:05.373+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:49:05.372+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:49:05.386+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:49:05.404+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:49:05.404+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:49:05.429+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:49:05.429+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:46:00+00:00, run_after=2025-10-11 10:48:00+00:00
+[2025-10-11T13:49:05.457+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T13:50:01.554+0300] {processor.py:186} INFO - Started process (PID=38124) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:50:01.561+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:50:01.564+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:50:01.563+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:50:01.576+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:50:01.593+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:50:01.592+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:50:01.617+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:50:01.617+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:48:00+00:00, run_after=2025-10-11 10:50:00+00:00
+[2025-10-11T13:50:01.647+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T13:50:57.538+0300] {processor.py:186} INFO - Started process (PID=38397) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:50:57.539+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:50:57.543+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:50:57.542+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:50:57.556+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:50:57.573+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:50:57.573+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:50:57.600+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:50:57.600+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:48:00+00:00, run_after=2025-10-11 10:50:00+00:00
+[2025-10-11T13:50:57.625+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.094 seconds
+[2025-10-11T13:51:53.555+0300] {processor.py:186} INFO - Started process (PID=38682) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:51:53.561+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:51:53.565+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:51:53.564+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:51:53.578+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:51:53.596+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:51:53.596+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:51:53.624+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:51:53.624+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:48:00+00:00, run_after=2025-10-11 10:50:00+00:00
+[2025-10-11T13:51:53.648+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T13:52:50.791+0300] {processor.py:186} INFO - Started process (PID=38940) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:52:50.792+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:52:50.795+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:52:50.795+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:52:50.807+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:52:50.824+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:52:50.824+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:52:50.850+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:52:50.850+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:50:00+00:00, run_after=2025-10-11 10:52:00+00:00
+[2025-10-11T13:52:50.877+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.094 seconds
+[2025-10-11T13:53:49.409+0300] {processor.py:186} INFO - Started process (PID=39237) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:53:49.415+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:53:49.419+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:53:49.418+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:53:49.432+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:53:49.450+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:53:49.450+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:53:49.475+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:53:49.475+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:50:00+00:00, run_after=2025-10-11 10:52:00+00:00
+[2025-10-11T13:53:49.505+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T13:54:46.600+0300] {processor.py:186} INFO - Started process (PID=39506) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:54:46.607+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T13:54:46.610+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:54:46.610+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:54:46.624+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T13:54:46.642+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:54:46.641+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T13:54:46.667+0300] {logging_mixin.py:190} INFO - [2025-10-11T13:54:46.667+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:52:00+00:00, run_after=2025-10-11 10:54:00+00:00
+[2025-10-11T13:54:46.697+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2025-10-11T14:01:44.615+0300] {processor.py:186} INFO - Started process (PID=41101) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:01:44.621+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:01:44.624+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:01:44.624+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:01:44.636+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:01:44.656+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:01:44.656+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:01:44.684+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:01:44.684+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 10:58:00+00:00, run_after=2025-10-11 11:00:00+00:00
+[2025-10-11T14:01:44.714+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.105 seconds
+[2025-10-11T14:02:42.894+0300] {processor.py:186} INFO - Started process (PID=41586) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:02:42.900+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:02:42.903+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:02:42.903+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:02:42.917+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:02:42.935+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:02:42.935+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:02:42.961+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:02:42.961+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:00:00+00:00, run_after=2025-10-11 11:02:00+00:00
+[2025-10-11T14:02:42.986+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.099 seconds
+[2025-10-11T14:03:41.284+0300] {processor.py:186} INFO - Started process (PID=41866) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:03:41.290+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:03:41.293+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:03:41.293+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:03:41.305+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:03:41.321+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:03:41.321+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:03:41.348+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:03:41.348+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:00:00+00:00, run_after=2025-10-11 11:02:00+00:00
+[2025-10-11T14:03:41.378+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T14:04:39.678+0300] {processor.py:186} INFO - Started process (PID=42180) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:04:39.685+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:04:39.687+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:04:39.687+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:04:39.701+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:04:39.718+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:04:39.718+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:04:39.742+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:04:39.742+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:02:00+00:00, run_after=2025-10-11 11:04:00+00:00
+[2025-10-11T14:04:39.766+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.096 seconds
+[2025-10-11T14:07:23.448+0300] {processor.py:186} INFO - Started process (PID=43567) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:07:23.449+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:07:23.452+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:07:23.452+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:07:23.470+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:07:23.495+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:07:23.495+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:07:23.535+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:07:23.534+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:04:00+00:00, run_after=2025-10-11 11:06:00+00:00
+[2025-10-11T14:07:23.568+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.128 seconds
+[2025-10-11T14:08:34.150+0300] {processor.py:186} INFO - Started process (PID=44121) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:08:34.156+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:08:34.159+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:08:34.158+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:08:34.172+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:08:34.188+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:08:34.188+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:08:34.213+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:08:34.212+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:06:00+00:00, run_after=2025-10-11 11:08:00+00:00
+[2025-10-11T14:08:34.242+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.098 seconds
+[2025-10-11T14:09:35.705+0300] {processor.py:186} INFO - Started process (PID=44806) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:09:35.711+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:09:35.713+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:09:35.713+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:09:35.724+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:09:35.739+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:09:35.739+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:09:35.766+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:09:35.765+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:06:00+00:00, run_after=2025-10-11 11:08:00+00:00
+[2025-10-11T14:09:35.796+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.097 seconds
+[2025-10-11T14:16:02.365+0300] {processor.py:186} INFO - Started process (PID=46513) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:16:02.371+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:16:02.374+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:16:02.373+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:16:02.387+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:16:02.412+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:16:02.412+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:16:02.440+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:16:02.440+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:14:00+00:00, run_after=2025-10-11 11:16:00+00:00
+[2025-10-11T14:16:02.472+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.114 seconds
+[2025-10-11T14:17:11.816+0300] {processor.py:186} INFO - Started process (PID=47097) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:17:11.822+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:17:11.824+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:17:11.824+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:17:11.837+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:17:11.856+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:17:11.856+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:17:11.886+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:17:11.886+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:14:00+00:00, run_after=2025-10-11 11:16:00+00:00
+[2025-10-11T14:17:11.920+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.111 seconds
+[2025-10-11T14:18:10.178+0300] {processor.py:186} INFO - Started process (PID=47321) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:18:10.184+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:18:10.186+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:18:10.186+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:18:10.198+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:18:10.215+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:18:10.215+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:18:10.243+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:18:10.243+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:16:00+00:00, run_after=2025-10-11 11:18:00+00:00
+[2025-10-11T14:18:10.278+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.107 seconds
+[2025-10-11T14:19:33.613+0300] {processor.py:186} INFO - Started process (PID=48320) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:19:33.619+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:19:33.621+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:19:33.620+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:19:33.632+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:19:33.651+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:19:33.651+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:19:33.676+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:19:33.676+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:16:00+00:00, run_after=2025-10-11 11:18:00+00:00
+[2025-10-11T14:19:33.707+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.101 seconds
+[2025-10-11T14:20:44.293+0300] {processor.py:186} INFO - Started process (PID=49119) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:20:44.299+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:20:44.302+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:20:44.301+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:20:44.315+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:20:44.334+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:20:44.333+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:20:44.362+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:20:44.361+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:18:00+00:00, run_after=2025-10-11 11:20:00+00:00
+[2025-10-11T14:20:44.394+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.108 seconds
+[2025-10-11T14:21:56.774+0300] {processor.py:186} INFO - Started process (PID=49639) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:21:56.780+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:21:56.783+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:21:56.782+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:21:56.795+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:21:56.812+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:21:56.811+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:21:56.839+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:21:56.839+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:18:00+00:00, run_after=2025-10-11 11:20:00+00:00
+[2025-10-11T14:21:56.873+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.106 seconds
+[2025-10-11T14:22:56.717+0300] {processor.py:186} INFO - Started process (PID=49903) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:22:56.723+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:22:56.725+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:22:56.725+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:22:56.737+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:22:56.753+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:22:56.752+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:22:56.778+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:22:56.778+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:20:00+00:00, run_after=2025-10-11 11:22:00+00:00
+[2025-10-11T14:22:56.807+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.099 seconds
+[2025-10-11T14:24:00.538+0300] {processor.py:186} INFO - Started process (PID=50419) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:24:00.539+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:24:00.541+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:24:00.541+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:24:00.556+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:24:00.575+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:24:00.574+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:24:00.602+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:24:00.601+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:22:00+00:00, run_after=2025-10-11 11:24:00+00:00
+[2025-10-11T14:24:00.627+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.097 seconds
+[2025-10-11T14:24:42.854+0300] {processor.py:186} INFO - Started process (PID=50892) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:24:42.860+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:24:42.863+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:24:42.863+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:24:42.876+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:24:42.896+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:24:42.895+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:24:42.924+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:24:42.923+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:22:00+00:00, run_after=2025-10-11 11:24:00+00:00
+[2025-10-11T14:24:42.955+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.109 seconds
+[2025-10-11T14:25:55.796+0300] {processor.py:186} INFO - Started process (PID=51617) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:25:55.802+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:25:55.805+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:25:55.804+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:25:55.818+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:25:55.836+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:25:55.836+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:25:55.866+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:25:55.866+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:22:00+00:00, run_after=2025-10-11 11:24:00+00:00
+[2025-10-11T14:25:55.901+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.112 seconds
+[2025-10-11T14:27:02.178+0300] {processor.py:186} INFO - Started process (PID=51944) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:27:02.184+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:27:02.187+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:27:02.187+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:27:02.200+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:27:02.218+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:27:02.218+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:27:02.248+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:27:02.248+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:24:00+00:00, run_after=2025-10-11 11:26:00+00:00
+[2025-10-11T14:27:02.281+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.110 seconds
+[2025-10-11T14:27:46.568+0300] {processor.py:186} INFO - Started process (PID=52389) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:27:46.574+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:27:46.577+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:27:46.577+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:27:46.589+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:27:46.609+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:27:46.608+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:27:46.635+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:27:46.635+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:24:00+00:00, run_after=2025-10-11 11:26:00+00:00
+[2025-10-11T14:27:46.663+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.103 seconds
+[2025-10-11T14:28:56.819+0300] {processor.py:186} INFO - Started process (PID=53168) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:28:56.820+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:28:56.823+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:28:56.822+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:28:56.837+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:28:56.854+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:28:56.854+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:28:56.883+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:28:56.883+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:26:00+00:00, run_after=2025-10-11 11:28:00+00:00
+[2025-10-11T14:28:56.915+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T14:30:03.187+0300] {processor.py:186} INFO - Started process (PID=53815) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:30:03.188+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:30:03.191+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:30:03.190+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:30:03.202+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:30:03.219+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:30:03.218+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:30:03.246+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:30:03.246+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:28:00+00:00, run_after=2025-10-11 11:30:00+00:00
+[2025-10-11T14:30:03.276+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.096 seconds
+[2025-10-11T14:31:12.934+0300] {processor.py:186} INFO - Started process (PID=54195) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:31:12.940+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:31:12.944+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:31:12.943+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:31:12.955+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:31:12.975+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:31:12.974+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:31:13.006+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:31:13.005+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:28:00+00:00, run_after=2025-10-11 11:30:00+00:00
+[2025-10-11T14:31:13.033+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.105 seconds
+[2025-10-11T14:32:16.900+0300] {processor.py:186} INFO - Started process (PID=54790) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:32:16.906+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:32:16.909+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:32:16.908+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:32:16.922+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:32:16.943+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:32:16.943+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:32:16.969+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:32:16.969+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:30:00+00:00, run_after=2025-10-11 11:32:00+00:00
+[2025-10-11T14:32:17.000+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.108 seconds
+[2025-10-11T14:33:29.635+0300] {processor.py:186} INFO - Started process (PID=55819) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:33:29.641+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:33:29.644+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:33:29.644+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:33:29.657+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:33:29.678+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:33:29.678+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:33:29.704+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:33:29.704+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:30:00+00:00, run_after=2025-10-11 11:32:00+00:00
+[2025-10-11T14:33:29.735+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.108 seconds
+[2025-10-11T14:34:34.494+0300] {processor.py:186} INFO - Started process (PID=56259) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:34:34.495+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:34:34.498+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:34:34.497+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:34:34.510+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:34:34.527+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:34:34.527+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:34:34.555+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:34:34.555+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:32:00+00:00, run_after=2025-10-11 11:34:00+00:00
+[2025-10-11T14:34:34.587+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T14:35:50.710+0300] {processor.py:186} INFO - Started process (PID=57134) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:35:50.716+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:35:50.719+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:35:50.718+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:35:50.732+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:35:50.753+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:35:50.753+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:35:50.780+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:35:50.780+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:32:00+00:00, run_after=2025-10-11 11:34:00+00:00
+[2025-10-11T14:35:50.810+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.107 seconds
+[2025-10-11T14:36:58.078+0300] {processor.py:186} INFO - Started process (PID=57608) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:36:58.085+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:36:58.087+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:36:58.087+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:36:58.100+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:36:58.117+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:36:58.116+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:36:58.145+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:36:58.145+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:34:00+00:00, run_after=2025-10-11 11:36:00+00:00
+[2025-10-11T14:36:58.177+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.116 seconds
+[2025-10-11T14:38:11.931+0300] {processor.py:186} INFO - Started process (PID=58019) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:38:11.937+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:38:11.939+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:38:11.939+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:38:11.951+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:38:11.967+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:38:11.966+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:38:11.993+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:38:11.992+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:36:00+00:00, run_after=2025-10-11 11:38:00+00:00
+[2025-10-11T14:38:12.023+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T14:40:16.338+0300] {processor.py:186} INFO - Started process (PID=59516) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:40:16.344+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:40:16.347+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:40:16.346+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:40:16.358+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:40:16.377+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:40:16.377+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:40:16.402+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:40:16.402+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:38:00+00:00, run_after=2025-10-11 11:40:00+00:00
+[2025-10-11T14:40:16.431+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T14:41:23.827+0300] {processor.py:186} INFO - Started process (PID=60098) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:41:23.833+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:41:23.837+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:41:23.836+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:41:23.850+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:41:23.873+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:41:23.873+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:41:23.904+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:41:23.903+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:38:00+00:00, run_after=2025-10-11 11:40:00+00:00
+[2025-10-11T14:41:23.935+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.115 seconds
+[2025-10-11T14:43:27.034+0300] {processor.py:186} INFO - Started process (PID=61546) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:43:27.040+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:43:27.043+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:43:27.042+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:43:27.057+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:43:27.078+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:43:27.078+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:43:27.105+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:43:27.105+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:40:00+00:00, run_after=2025-10-11 11:42:00+00:00
+[2025-10-11T14:43:27.135+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.110 seconds
+[2025-10-11T14:44:31.689+0300] {processor.py:186} INFO - Started process (PID=62194) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:44:31.695+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:44:31.697+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:44:31.696+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:44:31.709+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:44:31.726+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:44:31.726+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:44:31.755+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:44:31.755+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:42:00+00:00, run_after=2025-10-11 11:44:00+00:00
+[2025-10-11T14:44:31.783+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-10-11T14:45:36.513+0300] {processor.py:186} INFO - Started process (PID=62545) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:45:36.519+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:45:36.522+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:45:36.521+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:45:36.534+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:45:36.552+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:45:36.552+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:45:36.586+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:45:36.585+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:42:00+00:00, run_after=2025-10-11 11:44:00+00:00
+[2025-10-11T14:45:36.617+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.111 seconds
+[2025-10-11T14:47:55.343+0300] {processor.py:186} INFO - Started process (PID=63860) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:47:55.349+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:47:55.352+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:47:55.351+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:47:55.363+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:47:55.382+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:47:55.382+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:47:55.408+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:47:55.407+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:44:00+00:00, run_after=2025-10-11 11:46:00+00:00
+[2025-10-11T14:47:55.436+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T14:49:04.146+0300] {processor.py:186} INFO - Started process (PID=64259) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:49:04.152+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:49:04.155+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:49:04.154+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:49:04.167+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:49:04.185+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:49:04.184+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:49:04.213+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:49:04.213+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:46:00+00:00, run_after=2025-10-11 11:48:00+00:00
+[2025-10-11T14:49:04.244+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2025-10-11T14:50:28.080+0300] {processor.py:186} INFO - Started process (PID=65192) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:50:28.081+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:50:28.083+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:50:28.083+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:50:28.096+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:50:28.116+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:50:28.116+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:50:28.145+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:50:28.144+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:48:00+00:00, run_after=2025-10-11 11:50:00+00:00
+[2025-10-11T14:50:28.175+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.102 seconds
+[2025-10-11T14:51:29.676+0300] {processor.py:186} INFO - Started process (PID=65759) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:51:29.685+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:51:29.688+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:51:29.687+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:51:29.706+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:51:29.727+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:51:29.726+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:51:29.756+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:51:29.756+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:48:00+00:00, run_after=2025-10-11 11:50:00+00:00
+[2025-10-11T14:51:29.788+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.119 seconds
+[2025-10-11T14:52:32.031+0300] {processor.py:186} INFO - Started process (PID=66304) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:52:32.037+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:52:32.040+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:52:32.039+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:52:32.052+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:52:32.069+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:52:32.068+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:52:32.097+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:52:32.097+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:50:00+00:00, run_after=2025-10-11 11:52:00+00:00
+[2025-10-11T14:52:32.128+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.106 seconds
+[2025-10-11T14:54:03.483+0300] {processor.py:186} INFO - Started process (PID=67416) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:54:03.489+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:54:03.491+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:54:03.491+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:54:03.504+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:54:03.525+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:54:03.525+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:54:03.555+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:54:03.555+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:52:00+00:00, run_after=2025-10-11 11:54:00+00:00
+[2025-10-11T14:54:03.589+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.113 seconds
+[2025-10-11T14:55:05.102+0300] {processor.py:186} INFO - Started process (PID=67725) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:55:05.103+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:55:05.105+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:55:05.105+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:55:05.118+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:55:05.135+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:55:05.135+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:55:05.169+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:55:05.169+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:52:00+00:00, run_after=2025-10-11 11:54:00+00:00
+[2025-10-11T14:55:05.200+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2025-10-11T14:56:28.585+0300] {processor.py:186} INFO - Started process (PID=68694) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:56:28.591+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:56:28.594+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:56:28.593+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:56:28.605+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:56:28.625+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:56:28.624+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:56:28.651+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:56:28.651+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:54:00+00:00, run_after=2025-10-11 11:56:00+00:00
+[2025-10-11T14:56:28.681+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2025-10-11T14:57:29.881+0300] {processor.py:186} INFO - Started process (PID=69590) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:57:29.887+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-10-11T14:57:29.889+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:57:29.889+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:57:29.902+0300] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-10-11T14:57:29.919+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:57:29.918+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-11T14:57:29.947+0300] {logging_mixin.py:190} INFO - [2025-10-11T14:57:29.947+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2025-10-11 11:54:00+00:00, run_after=2025-10-11 11:56:00+00:00
+[2025-10-11T14:57:29.978+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.105 seconds

@@ -1,0 +1,715 @@
+[2025-10-10T19:09:17.555+0300] {processor.py:186} INFO - Started process (PID=5441) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:09:17.556+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:09:17.558+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:09:17.558+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:09:17.572+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:09:17.602+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:09:17.601+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:09:17.617+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:09:17.617+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:09:17.646+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.097 seconds
+[2025-10-10T19:10:22.245+0300] {processor.py:186} INFO - Started process (PID=5734) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:10:22.249+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:10:22.255+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:22.254+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:10:22.273+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:10:22.298+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:22.298+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:10:22.312+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:22.312+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:10:22.343+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.104 seconds
+[2025-10-10T19:11:21.286+0300] {processor.py:186} INFO - Started process (PID=6234) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:11:21.293+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:11:21.295+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:21.295+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:11:21.309+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:11:21.335+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:21.335+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:11:21.349+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:21.349+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:11:21.391+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.112 seconds
+[2025-10-10T19:12:20.895+0300] {processor.py:186} INFO - Started process (PID=6469) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:12:20.896+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:12:20.898+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:20.898+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:12:20.912+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:12:20.938+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:20.937+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:12:20.953+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:20.953+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:12:20.985+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.097 seconds
+[2025-10-10T19:13:22.133+0300] {processor.py:186} INFO - Started process (PID=6758) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:13:22.140+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:13:22.142+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:22.142+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:13:22.155+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:13:22.181+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:22.180+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:13:22.195+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:22.195+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:13:22.226+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T19:14:26.618+0300] {processor.py:186} INFO - Started process (PID=7108) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:14:26.624+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:14:26.627+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:26.626+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:14:26.641+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:14:26.669+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:26.668+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:14:26.685+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:26.685+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:14:26.715+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.105 seconds
+[2025-10-10T19:15:28.139+0300] {processor.py:186} INFO - Started process (PID=7426) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:15:28.146+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:15:28.148+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:28.148+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:15:28.163+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:15:28.187+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:28.187+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:15:28.202+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:28.202+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:15:28.251+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.119 seconds
+[2025-10-10T19:16:27.053+0300] {processor.py:186} INFO - Started process (PID=7774) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:16:27.059+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:16:27.062+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:27.061+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:16:27.075+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:16:27.101+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:27.100+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:16:27.117+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:27.116+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:16:27.150+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.104 seconds
+[2025-10-10T19:17:24.885+0300] {processor.py:186} INFO - Started process (PID=8333) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:17:24.891+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:17:24.894+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:24.894+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:17:24.908+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:17:24.934+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:24.933+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:17:24.949+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:24.948+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:17:24.978+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T19:18:22.873+0300] {processor.py:186} INFO - Started process (PID=8836) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:18:22.874+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:18:22.876+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:22.876+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:18:22.889+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:18:22.914+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:22.914+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:18:22.928+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:22.928+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:18:22.960+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.094 seconds
+[2025-10-10T19:19:21.946+0300] {processor.py:186} INFO - Started process (PID=9150) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:19:21.952+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:19:21.955+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:21.955+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:19:21.970+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:19:21.996+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:21.996+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:19:22.010+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:22.010+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:19:22.040+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.102 seconds
+[2025-10-10T19:20:18.061+0300] {processor.py:186} INFO - Started process (PID=9491) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:20:18.067+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:20:18.069+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:18.069+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:20:18.082+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:20:18.107+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:18.107+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:20:18.122+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:18.122+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:20:18.153+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.099 seconds
+[2025-10-10T19:21:14.453+0300] {processor.py:186} INFO - Started process (PID=9771) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:21:14.459+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:21:14.465+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:14.461+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:21:14.484+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:21:14.510+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:14.509+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:21:14.524+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:14.524+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:21:14.572+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.128 seconds
+[2025-10-10T19:22:10.005+0300] {processor.py:186} INFO - Started process (PID=10021) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:22:10.011+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:22:10.014+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:10.013+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:22:10.028+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:22:10.055+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:10.055+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:22:10.069+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:10.069+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:22:10.098+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T19:23:06.261+0300] {processor.py:186} INFO - Started process (PID=10284) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:23:06.268+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:23:06.270+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:06.270+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:23:06.285+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:23:06.311+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:06.311+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:23:06.325+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:06.325+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:23:06.355+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T19:24:05.408+0300] {processor.py:186} INFO - Started process (PID=10597) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:24:05.414+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:24:05.416+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:05.416+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:24:05.431+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:24:05.457+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:05.457+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:24:05.471+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:05.470+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:24:05.501+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T19:25:00.904+0300] {processor.py:186} INFO - Started process (PID=10922) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:25:00.910+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:25:00.913+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:00.912+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:25:00.927+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:25:00.954+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:00.954+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:25:00.968+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:00.968+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:25:00.997+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T19:25:55.755+0300] {processor.py:186} INFO - Started process (PID=11224) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:25:55.761+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:25:55.763+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:55.763+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:25:55.775+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:25:55.798+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:55.798+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:25:55.812+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:55.812+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:25:55.843+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.095 seconds
+[2025-10-10T19:26:54.162+0300] {processor.py:186} INFO - Started process (PID=11512) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:26:54.168+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:26:54.171+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:54.170+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:26:54.189+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:26:54.213+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:54.213+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:26:54.227+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:54.227+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:26:54.257+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.103 seconds
+[2025-10-10T19:27:51.866+0300] {processor.py:186} INFO - Started process (PID=11789) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:27:51.872+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:27:51.875+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:51.874+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:27:51.888+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:27:51.912+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:51.912+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:27:51.926+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:51.926+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:27:51.956+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.097 seconds
+[2025-10-10T19:28:49.536+0300] {processor.py:186} INFO - Started process (PID=12069) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:28:49.542+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:28:49.545+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:49.545+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:28:49.559+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:28:49.586+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:49.585+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:28:49.599+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:49.599+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:28:49.627+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2025-10-10T19:29:42.620+0300] {processor.py:186} INFO - Started process (PID=12348) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:29:42.621+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:29:42.624+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:42.623+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:29:42.637+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:29:42.662+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:42.661+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:29:42.675+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:42.675+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:29:42.704+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.090 seconds
+[2025-10-10T19:30:38.540+0300] {processor.py:186} INFO - Started process (PID=12610) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:30:38.546+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:30:38.548+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:38.548+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:30:38.563+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:30:38.589+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:38.589+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:30:38.602+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:38.602+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:30:38.632+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2025-10-10T19:31:33.593+0300] {processor.py:186} INFO - Started process (PID=12872) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:31:33.599+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:31:33.602+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:33.601+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:31:33.617+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:31:33.643+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:33.643+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:31:33.657+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:33.656+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:31:33.686+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T19:32:30.502+0300] {processor.py:186} INFO - Started process (PID=13130) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:32:30.508+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:32:30.511+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:30.510+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:32:30.524+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:32:30.549+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:30.548+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:32:30.562+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:30.562+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:32:30.592+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2025-10-10T19:33:28.070+0300] {processor.py:186} INFO - Started process (PID=13408) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:33:28.076+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:33:28.079+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:28.078+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:33:28.094+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:33:28.120+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:28.120+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:33:28.134+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:28.134+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:33:28.165+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.103 seconds
+[2025-10-10T19:34:25.948+0300] {processor.py:186} INFO - Started process (PID=13735) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:34:25.954+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:34:25.957+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:25.956+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:34:25.971+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:34:25.997+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:25.997+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:34:26.011+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:26.010+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:34:26.041+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2025-10-10T19:35:20.077+0300] {processor.py:186} INFO - Started process (PID=14010) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:35:20.083+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T19:35:20.086+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:35:20.085+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:35:20.100+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T19:35:20.126+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:35:20.126+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:35:20.140+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:35:20.140+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T19:35:20.170+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T20:15:40.660+0300] {processor.py:186} INFO - Started process (PID=14229) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:15:40.667+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:15:40.669+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:40.669+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:15:40.681+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:15:40.705+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:40.705+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:15:40.719+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:40.719+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:15:40.749+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.096 seconds
+[2025-10-10T20:16:37.695+0300] {processor.py:186} INFO - Started process (PID=14486) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:16:37.701+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:16:37.704+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:37.703+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:16:37.718+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:16:37.745+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:37.745+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:16:37.758+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:37.758+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:16:37.789+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.102 seconds
+[2025-10-10T20:17:35.309+0300] {processor.py:186} INFO - Started process (PID=14746) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:17:35.315+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:17:35.318+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:35.318+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:17:35.333+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:17:35.359+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:35.359+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:17:35.374+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:35.373+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:17:35.403+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T20:18:33.794+0300] {processor.py:186} INFO - Started process (PID=15004) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:18:33.796+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:18:33.798+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:33.798+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:18:33.812+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:18:33.838+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:33.838+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:18:33.853+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:33.853+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:18:33.878+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.091 seconds
+[2025-10-10T20:19:27.583+0300] {processor.py:186} INFO - Started process (PID=15273) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:19:27.589+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:19:27.592+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:27.591+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:19:27.607+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:19:27.633+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:27.633+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:19:27.647+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:27.647+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:19:27.683+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.107 seconds
+[2025-10-10T20:20:24.884+0300] {processor.py:186} INFO - Started process (PID=15531) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:20:24.890+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:20:24.893+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:24.892+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:20:24.907+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:20:24.933+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:24.933+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:20:24.947+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:24.947+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:20:24.976+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T20:21:20.878+0300] {processor.py:186} INFO - Started process (PID=15810) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:21:20.879+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:21:20.881+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:20.881+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:21:20.894+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:21:20.918+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:20.917+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:21:20.931+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:20.931+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:21:20.963+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.091 seconds
+[2025-10-10T20:22:17.909+0300] {processor.py:186} INFO - Started process (PID=16069) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:22:17.915+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:22:17.918+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:17.917+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:22:17.933+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:22:17.959+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:17.958+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:22:17.972+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:17.972+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:22:18.003+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T20:23:17.436+0300] {processor.py:186} INFO - Started process (PID=16331) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:23:17.441+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:23:17.444+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:17.444+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:23:17.459+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:23:17.486+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:17.486+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:23:17.499+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:17.499+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:23:17.524+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.096 seconds
+[2025-10-10T20:24:14.792+0300] {processor.py:186} INFO - Started process (PID=16622) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:24:14.798+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:24:14.801+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:14.800+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:24:14.816+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:24:14.842+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:14.842+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:24:14.856+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:14.856+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:24:14.887+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.103 seconds
+[2025-10-10T20:25:14.457+0300] {processor.py:186} INFO - Started process (PID=16889) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:25:14.458+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:25:14.460+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:14.460+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:25:14.473+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:25:14.498+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:14.497+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:25:14.512+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:14.512+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:25:14.547+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.097 seconds
+[2025-10-10T20:26:15.577+0300] {processor.py:186} INFO - Started process (PID=17173) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:26:15.583+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:26:15.586+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:15.585+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:26:15.600+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:26:15.627+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:15.627+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:26:15.640+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:15.640+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:26:15.670+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T20:27:13.932+0300] {processor.py:186} INFO - Started process (PID=17422) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:27:13.938+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:27:13.941+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:13.940+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:27:13.956+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:27:13.982+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:13.982+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:27:13.996+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:13.995+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:27:14.025+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T20:28:13.027+0300] {processor.py:186} INFO - Started process (PID=17704) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:28:13.033+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:28:13.035+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:13.035+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:28:13.050+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:28:13.076+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:13.076+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:28:13.090+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:13.090+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:28:13.119+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T20:29:11.313+0300] {processor.py:186} INFO - Started process (PID=18011) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:29:11.319+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:29:11.322+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:11.321+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:29:11.336+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:29:11.363+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:11.362+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:29:11.376+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:11.376+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:29:11.405+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T20:30:10.174+0300] {processor.py:186} INFO - Started process (PID=18264) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:30:10.180+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:30:10.183+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:10.182+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:30:10.197+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:30:10.224+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:10.224+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:30:10.239+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:10.238+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:30:10.264+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2025-10-10T20:31:11.353+0300] {processor.py:186} INFO - Started process (PID=18550) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:31:11.354+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:31:11.356+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:11.356+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:31:11.369+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:31:11.395+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:11.395+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:31:11.410+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:11.410+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:31:11.457+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.111 seconds
+[2025-10-10T20:32:12.916+0300] {processor.py:186} INFO - Started process (PID=18823) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:32:12.922+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:32:12.925+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:12.925+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:32:12.940+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:32:12.966+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:12.965+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:32:12.979+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:12.979+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:32:13.009+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2025-10-10T20:33:11.682+0300] {processor.py:186} INFO - Started process (PID=19084) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:33:11.688+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:33:11.691+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:11.690+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:33:11.705+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:33:11.731+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:11.731+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:33:11.744+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:11.744+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:33:11.774+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T20:34:09.897+0300] {processor.py:186} INFO - Started process (PID=19374) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:34:09.900+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:34:09.902+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:09.902+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:34:09.915+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:34:09.939+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:09.939+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:34:09.954+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:09.953+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:34:09.983+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.095 seconds
+[2025-10-10T20:35:05.919+0300] {processor.py:186} INFO - Started process (PID=19643) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:35:05.925+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:35:05.928+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:05.927+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:35:05.940+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:35:05.964+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:05.964+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:35:05.978+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:05.978+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:35:06.007+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.096 seconds
+[2025-10-10T20:36:05.565+0300] {processor.py:186} INFO - Started process (PID=19912) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:36:05.572+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:36:05.574+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:05.574+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:36:05.589+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:36:05.615+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:05.615+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:36:05.629+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:05.628+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:36:05.659+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T20:37:04.101+0300] {processor.py:186} INFO - Started process (PID=20174) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:37:04.107+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T20:37:04.110+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:04.109+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:37:04.125+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T20:37:04.151+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:04.151+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:37:04.166+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:04.165+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T20:37:04.190+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.097 seconds
+[2025-10-10T21:51:37.183+0300] {processor.py:186} INFO - Started process (PID=20719) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:51:37.189+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T21:51:37.191+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:37.191+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:51:37.206+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:51:37.231+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:37.231+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:51:37.246+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:37.246+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T21:51:37.278+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.102 seconds
+[2025-10-10T21:52:33.455+0300] {processor.py:186} INFO - Started process (PID=21137) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:52:33.461+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T21:52:33.463+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:33.463+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:52:33.476+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:52:33.500+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:33.500+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:52:33.514+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:33.514+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T21:52:33.543+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.096 seconds
+[2025-10-10T21:53:31.983+0300] {processor.py:186} INFO - Started process (PID=21615) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:53:31.989+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T21:53:31.992+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:31.992+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:53:32.005+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:53:32.031+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:32.030+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:53:32.045+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:32.045+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T21:53:32.075+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T21:54:29.497+0300] {processor.py:186} INFO - Started process (PID=22142) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:54:29.503+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T21:54:29.506+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:54:29.505+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:54:29.520+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T21:54:29.547+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:54:29.547+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:54:29.562+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:54:29.562+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T21:54:29.594+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.103 seconds
+[2025-10-10T22:16:20.972+0300] {processor.py:186} INFO - Started process (PID=25652) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:16:20.978+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:16:20.981+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:20.980+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:16:20.995+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:16:21.024+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:21.023+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:16:21.039+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:21.039+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:16:21.071+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.105 seconds
+[2025-10-10T22:17:20.676+0300] {processor.py:186} INFO - Started process (PID=25934) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:17:20.677+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:17:20.680+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:20.679+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:17:20.692+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:17:20.720+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:20.720+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:17:20.735+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:20.735+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:17:20.767+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.097 seconds
+[2025-10-10T22:18:08.670+0300] {processor.py:186} INFO - Started process (PID=26236) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:18:08.676+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:18:08.679+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:08.678+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:18:08.694+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:18:08.723+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:08.723+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:18:08.738+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:08.738+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:18:08.772+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.109 seconds
+[2025-10-10T22:18:17.499+0300] {processor.py:186} INFO - Started process (PID=26266) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:18:17.501+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:18:17.504+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:17.503+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:18:17.519+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:18:17.547+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:17.546+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:18:17.562+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:17.562+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:18:17.596+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.104 seconds
+[2025-10-10T22:19:37.266+0300] {processor.py:186} INFO - Started process (PID=27251) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:19:37.273+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:19:37.275+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:37.275+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:19:37.290+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:19:37.319+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:37.318+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:19:37.334+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:37.334+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:19:37.369+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.109 seconds
+[2025-10-10T22:20:37.013+0300] {processor.py:186} INFO - Started process (PID=27544) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:20:37.019+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:20:37.021+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:37.021+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:20:37.034+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:20:37.061+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:37.060+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:20:37.079+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:37.079+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:20:37.132+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.126 seconds
+[2025-10-10T22:22:42.816+0300] {processor.py:186} INFO - Started process (PID=28497) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:22:42.822+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:22:42.824+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:22:42.824+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:22:42.838+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:22:42.865+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:22:42.865+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:22:42.881+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:22:42.881+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:22:42.918+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.109 seconds
+[2025-10-10T22:23:42.333+0300] {processor.py:186} INFO - Started process (PID=28771) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:23:42.339+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:23:42.342+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:42.341+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:23:42.355+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:23:42.379+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:42.379+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:23:42.394+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:42.393+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:23:42.425+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T22:24:56.372+0300] {processor.py:186} INFO - Started process (PID=29642) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:24:56.378+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:24:56.381+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:24:56.381+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:24:56.397+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:24:56.427+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:24:56.427+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:24:56.442+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:24:56.441+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:24:56.475+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.111 seconds
+[2025-10-10T22:25:55.329+0300] {processor.py:186} INFO - Started process (PID=29875) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:25:55.335+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:25:55.338+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:55.338+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:25:55.351+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:25:55.376+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:55.376+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:25:55.390+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:55.389+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:25:55.419+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.097 seconds
+[2025-10-10T22:26:54.817+0300] {processor.py:186} INFO - Started process (PID=30367) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:26:54.824+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:26:54.826+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:54.826+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:26:54.841+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:26:54.872+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:54.871+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:26:54.891+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:54.891+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:26:54.931+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.122 seconds
+[2025-10-10T22:29:36.693+0300] {processor.py:186} INFO - Started process (PID=31429) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:29:36.699+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:29:36.701+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:36.701+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:29:36.715+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:29:36.742+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:36.742+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:29:36.757+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:36.757+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:29:36.795+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.107 seconds
+[2025-10-10T22:32:33.435+0300] {processor.py:186} INFO - Started process (PID=32179) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:32:33.441+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:32:33.444+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:33.443+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:32:33.458+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:32:33.488+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:33.488+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:32:33.504+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:33.504+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:32:33.538+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.111 seconds
+[2025-10-10T22:33:31.603+0300] {processor.py:186} INFO - Started process (PID=32624) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:33:31.609+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:33:31.611+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:31.611+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:33:31.624+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:33:31.649+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:31.649+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:33:31.663+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:31.663+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:33:31.694+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2025-10-10T22:34:27.391+0300] {processor.py:186} INFO - Started process (PID=32849) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:34:27.397+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:34:27.400+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:27.400+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:34:27.415+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:34:27.441+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:27.441+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:34:27.455+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:27.455+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:34:27.484+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T22:35:24.131+0300] {processor.py:186} INFO - Started process (PID=33323) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:35:24.137+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:35:24.139+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:24.139+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:35:24.152+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:35:24.177+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:24.177+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:35:24.192+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:24.191+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:35:24.225+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T22:36:29.304+0300] {processor.py:186} INFO - Started process (PID=34230) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:36:29.310+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:36:29.313+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:29.313+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:36:29.328+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:36:29.355+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:29.355+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:36:29.369+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:29.369+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:36:29.402+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.105 seconds
+[2025-10-10T22:37:27.117+0300] {processor.py:186} INFO - Started process (PID=35086) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:37:27.123+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:37:27.126+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:27.125+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:37:27.140+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:37:27.165+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:27.165+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:37:27.179+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:27.178+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:37:27.208+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.099 seconds
+[2025-10-10T22:38:23.264+0300] {processor.py:186} INFO - Started process (PID=35908) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:38:23.271+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:38:23.273+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:23.273+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:38:23.286+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:38:23.310+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:23.310+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:38:23.326+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:23.326+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:38:23.357+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T22:39:26.518+0300] {processor.py:186} INFO - Started process (PID=36806) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:39:26.520+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:39:26.522+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:26.522+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:39:26.535+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:39:26.562+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:26.562+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:39:26.577+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:26.577+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:39:26.608+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.096 seconds
+[2025-10-10T22:40:30.868+0300] {processor.py:186} INFO - Started process (PID=37646) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:40:30.875+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:40:30.877+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:40:30.877+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:40:30.891+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:40:30.917+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:40:30.917+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:40:30.933+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:40:30.933+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:40:30.966+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.104 seconds
+[2025-10-10T22:41:38.791+0300] {processor.py:186} INFO - Started process (PID=38480) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:41:38.797+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:41:38.799+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:38.799+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:41:38.812+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:41:38.838+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:38.837+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:41:38.852+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:38.852+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:41:38.880+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.097 seconds
+[2025-10-10T22:42:37.376+0300] {processor.py:186} INFO - Started process (PID=39185) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:42:37.382+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:42:37.385+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:37.384+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:42:37.397+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:42:37.436+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:37.435+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:42:37.454+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:37.454+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:42:37.494+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.124 seconds
+[2025-10-10T22:43:37.417+0300] {processor.py:186} INFO - Started process (PID=39725) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:43:37.423+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:43:37.426+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:43:37.426+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:43:37.441+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:43:37.469+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:43:37.469+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:43:37.484+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:43:37.484+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:43:37.518+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.107 seconds
+[2025-10-10T22:44:38.612+0300] {processor.py:186} INFO - Started process (PID=40688) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:44:38.619+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:44:38.622+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:38.621+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:44:38.637+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:44:38.663+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:38.663+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:44:38.678+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:38.677+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:44:38.709+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.104 seconds
+[2025-10-10T22:45:37.252+0300] {processor.py:186} INFO - Started process (PID=41420) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:45:37.259+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:45:37.261+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:37.261+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:45:37.275+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:45:37.301+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:37.301+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:45:37.317+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:37.316+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:45:37.344+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2025-10-10T22:46:35.617+0300] {processor.py:186} INFO - Started process (PID=41963) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:46:35.623+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:46:35.626+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:35.626+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:46:35.639+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:46:35.663+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:35.663+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:46:35.677+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:35.677+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:46:35.706+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.096 seconds
+[2025-10-10T22:47:37.014+0300] {processor.py:186} INFO - Started process (PID=42489) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:47:37.020+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:47:37.023+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:37.023+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:47:37.036+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:47:37.061+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:37.060+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:47:37.076+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:37.075+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:47:37.107+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2025-10-10T22:48:33.411+0300] {processor.py:186} INFO - Started process (PID=42730) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:48:33.417+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:48:33.420+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:33.419+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:48:33.435+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:48:33.461+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:33.461+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:48:33.475+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:33.475+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:48:33.505+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.102 seconds
+[2025-10-10T22:49:28.561+0300] {processor.py:186} INFO - Started process (PID=43068) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:49:28.567+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:49:28.569+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:28.569+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:49:28.583+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:49:28.609+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:28.609+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:49:28.626+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:28.625+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:49:28.668+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.114 seconds
+[2025-10-10T22:50:27.239+0300] {processor.py:186} INFO - Started process (PID=43381) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:50:27.245+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:50:27.248+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:27.247+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:50:27.260+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:50:27.285+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:27.285+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:50:27.299+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:27.299+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:50:27.330+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.098 seconds
+[2025-10-10T22:51:24.819+0300] {processor.py:186} INFO - Started process (PID=43706) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:51:24.825+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:51:24.827+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:24.827+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:51:24.843+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:51:24.871+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:24.871+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:51:24.888+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:24.887+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:51:24.921+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.108 seconds
+[2025-10-10T22:52:22.188+0300] {processor.py:186} INFO - Started process (PID=44002) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:52:22.194+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:52:22.196+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:22.196+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:52:22.209+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:52:22.233+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:22.233+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:52:22.248+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:22.247+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:52:22.278+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.099 seconds
+[2025-10-10T22:53:33.182+0300] {processor.py:186} INFO - Started process (PID=44813) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:53:33.183+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:53:33.186+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:33.186+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:53:33.199+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:53:33.228+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:33.227+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:53:33.243+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:33.243+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:53:33.271+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.095 seconds
+[2025-10-10T22:54:35.150+0300] {processor.py:186} INFO - Started process (PID=45145) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:54:35.156+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:54:35.162+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:35.158+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:54:35.190+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:54:35.245+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:35.245+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:54:35.283+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:35.283+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:54:35.332+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.195 seconds
+[2025-10-10T22:55:36.496+0300] {processor.py:186} INFO - Started process (PID=45550) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:55:36.502+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:55:36.505+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:36.504+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:55:36.518+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:55:36.545+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:36.544+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:55:36.561+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:36.561+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:55:36.596+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.107 seconds
+[2025-10-10T22:56:39.850+0300] {processor.py:186} INFO - Started process (PID=45932) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:56:39.856+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:56:39.859+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:56:39.858+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:56:39.871+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:56:39.896+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:56:39.896+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:56:39.912+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:56:39.912+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:56:39.944+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T22:57:40.909+0300] {processor.py:186} INFO - Started process (PID=46300) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:57:40.910+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:57:40.913+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:40.913+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:57:40.928+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:57:40.978+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:40.978+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:57:40.995+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:40.994+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:57:41.031+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.129 seconds
+[2025-10-10T22:59:03.082+0300] {processor.py:186} INFO - Started process (PID=47159) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:59:03.084+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T22:59:03.087+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:03.087+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:59:03.099+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T22:59:03.126+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:03.125+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:59:03.141+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:03.141+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T22:59:03.165+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.090 seconds
+[2025-10-10T23:00:01.609+0300] {processor.py:186} INFO - Started process (PID=47404) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:00:01.615+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T23:00:01.618+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:01.617+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:00:01.632+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:00:01.658+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:01.658+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:00:01.673+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:01.673+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T23:00:01.708+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.106 seconds
+[2025-10-10T23:01:48.269+0300] {processor.py:186} INFO - Started process (PID=48560) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:01:48.270+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T23:01:48.273+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.272+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:01:48.288+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:01:48.477+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.476+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_sensors
+[2025-10-10T23:01:48.497+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.497+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:example_sensors
+[2025-10-10T23:01:48.514+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.514+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_sensors
+[2025-10-10T23:01:48.540+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.539+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_sensors
+[2025-10-10T23:01:48.554+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.553+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_sensors
+[2025-10-10T23:01:48.568+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.567+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_sensors
+[2025-10-10T23:01:48.582+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.581+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_sensors
+[2025-10-10T23:01:48.583+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.582+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:01:48.599+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.598+0300] {dag.py:3262} INFO - Creating ORM DAG for example_sensors
+[2025-10-10T23:01:48.600+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:48.600+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T23:01:48.630+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.368 seconds
+[2025-10-10T23:02:55.703+0300] {processor.py:186} INFO - Started process (PID=48899) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:02:55.710+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T23:02:55.712+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:55.712+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:02:55.725+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:02:55.750+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:55.750+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:02:55.765+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:55.764+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T23:02:55.797+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-10-10T23:03:54.217+0300] {processor.py:186} INFO - Started process (PID=49748) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:03:54.224+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T23:03:54.226+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:54.226+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:03:54.241+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:03:54.268+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:54.267+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:03:54.282+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:54.282+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T23:03:54.314+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.104 seconds
+[2025-10-10T23:04:53.532+0300] {processor.py:186} INFO - Started process (PID=50188) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:04:53.538+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T23:04:53.541+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:53.541+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:04:53.555+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:04:53.583+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:53.582+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:04:53.599+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:53.599+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T23:04:53.634+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.109 seconds
+[2025-10-10T23:05:56.442+0300] {processor.py:186} INFO - Started process (PID=50747) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:05:56.449+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T23:05:56.451+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:56.451+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:05:56.466+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:05:56.493+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:56.492+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:05:56.507+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:56.506+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T23:05:56.536+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.101 seconds
+[2025-10-10T23:06:56.980+0300] {processor.py:186} INFO - Started process (PID=51058) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:06:56.986+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-10-10T23:06:56.989+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:56.989+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:06:57.003+0300] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-10-10T23:06:57.030+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:57.030+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:06:57.046+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:57.045+0300] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-10-10T23:06:57.078+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.106 seconds

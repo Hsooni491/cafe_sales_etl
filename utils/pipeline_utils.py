@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
-from sqlalchemy import create_engine
-from sqlalchemy.exc import SQLAlchemyError
-
-
+import pandas as pd
+import pandas as pd
+import psycopg2
+from psycopg2 import sql
 
 def extract_csv(file_name: str) -> pd.DataFrame:
 	'''Reads a CSV file and returns a Dataframe'''
@@ -47,18 +47,59 @@ def clean_cafe_sales(df: pd.DataFrame) -> pd.DataFrame:
 
 	return df
 
+import pandas as pd
+import psycopg2
+from psycopg2 import sql
 
-def load_to_postgres(df: pd.DataFrame, table_name: str = 'sales_data'):
-    """Loads DataFrame into PostgreSQL table safely using SQLAlchemy engine."""
+def load_to_postgres(df: pd.DataFrame, table_name: str = "sales_data"):
+    """Safe PostgreSQL loader using psycopg2 with automatic BIGINT handling."""
     try:
-        engine = create_engine("postgresql+psycopg2://postgres:4602@localhost:5432/cafe_sales")
+        conn = psycopg2.connect(
+            host="localhost",
+            database="cafe_sales",
+            user="postgres",
+            password="4602"
+        )
+        cur = conn.cursor()
 
-        with engine.begin() as conn:
-            df.to_sql(table_name, con=conn, if_exists='replace', index=False)
+        # ✅ Drop old table
+        cur.execute(sql.SQL("DROP TABLE IF EXISTS {}").format(sql.Identifier(table_name)))
 
-        row_count = len(df)
-        print(f"✅ Loaded {row_count} rows into PostgreSQL table: {table_name}")
+        # ✅ Create table dynamically with smart type detection
+        create_stmt = "CREATE TABLE {} (".format(table_name)
+        cols = []
+        for col, dtype in df.dtypes.items():
+            dtype_str = str(dtype)
+
+            if "int" in dtype_str:
+                # Automatically choose BIGINT for large numbers
+                if df[col].abs().max() > 2_147_483_647:
+                    col_type = "BIGINT"
+                else:
+                    col_type = "INTEGER"
+            elif "float" in dtype_str:
+                col_type = "FLOAT"
+            elif "datetime" in dtype_str:
+                col_type = "TIMESTAMP"
+            else:
+                col_type = "TEXT"
+            cols.append(f"{col} {col_type}")
+        create_stmt += ", ".join(cols) + ");"
+        cur.execute(create_stmt)
+
+        # ✅ Insert rows
+        cols_str = ", ".join(df.columns)
+        values_template = ", ".join(["%s"] * len(df.columns))
+        insert_stmt = f"INSERT INTO {table_name} ({cols_str}) VALUES ({values_template})"
+
+        data = [tuple(x) for x in df.to_numpy()]
+        cur.executemany(insert_stmt, data)
+
+        conn.commit()
+        cur.close()
+        conn.close()
+
+        print(f"✅ Loaded {len(df)} rows into PostgreSQL table: {table_name}")
 
     except Exception as e:
         raise RuntimeError(f"❌ Failed to load data into PostgreSQL: {e}")
-

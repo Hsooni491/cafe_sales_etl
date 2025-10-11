@@ -1,0 +1,687 @@
+[2025-10-10T19:09:40.371+0300] {processor.py:186} INFO - Started process (PID=5594) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:09:40.372+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:09:40.375+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:09:40.374+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:09:40.383+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:09:40.400+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:09:40.400+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:09:40.416+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:09:40.415+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:09:40.445+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.080 seconds
+[2025-10-10T19:10:40.606+0300] {processor.py:186} INFO - Started process (PID=5814) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:10:40.607+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:10:40.609+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:40.609+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:10:40.619+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:10:40.637+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:40.637+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:10:40.654+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:40.654+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:10:40.690+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.092 seconds
+[2025-10-10T19:11:38.129+0300] {processor.py:186} INFO - Started process (PID=6299) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:11:38.135+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:11:38.138+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:38.137+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:11:38.147+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:11:38.164+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:38.164+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:11:38.179+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:38.179+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:11:38.205+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T19:12:39.132+0300] {processor.py:186} INFO - Started process (PID=6560) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:12:39.138+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:12:39.140+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:39.140+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:12:39.151+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:12:39.168+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:39.168+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:12:39.182+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:39.182+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:12:39.211+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.086 seconds
+[2025-10-10T19:13:42.436+0300] {processor.py:186} INFO - Started process (PID=6865) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:13:42.442+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:13:42.445+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:42.444+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:13:42.453+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:13:42.469+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:42.469+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:13:42.485+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:42.484+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:13:42.513+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.085 seconds
+[2025-10-10T19:14:49.720+0300] {processor.py:186} INFO - Started process (PID=7257) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:14:49.727+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:14:49.729+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:49.729+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:14:49.739+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:14:49.757+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:49.757+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:14:49.773+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:49.773+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:14:49.801+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.088 seconds
+[2025-10-10T19:15:47.287+0300] {processor.py:186} INFO - Started process (PID=7537) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:15:47.293+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:15:47.296+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:47.296+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:15:47.307+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:15:47.324+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:47.324+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:15:47.339+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:47.339+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:15:47.365+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.086 seconds
+[2025-10-10T19:16:45.648+0300] {processor.py:186} INFO - Started process (PID=7957) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:16:45.654+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:16:45.657+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:45.656+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:16:45.667+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:16:45.686+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:45.685+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:16:45.701+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:45.700+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:16:45.727+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.087 seconds
+[2025-10-10T19:17:44.436+0300] {processor.py:186} INFO - Started process (PID=8535) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:17:44.443+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:17:44.445+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:44.445+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:17:44.454+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:17:44.473+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:44.472+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:17:44.490+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:44.490+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:17:44.526+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.097 seconds
+[2025-10-10T19:18:43.936+0300] {processor.py:186} INFO - Started process (PID=8966) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:18:43.937+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:18:43.939+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:43.939+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:18:43.948+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:18:43.965+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:43.965+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:18:43.979+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:43.979+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:18:44.005+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.076 seconds
+[2025-10-10T19:19:43.130+0300] {processor.py:186} INFO - Started process (PID=9303) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:19:43.136+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:19:43.139+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:43.139+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:19:43.148+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:19:43.164+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:43.163+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:19:43.177+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:43.177+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:19:43.202+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.079 seconds
+[2025-10-10T19:20:40.237+0300] {processor.py:186} INFO - Started process (PID=9598) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:20:40.243+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:20:40.245+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:40.245+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:20:40.253+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:20:40.270+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:40.270+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:20:40.286+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:40.285+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:20:40.313+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T19:21:37.605+0300] {processor.py:186} INFO - Started process (PID=9882) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:21:37.611+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:21:37.614+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:37.613+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:21:37.624+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:21:37.642+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:37.642+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:21:37.657+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:37.657+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:21:37.681+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.084 seconds
+[2025-10-10T19:22:33.169+0300] {processor.py:186} INFO - Started process (PID=10134) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:22:33.175+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:22:33.178+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:33.177+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:22:33.188+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:22:33.206+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:33.206+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:22:33.221+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:33.220+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:22:33.247+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.086 seconds
+[2025-10-10T19:23:30.264+0300] {processor.py:186} INFO - Started process (PID=10413) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:23:30.270+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:23:30.273+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:30.272+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:23:30.283+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:23:30.301+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:30.300+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:23:30.315+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:30.315+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:23:30.340+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.082 seconds
+[2025-10-10T19:24:27.467+0300] {processor.py:186} INFO - Started process (PID=10710) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:24:27.474+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:24:27.476+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:27.476+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:24:27.485+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:24:27.501+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:27.500+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:24:27.514+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:27.514+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:24:27.539+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.077 seconds
+[2025-10-10T19:25:23.983+0300] {processor.py:186} INFO - Started process (PID=11056) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:25:23.989+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:25:23.991+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:23.991+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:25:24.000+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:25:24.016+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:24.016+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:25:24.031+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:24.030+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:25:24.057+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.080 seconds
+[2025-10-10T19:26:20.124+0300] {processor.py:186} INFO - Started process (PID=11338) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:26:20.130+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:26:20.133+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:20.133+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:26:20.143+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:26:20.162+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:20.162+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:26:20.177+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:20.177+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:26:20.202+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.086 seconds
+[2025-10-10T19:27:19.039+0300] {processor.py:186} INFO - Started process (PID=11628) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:27:19.045+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:27:19.048+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:19.047+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:27:19.058+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:27:19.076+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:19.075+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:27:19.090+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:19.090+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:27:19.115+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T19:28:14.684+0300] {processor.py:186} INFO - Started process (PID=11912) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:28:14.690+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:28:14.693+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:14.692+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:28:14.703+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:28:14.721+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:14.720+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:28:14.736+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:14.735+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:28:14.761+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.085 seconds
+[2025-10-10T19:29:11.537+0300] {processor.py:186} INFO - Started process (PID=12195) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:29:11.538+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:29:11.540+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:11.539+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:29:11.549+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:29:11.565+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:11.565+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:29:11.581+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:11.581+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:29:11.608+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.078 seconds
+[2025-10-10T19:30:05.140+0300] {processor.py:186} INFO - Started process (PID=12447) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:30:05.146+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:30:05.149+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:05.148+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:30:05.159+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:30:05.177+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:05.176+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:30:05.191+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:05.191+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:30:05.216+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.084 seconds
+[2025-10-10T19:31:01.897+0300] {processor.py:186} INFO - Started process (PID=12719) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:31:01.903+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:31:01.906+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:01.905+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:31:01.914+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:31:01.929+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:01.929+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:31:01.943+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:01.943+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:31:01.968+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.079 seconds
+[2025-10-10T19:31:58.582+0300] {processor.py:186} INFO - Started process (PID=12980) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:31:58.588+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:31:58.590+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:58.590+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:31:58.601+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:31:58.619+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:58.618+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:31:58.633+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:58.633+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:31:58.659+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.085 seconds
+[2025-10-10T19:32:55.277+0300] {processor.py:186} INFO - Started process (PID=13250) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:32:55.279+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:32:55.281+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:55.280+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:32:55.289+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:32:55.304+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:55.304+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:32:55.318+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:55.317+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:32:55.341+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.071 seconds
+[2025-10-10T19:33:53.649+0300] {processor.py:186} INFO - Started process (PID=13573) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:33:53.650+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:33:53.652+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:53.652+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:33:53.661+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:33:53.677+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:53.676+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:33:53.691+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:53.690+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:33:53.715+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.072 seconds
+[2025-10-10T19:34:49.126+0300] {processor.py:186} INFO - Started process (PID=13850) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:34:49.132+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T19:34:49.135+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:49.134+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:34:49.145+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T19:34:49.163+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:49.163+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:34:49.178+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:49.177+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T19:34:49.206+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.087 seconds
+[2025-10-10T20:15:57.138+0300] {processor.py:186} INFO - Started process (PID=14313) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:15:57.144+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:15:57.146+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:57.146+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:15:57.156+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:15:57.174+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:57.174+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:15:57.192+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:57.189+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:15:57.218+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.088 seconds
+[2025-10-10T20:16:54.190+0300] {processor.py:186} INFO - Started process (PID=14564) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:16:54.196+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:16:54.199+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:54.199+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:16:54.209+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:16:54.227+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:54.227+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:16:54.242+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:54.242+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:16:54.266+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.082 seconds
+[2025-10-10T20:17:52.910+0300] {processor.py:186} INFO - Started process (PID=14822) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:17:52.916+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:17:52.919+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:52.918+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:17:52.929+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:17:52.947+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:52.947+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:17:52.962+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:52.961+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:17:52.986+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T20:18:49.935+0300] {processor.py:186} INFO - Started process (PID=15097) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:18:49.942+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:18:49.944+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:49.944+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:18:49.954+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:18:49.973+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:49.972+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:18:49.987+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:49.987+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:18:50.012+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.085 seconds
+[2025-10-10T20:19:45.084+0300] {processor.py:186} INFO - Started process (PID=15351) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:19:45.090+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:19:45.093+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:45.092+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:19:45.102+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:19:45.118+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:45.118+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:19:45.132+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:45.132+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:19:45.157+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.081 seconds
+[2025-10-10T20:20:41.662+0300] {processor.py:186} INFO - Started process (PID=15619) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:20:41.668+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:20:41.671+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:41.670+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:20:41.681+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:20:41.699+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:41.699+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:20:41.713+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:41.713+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:20:41.738+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T20:21:38.352+0300] {processor.py:186} INFO - Started process (PID=15879) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:21:38.358+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:21:38.361+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:38.360+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:21:38.371+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:21:38.388+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:38.388+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:21:38.403+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:38.403+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:21:38.427+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.081 seconds
+[2025-10-10T20:22:35.941+0300] {processor.py:186} INFO - Started process (PID=16148) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:22:35.947+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:22:35.950+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:35.950+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:22:35.960+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:22:35.979+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:35.979+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:22:35.993+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:35.993+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:22:36.018+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.084 seconds
+[2025-10-10T20:23:34.173+0300] {processor.py:186} INFO - Started process (PID=16416) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:23:34.179+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:23:34.182+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:34.182+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:23:34.192+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:23:34.210+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:34.210+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:23:34.225+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:34.224+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:23:34.249+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.084 seconds
+[2025-10-10T20:24:32.587+0300] {processor.py:186} INFO - Started process (PID=16690) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:24:32.594+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:24:32.596+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:32.596+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:24:32.607+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:24:32.625+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:32.625+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:24:32.639+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:32.639+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:24:32.664+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.084 seconds
+[2025-10-10T20:25:32.430+0300] {processor.py:186} INFO - Started process (PID=16974) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:25:32.431+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:25:32.433+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:32.433+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:25:32.441+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:25:32.456+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:32.456+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:25:32.471+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:32.470+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:25:32.494+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.070 seconds
+[2025-10-10T20:26:32.904+0300] {processor.py:186} INFO - Started process (PID=17247) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:26:32.910+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:26:32.912+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:32.912+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:26:32.922+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:26:32.940+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:32.940+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:26:32.955+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:32.954+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:26:32.979+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T20:27:32.105+0300] {processor.py:186} INFO - Started process (PID=17499) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:27:32.111+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:27:32.114+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:32.114+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:27:32.124+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:27:32.142+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:32.142+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:27:32.157+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:32.156+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:27:32.180+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T20:28:31.521+0300] {processor.py:186} INFO - Started process (PID=17805) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:28:31.527+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:28:31.530+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:31.529+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:28:31.538+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:28:31.554+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:31.554+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:28:31.568+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:31.568+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:28:31.592+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.079 seconds
+[2025-10-10T20:29:29.679+0300] {processor.py:186} INFO - Started process (PID=18085) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:29:29.685+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:29:29.688+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:29.687+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:29:29.698+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:29:29.716+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:29.716+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:29:29.731+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:29.730+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:29:29.754+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T20:30:28.204+0300] {processor.py:186} INFO - Started process (PID=18337) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:30:28.210+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:30:28.212+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:28.212+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:30:28.221+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:30:28.237+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:28.236+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:30:28.251+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:28.250+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:30:28.276+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.080 seconds
+[2025-10-10T20:31:29.202+0300] {processor.py:186} INFO - Started process (PID=18621) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:31:29.208+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:31:29.211+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:29.211+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:31:29.221+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:31:29.239+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:29.239+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:31:29.254+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:29.254+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:31:29.279+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.084 seconds
+[2025-10-10T20:32:29.794+0300] {processor.py:186} INFO - Started process (PID=18892) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:32:29.800+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:32:29.803+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:29.802+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:32:29.813+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:32:29.830+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:29.830+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:32:29.845+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:29.845+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:32:29.869+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T20:33:29.829+0300] {processor.py:186} INFO - Started process (PID=19161) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:33:29.835+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:33:29.837+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:29.837+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:33:29.846+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:33:29.862+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:29.862+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:33:29.876+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:29.876+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:33:29.900+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.078 seconds
+[2025-10-10T20:34:27.847+0300] {processor.py:186} INFO - Started process (PID=19457) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:34:27.853+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:34:27.856+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:27.855+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:34:27.864+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:34:27.881+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:27.881+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:34:27.896+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:27.896+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:34:27.921+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.082 seconds
+[2025-10-10T20:35:23.658+0300] {processor.py:186} INFO - Started process (PID=19716) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:35:23.665+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:35:23.667+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:23.667+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:35:23.677+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:35:23.694+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:23.694+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:35:23.709+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:23.709+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:35:23.733+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T20:36:23.485+0300] {processor.py:186} INFO - Started process (PID=19992) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:36:23.491+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:36:23.494+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:23.493+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:36:23.502+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:36:23.518+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:23.518+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:36:23.532+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:23.532+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:36:23.556+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.076 seconds
+[2025-10-10T20:37:21.903+0300] {processor.py:186} INFO - Started process (PID=20255) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:37:21.909+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T20:37:21.912+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:21.911+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:37:21.921+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T20:37:21.936+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:21.936+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:37:21.950+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:21.950+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T20:37:21.975+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.080 seconds
+[2025-10-10T21:51:52.681+0300] {processor.py:186} INFO - Started process (PID=20804) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T21:51:52.687+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T21:51:52.690+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:52.690+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T21:51:52.701+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T21:51:52.718+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:52.718+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:51:52.734+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:52.734+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T21:51:52.763+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.089 seconds
+[2025-10-10T21:52:52.571+0300] {processor.py:186} INFO - Started process (PID=21282) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T21:52:52.578+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T21:52:52.581+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:52.581+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T21:52:52.591+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T21:52:52.609+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:52.608+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:52:52.639+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:52.639+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T21:52:52.672+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.109 seconds
+[2025-10-10T21:53:50.308+0300] {processor.py:186} INFO - Started process (PID=21770) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T21:53:50.314+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T21:53:50.317+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:50.316+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T21:53:50.326+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T21:53:50.342+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:50.342+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:53:50.358+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:50.358+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T21:53:50.385+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T22:16:39.304+0300] {processor.py:186} INFO - Started process (PID=25751) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:16:39.312+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:16:39.315+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:39.315+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:16:39.324+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:16:39.343+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:39.343+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:16:39.360+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:39.360+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:16:39.387+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.090 seconds
+[2025-10-10T22:17:36.608+0300] {processor.py:186} INFO - Started process (PID=25995) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:17:36.614+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:17:36.616+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:36.616+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:17:36.624+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:17:36.642+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:36.642+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:17:36.657+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:36.657+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:17:36.683+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.082 seconds
+[2025-10-10T22:18:27.246+0300] {processor.py:186} INFO - Started process (PID=26311) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:18:27.247+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:18:27.250+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:27.250+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:18:27.259+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:18:27.275+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:27.275+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:18:27.291+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:27.290+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:18:27.317+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.076 seconds
+[2025-10-10T22:18:35.605+0300] {processor.py:186} INFO - Started process (PID=26348) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:18:35.606+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:18:35.608+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:35.607+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:18:35.617+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:18:35.634+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:35.634+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:18:35.650+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:35.650+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:18:35.676+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.077 seconds
+[2025-10-10T22:19:55.536+0300] {processor.py:186} INFO - Started process (PID=27316) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:19:55.542+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:19:55.545+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:55.544+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:19:55.553+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:19:55.571+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:55.570+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:19:55.587+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:55.586+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:19:55.615+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.085 seconds
+[2025-10-10T22:20:55.496+0300] {processor.py:186} INFO - Started process (PID=27623) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:20:55.502+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:20:55.505+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:55.505+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:20:55.517+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:20:55.535+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:55.535+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:20:55.552+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:55.552+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:20:55.585+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.096 seconds
+[2025-10-10T22:23:01.135+0300] {processor.py:186} INFO - Started process (PID=28607) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:23:01.141+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:23:01.145+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:01.144+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:23:01.154+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:23:01.175+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:01.174+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:23:01.191+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:01.191+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:23:01.240+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.112 seconds
+[2025-10-10T22:25:14.701+0300] {processor.py:186} INFO - Started process (PID=29697) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:25:14.707+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:25:14.710+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:14.709+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:25:14.718+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:25:14.734+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:14.734+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:25:14.750+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:14.750+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:25:14.781+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.087 seconds
+[2025-10-10T22:26:13.334+0300] {processor.py:186} INFO - Started process (PID=30144) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:26:13.340+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:26:13.344+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:13.343+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:26:13.354+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:26:13.375+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:13.374+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:26:13.392+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:13.392+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:26:13.426+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.098 seconds
+[2025-10-10T22:29:53.892+0300] {processor.py:186} INFO - Started process (PID=31515) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:29:53.898+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:29:53.900+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:53.900+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:29:53.908+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:29:53.925+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:53.925+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:29:53.940+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:53.940+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:29:53.966+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.082 seconds
+[2025-10-10T22:32:51.637+0300] {processor.py:186} INFO - Started process (PID=32326) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:32:51.643+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:32:51.646+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:51.646+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:32:51.656+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:32:51.678+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:51.677+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:32:51.701+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:51.700+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:32:51.744+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.114 seconds
+[2025-10-10T22:33:48.891+0300] {processor.py:186} INFO - Started process (PID=32683) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:33:48.897+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:33:48.900+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:48.899+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:33:48.909+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:33:48.926+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:48.925+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:33:48.940+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:48.940+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:33:48.966+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.081 seconds
+[2025-10-10T22:34:47.194+0300] {processor.py:186} INFO - Started process (PID=33031) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:34:47.195+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:34:47.201+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:47.199+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:34:47.213+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:34:47.235+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:47.234+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:34:47.254+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:47.253+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:34:47.289+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.103 seconds
+[2025-10-10T22:35:49.367+0300] {processor.py:186} INFO - Started process (PID=33683) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:35:49.371+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:35:49.375+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:49.374+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:35:49.383+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:35:49.412+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:49.412+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:35:49.434+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:49.433+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:35:49.480+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.120 seconds
+[2025-10-10T22:36:53.076+0300] {processor.py:186} INFO - Started process (PID=34577) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:36:53.082+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:36:53.085+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:53.085+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:36:53.094+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:36:53.111+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:53.110+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:36:53.125+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:53.125+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:36:53.150+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.080 seconds
+[2025-10-10T22:37:51.880+0300] {processor.py:186} INFO - Started process (PID=35448) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:37:51.886+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:37:51.888+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:51.888+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:37:51.899+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:37:51.916+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:51.916+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:37:51.931+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:51.931+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:37:51.956+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.082 seconds
+[2025-10-10T22:38:49.344+0300] {processor.py:186} INFO - Started process (PID=36276) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:38:49.350+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:38:49.353+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:49.352+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:38:49.362+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:38:49.381+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:49.380+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:38:49.396+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:49.396+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:38:49.420+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T22:39:53.027+0300] {processor.py:186} INFO - Started process (PID=37226) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:39:53.028+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:39:53.031+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:53.031+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:39:53.040+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:39:53.058+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:53.057+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:39:53.073+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:53.073+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:39:53.099+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.079 seconds
+[2025-10-10T22:41:00.117+0300] {processor.py:186} INFO - Started process (PID=38098) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:41:00.123+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:41:00.126+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:00.125+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:41:00.144+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:41:00.165+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:00.164+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:41:00.182+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:00.182+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:41:00.214+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.104 seconds
+[2025-10-10T22:42:02.535+0300] {processor.py:186} INFO - Started process (PID=38772) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:42:02.541+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:42:02.544+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:02.543+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:42:02.552+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:42:02.567+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:02.567+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:42:02.581+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:02.581+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:42:02.606+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.077 seconds
+[2025-10-10T22:42:59.839+0300] {processor.py:186} INFO - Started process (PID=39414) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:42:59.845+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:42:59.847+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:59.847+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:42:59.858+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:42:59.878+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:59.878+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:42:59.893+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:59.893+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:42:59.924+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.092 seconds
+[2025-10-10T22:44:01.394+0300] {processor.py:186} INFO - Started process (PID=40150) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:44:01.400+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:44:01.404+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:01.403+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:44:01.413+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:44:01.431+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:01.430+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:44:01.446+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:01.446+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:44:01.475+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.088 seconds
+[2025-10-10T22:45:00.965+0300] {processor.py:186} INFO - Started process (PID=41011) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:45:00.966+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:45:00.969+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:00.969+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:45:00.979+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:45:00.997+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:00.997+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:45:01.013+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:01.012+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:45:01.038+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.079 seconds
+[2025-10-10T22:46:00.377+0300] {processor.py:186} INFO - Started process (PID=41639) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:46:00.383+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:46:00.386+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:00.386+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:46:00.395+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:46:00.412+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:00.411+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:46:00.427+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:00.427+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:46:00.454+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T22:46:58.714+0300] {processor.py:186} INFO - Started process (PID=42228) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:46:58.720+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:46:58.722+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:58.722+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:46:58.731+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:46:58.747+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:58.747+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:46:58.762+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:58.762+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:46:58.790+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.082 seconds
+[2025-10-10T22:47:57.524+0300] {processor.py:186} INFO - Started process (PID=42571) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:47:57.530+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:47:57.533+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:57.533+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:47:57.543+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:47:57.561+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:57.561+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:47:57.576+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:57.576+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:47:57.600+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.084 seconds
+[2025-10-10T22:48:53.344+0300] {processor.py:186} INFO - Started process (PID=42833) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:48:53.351+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:48:53.353+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:53.353+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:48:53.363+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:48:53.382+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:53.381+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:48:53.397+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:53.396+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:48:53.422+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.085 seconds
+[2025-10-10T22:49:51.942+0300] {processor.py:186} INFO - Started process (PID=43169) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:49:51.948+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:49:51.951+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:51.951+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:49:51.960+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:49:51.976+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:51.976+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:49:51.990+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:51.990+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:49:52.015+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.081 seconds
+[2025-10-10T22:50:50.074+0300] {processor.py:186} INFO - Started process (PID=43554) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:50:50.080+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:50:50.083+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:50.083+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:50:50.092+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:50:50.110+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:50.109+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:50:50.126+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:50.126+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:50:50.154+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.087 seconds
+[2025-10-10T22:51:48.096+0300] {processor.py:186} INFO - Started process (PID=43808) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:51:48.102+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:51:48.105+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:48.104+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:51:48.113+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:51:48.130+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:48.130+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:51:48.145+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:48.145+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:51:48.173+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.084 seconds
+[2025-10-10T22:52:55.366+0300] {processor.py:186} INFO - Started process (PID=44332) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:52:55.367+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:52:55.369+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:55.369+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:52:55.379+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:52:55.396+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:55.396+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:52:55.413+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:55.412+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:52:55.438+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.081 seconds
+[2025-10-10T22:54:06.869+0300] {processor.py:186} INFO - Started process (PID=45033) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:54:06.875+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:54:06.877+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:06.877+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:54:06.886+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:54:06.907+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:06.906+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:54:06.924+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:06.924+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:54:06.958+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.097 seconds
+[2025-10-10T22:55:07.442+0300] {processor.py:186} INFO - Started process (PID=45315) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:55:07.448+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:55:07.451+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:07.450+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:55:07.460+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:55:07.478+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:07.478+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:55:07.494+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:07.494+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:55:07.521+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.086 seconds
+[2025-10-10T22:56:12.223+0300] {processor.py:186} INFO - Started process (PID=45799) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:56:12.229+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:56:12.232+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:56:12.231+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:56:12.240+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:56:12.257+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:56:12.257+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:56:12.272+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:56:12.272+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:56:12.300+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.083 seconds
+[2025-10-10T22:57:14.425+0300] {processor.py:186} INFO - Started process (PID=46121) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:57:14.432+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:57:14.437+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:14.437+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:57:14.448+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:57:14.465+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:14.465+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:57:14.481+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:14.481+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:57:14.512+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.095 seconds
+[2025-10-10T22:58:33.172+0300] {processor.py:186} INFO - Started process (PID=46958) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:58:33.178+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:58:33.181+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:33.180+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:58:33.191+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:58:33.210+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:33.209+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:58:33.226+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:33.226+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:58:33.257+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.093 seconds
+[2025-10-10T22:59:35.390+0300] {processor.py:186} INFO - Started process (PID=47291) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:59:35.397+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T22:59:35.399+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:35.399+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:59:35.408+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T22:59:35.425+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:35.424+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:59:35.440+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:35.440+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T22:59:35.473+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.089 seconds
+[2025-10-10T23:00:35.424+0300] {processor.py:186} INFO - Started process (PID=47634) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:00:35.431+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T23:00:35.437+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:35.437+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:00:35.470+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:00:35.491+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:35.490+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:00:35.505+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:35.505+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T23:00:35.530+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.116 seconds
+[2025-10-10T23:02:11.442+0300] {processor.py:186} INFO - Started process (PID=48632) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:02:11.443+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T23:02:11.446+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.445+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:02:11.458+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:02:11.594+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.593+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_display_name
+[2025-10-10T23:02:11.612+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.612+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:example_display_name
+[2025-10-10T23:02:11.626+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.626+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_display_name
+[2025-10-10T23:02:11.674+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.674+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_display_name
+[2025-10-10T23:02:11.690+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.689+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_display_name
+[2025-10-10T23:02:11.707+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.707+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_display_name
+[2025-10-10T23:02:11.724+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.723+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_display_name
+[2025-10-10T23:02:11.725+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.724+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:02:11.741+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.741+0300] {dag.py:3262} INFO - Creating ORM DAG for example_display_name
+[2025-10-10T23:02:11.742+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:11.742+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T23:02:11.767+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.333 seconds
+[2025-10-10T23:03:16.948+0300] {processor.py:186} INFO - Started process (PID=49220) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:03:16.954+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T23:03:16.956+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:16.956+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:03:16.966+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:03:16.984+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:16.984+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:03:17.000+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:16.999+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T23:03:17.026+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.085 seconds
+[2025-10-10T23:04:17.414+0300] {processor.py:186} INFO - Started process (PID=49939) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:04:17.420+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T23:04:17.423+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:17.422+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:04:17.433+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:04:17.453+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:17.452+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:04:17.469+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:17.468+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T23:04:17.500+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.095 seconds
+[2025-10-10T23:05:18.602+0300] {processor.py:186} INFO - Started process (PID=50532) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:05:18.603+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T23:05:18.606+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:18.606+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:05:18.616+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:05:18.635+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:18.634+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:05:18.651+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:18.651+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T23:05:18.683+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.095 seconds
+[2025-10-10T23:06:18.987+0300] {processor.py:186} INFO - Started process (PID=50883) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:06:18.993+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T23:06:18.996+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:18.995+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:06:19.006+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:06:19.024+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:19.024+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:06:19.039+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:19.039+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T23:06:19.064+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.085 seconds
+[2025-10-10T23:07:17.959+0300] {processor.py:186} INFO - Started process (PID=51162) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:07:17.965+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-10-10T23:07:17.968+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:07:17.967+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:07:17.976+0300] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-10-10T23:07:17.993+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:07:17.992+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:07:18.008+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:07:18.007+0300] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-10-10T23:07:18.035+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.082 seconds

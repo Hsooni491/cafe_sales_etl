@@ -1,0 +1,757 @@
+[2025-10-10T19:08:59.204+0300] {processor.py:186} INFO - Started process (PID=5357) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:08:59.204+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:08:59.207+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:08:59.206+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:08:59.225+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:08:59.257+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:08:59.257+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:08:59.277+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:08:59.277+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:08:59.315+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.119 seconds
+[2025-10-10T19:10:04.100+0300] {processor.py:186} INFO - Started process (PID=5683) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:10:04.101+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:10:04.103+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:04.103+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:10:04.115+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:10:04.132+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:04.131+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:10:04.146+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:10:04.145+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:10:04.176+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.083 seconds
+[2025-10-10T19:11:02.786+0300] {processor.py:186} INFO - Started process (PID=6130) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:11:02.792+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:11:02.795+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:02.794+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:11:02.806+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:11:02.824+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:02.824+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:11:02.854+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:11:02.852+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:11:02.912+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.132 seconds
+[2025-10-10T19:12:02.250+0300] {processor.py:186} INFO - Started process (PID=6392) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:12:02.257+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:12:02.260+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:02.259+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:12:02.272+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:12:02.290+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:02.290+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:12:02.304+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:12:02.304+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:12:02.331+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.088 seconds
+[2025-10-10T19:13:03.498+0300] {processor.py:186} INFO - Started process (PID=6682) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:13:03.504+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:13:03.506+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:03.506+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:13:03.517+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:13:03.534+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:03.533+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:13:03.548+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:13:03.548+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:13:03.575+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.083 seconds
+[2025-10-10T19:14:06.464+0300] {processor.py:186} INFO - Started process (PID=7001) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:14:06.470+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:14:06.473+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:06.473+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:14:06.485+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:14:06.503+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:06.503+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:14:06.518+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:14:06.518+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:14:06.547+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.090 seconds
+[2025-10-10T19:15:10.139+0300] {processor.py:186} INFO - Started process (PID=7358) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:15:10.145+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:15:10.148+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:10.147+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:15:10.159+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:15:10.177+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:10.177+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:15:10.191+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:15:10.191+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:15:10.219+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.088 seconds
+[2025-10-10T19:16:08.158+0300] {processor.py:186} INFO - Started process (PID=7631) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:16:08.164+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:16:08.167+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:08.166+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:16:08.178+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:16:08.195+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:08.195+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:16:08.209+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:16:08.209+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:16:08.236+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T19:17:05.452+0300] {processor.py:186} INFO - Started process (PID=8148) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:17:05.460+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:17:05.462+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:05.462+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:17:05.473+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:17:05.492+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:05.491+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:17:05.508+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:17:05.508+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:17:05.543+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.099 seconds
+[2025-10-10T19:18:04.085+0300] {processor.py:186} INFO - Started process (PID=8717) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:18:04.091+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:18:04.094+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:04.093+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:18:04.105+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:18:04.123+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:04.122+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:18:04.138+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:18:04.137+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:18:04.164+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T19:19:03.467+0300] {processor.py:186} INFO - Started process (PID=9075) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:19:03.468+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:19:03.471+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:03.470+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:19:03.482+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:19:03.499+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:03.498+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:19:03.513+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:03.513+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:19:03.537+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.076 seconds
+[2025-10-10T19:19:59.975+0300] {processor.py:186} INFO - Started process (PID=9400) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:19:59.981+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:19:59.984+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:19:59.984+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:19:59.996+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:20:00.014+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:00.014+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:20:00.029+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:00.029+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:20:00.053+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T19:20:56.024+0300] {processor.py:186} INFO - Started process (PID=9673) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:20:56.030+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:20:56.032+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:56.032+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:20:56.043+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:20:56.060+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:56.059+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:20:56.074+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:20:56.074+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:20:56.101+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.084 seconds
+[2025-10-10T19:21:51.682+0300] {processor.py:186} INFO - Started process (PID=9931) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:21:51.688+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:21:51.691+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:51.690+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:21:51.703+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:21:51.721+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:51.721+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:21:51.735+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:21:51.735+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:21:51.761+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T19:22:48.240+0300] {processor.py:186} INFO - Started process (PID=10207) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:22:48.246+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:22:48.249+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:48.248+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:22:48.261+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:22:48.276+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:48.276+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:22:48.290+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:22:48.290+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:22:48.315+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.082 seconds
+[2025-10-10T19:23:46.999+0300] {processor.py:186} INFO - Started process (PID=10483) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:23:47.005+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:23:47.008+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:47.007+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:23:47.020+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:23:47.038+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:47.037+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:23:47.052+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:23:47.052+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:23:47.075+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.084 seconds
+[2025-10-10T19:24:44.378+0300] {processor.py:186} INFO - Started process (PID=10834) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:24:44.384+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:24:44.387+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:44.386+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:24:44.399+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:24:44.417+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:44.417+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:24:44.432+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:24:44.431+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:24:44.456+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T19:25:38.549+0300] {processor.py:186} INFO - Started process (PID=11140) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:25:38.555+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:25:38.559+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:38.558+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:25:38.574+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:25:38.595+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:38.594+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:25:38.610+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:25:38.610+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:25:38.640+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.101 seconds
+[2025-10-10T19:26:36.442+0300] {processor.py:186} INFO - Started process (PID=11424) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:26:36.443+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:26:36.446+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:36.445+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:26:36.455+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:26:36.471+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:36.471+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:26:36.485+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:26:36.485+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:26:36.509+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.075 seconds
+[2025-10-10T19:27:33.871+0300] {processor.py:186} INFO - Started process (PID=11698) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:27:33.872+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:27:33.874+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:33.874+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:27:33.884+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:27:33.900+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:33.900+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:27:33.914+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:27:33.914+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:27:33.939+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.074 seconds
+[2025-10-10T19:28:32.548+0300] {processor.py:186} INFO - Started process (PID=11987) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:28:32.554+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:28:32.557+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:32.557+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:28:32.567+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:28:32.583+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:32.583+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:28:32.597+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:28:32.597+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:28:32.621+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.080 seconds
+[2025-10-10T19:29:25.862+0300] {processor.py:186} INFO - Started process (PID=12262) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:29:25.868+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:29:25.871+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:25.870+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:29:25.883+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:29:25.901+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:25.901+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:29:25.916+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:29:25.915+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:29:25.941+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.087 seconds
+[2025-10-10T19:30:20.234+0300] {processor.py:186} INFO - Started process (PID=12527) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:30:20.235+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:30:20.237+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:20.237+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:30:20.248+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:30:20.264+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:20.264+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:30:20.279+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:30:20.279+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:30:20.305+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.077 seconds
+[2025-10-10T19:31:16.562+0300] {processor.py:186} INFO - Started process (PID=12793) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:31:16.568+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:31:16.571+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:16.570+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:31:16.583+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:31:16.601+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:16.600+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:31:16.615+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:31:16.615+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:31:16.639+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T19:32:12.381+0300] {processor.py:186} INFO - Started process (PID=13040) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:32:12.387+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:32:12.390+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:12.389+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:32:12.400+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:32:12.416+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:12.416+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:32:12.431+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:32:12.431+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:32:12.455+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.082 seconds
+[2025-10-10T19:33:10.431+0300] {processor.py:186} INFO - Started process (PID=13320) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:33:10.437+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:33:10.440+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:10.439+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:33:10.452+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:33:10.470+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:10.469+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:33:10.484+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:33:10.484+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:33:10.508+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T19:34:07.488+0300] {processor.py:186} INFO - Started process (PID=13641) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:34:07.494+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:34:07.497+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:07.496+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:34:07.509+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:34:07.527+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:07.527+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:34:07.541+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:34:07.541+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:34:07.566+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T19:35:01.331+0300] {processor.py:186} INFO - Started process (PID=13901) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:35:01.337+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T19:35:01.340+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:35:01.339+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:35:01.351+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T19:35:01.369+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:35:01.369+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T19:35:01.384+0300] {logging_mixin.py:190} INFO - [2025-10-10T19:35:01.383+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T19:35:01.408+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T20:15:23.596+0300] {processor.py:186} INFO - Started process (PID=14179) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:15:23.602+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:15:23.605+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:23.604+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:15:23.617+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:15:23.635+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:23.634+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:15:23.649+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:15:23.649+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:15:23.675+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.087 seconds
+[2025-10-10T20:16:19.387+0300] {processor.py:186} INFO - Started process (PID=14404) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:16:19.393+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:16:19.395+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:19.395+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:16:19.407+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:16:19.425+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:19.425+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:16:19.441+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:16:19.440+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:16:19.465+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T20:17:14.512+0300] {processor.py:186} INFO - Started process (PID=14657) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:17:14.518+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:17:14.521+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:14.520+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:17:14.533+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:17:14.550+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:14.550+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:17:14.565+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:17:14.564+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:17:14.590+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T20:18:13.033+0300] {processor.py:186} INFO - Started process (PID=14909) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:18:13.039+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:18:13.041+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:13.041+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:18:13.052+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:18:13.068+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:13.068+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:18:13.082+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:18:13.082+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:18:13.106+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.081 seconds
+[2025-10-10T20:19:07.972+0300] {processor.py:186} INFO - Started process (PID=15168) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:19:07.973+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:19:07.976+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:07.975+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:19:07.985+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:19:08.003+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:08.003+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:19:08.020+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:19:08.019+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:19:08.046+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.081 seconds
+[2025-10-10T20:20:02.729+0300] {processor.py:186} INFO - Started process (PID=15419) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:20:02.735+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:20:02.738+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:02.737+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:20:02.750+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:20:02.767+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:02.767+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:20:02.782+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:02.781+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:20:02.806+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T20:20:59.900+0300] {processor.py:186} INFO - Started process (PID=15698) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:20:59.901+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:20:59.904+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:59.903+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:20:59.915+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:20:59.933+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:59.933+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:20:59.948+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:20:59.947+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:20:59.974+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.081 seconds
+[2025-10-10T20:21:57.384+0300] {processor.py:186} INFO - Started process (PID=15971) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:21:57.385+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:21:57.388+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:57.387+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:21:57.399+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:21:57.416+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:57.416+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:21:57.430+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:21:57.429+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:21:57.454+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.078 seconds
+[2025-10-10T20:22:55.369+0300] {processor.py:186} INFO - Started process (PID=16236) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:22:55.375+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:22:55.378+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:55.377+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:22:55.390+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:22:55.407+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:55.407+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:22:55.422+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:22:55.422+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:22:55.446+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.083 seconds
+[2025-10-10T20:23:52.787+0300] {processor.py:186} INFO - Started process (PID=16520) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:23:52.793+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:23:52.795+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:52.795+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:23:52.808+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:23:52.826+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:52.825+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:23:52.840+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:23:52.840+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:23:52.885+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.106 seconds
+[2025-10-10T20:24:51.873+0300] {processor.py:186} INFO - Started process (PID=16777) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:24:51.879+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:24:51.882+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:51.881+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:24:51.894+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:24:51.912+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:51.911+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:24:51.926+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:24:51.925+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:24:51.951+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T20:25:51.206+0300] {processor.py:186} INFO - Started process (PID=17064) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:25:51.207+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:25:51.209+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:51.209+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:25:51.220+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:25:51.238+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:51.238+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:25:51.253+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:25:51.252+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:25:51.279+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.079 seconds
+[2025-10-10T20:26:50.456+0300] {processor.py:186} INFO - Started process (PID=17324) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:26:50.463+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:26:50.465+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:50.465+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:26:50.477+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:26:50.494+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:50.494+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:26:50.509+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:26:50.509+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:26:50.534+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T20:27:49.416+0300] {processor.py:186} INFO - Started process (PID=17579) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:27:49.422+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:27:49.425+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:49.424+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:27:49.436+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:27:49.454+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:49.454+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:27:49.468+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:27:49.468+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:27:49.492+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.084 seconds
+[2025-10-10T20:28:46.014+0300] {processor.py:186} INFO - Started process (PID=17906) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:28:46.015+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:28:46.017+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:46.017+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:28:46.027+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:28:46.043+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:46.043+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:28:46.057+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:28:46.057+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:28:46.081+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.073 seconds
+[2025-10-10T20:29:45.290+0300] {processor.py:186} INFO - Started process (PID=18161) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:29:45.296+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:29:45.299+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:45.299+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:29:45.311+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:29:45.329+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:45.329+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:29:45.344+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:29:45.343+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:29:45.368+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T20:30:43.780+0300] {processor.py:186} INFO - Started process (PID=18417) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:30:43.782+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:30:43.784+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:43.784+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:30:43.794+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:30:43.810+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:43.809+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:30:43.823+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:30:43.823+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:30:43.849+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.075 seconds
+[2025-10-10T20:31:44.353+0300] {processor.py:186} INFO - Started process (PID=18697) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:31:44.359+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:31:44.361+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:44.361+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:31:44.372+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:31:44.387+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:44.387+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:31:44.401+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:31:44.401+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:31:44.426+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.081 seconds
+[2025-10-10T20:32:44.794+0300] {processor.py:186} INFO - Started process (PID=18964) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:32:44.796+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:32:44.798+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:44.798+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:32:44.810+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:32:44.826+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:44.826+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:32:44.840+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:32:44.840+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:32:44.864+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.077 seconds
+[2025-10-10T20:33:44.189+0300] {processor.py:186} INFO - Started process (PID=19258) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:33:44.195+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:33:44.198+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:44.197+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:33:44.210+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:33:44.227+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:44.227+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:33:44.242+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:33:44.242+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:33:44.267+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T20:34:41.252+0300] {processor.py:186} INFO - Started process (PID=19521) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:34:41.258+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:34:41.261+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:41.260+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:34:41.271+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:34:41.287+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:41.287+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:34:41.301+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:34:41.300+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:34:41.325+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.080 seconds
+[2025-10-10T20:35:38.238+0300] {processor.py:186} INFO - Started process (PID=19792) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:35:38.244+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:35:38.247+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:38.246+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:35:38.257+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:35:38.273+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:38.273+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:35:38.287+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:35:38.287+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:35:38.312+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.081 seconds
+[2025-10-10T20:36:36.426+0300] {processor.py:186} INFO - Started process (PID=20046) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:36:36.433+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:36:36.435+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:36.435+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:36:36.447+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:36:36.465+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:36.465+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:36:36.479+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:36:36.479+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:36:36.504+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T20:37:33.405+0300] {processor.py:186} INFO - Started process (PID=20321) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:37:33.411+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T20:37:33.414+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:33.413+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:37:33.426+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T20:37:33.444+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:33.443+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T20:37:33.458+0300] {logging_mixin.py:190} INFO - [2025-10-10T20:37:33.458+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T20:37:33.484+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T21:51:19.808+0300] {processor.py:186} INFO - Started process (PID=20628) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:51:19.814+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T21:51:19.816+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:19.816+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:51:19.828+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:51:19.846+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:19.846+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:51:19.861+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:51:19.860+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T21:51:19.886+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T21:52:15.091+0300] {processor.py:186} INFO - Started process (PID=20949) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:52:15.097+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T21:52:15.100+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:15.100+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:52:15.111+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:52:15.128+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:15.128+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:52:15.142+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:52:15.142+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T21:52:15.167+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.082 seconds
+[2025-10-10T21:53:12.985+0300] {processor.py:186} INFO - Started process (PID=21448) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:53:12.992+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T21:53:12.994+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:12.994+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:53:13.005+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:53:13.022+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:13.021+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:53:13.037+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:53:13.037+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T21:53:13.064+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T21:54:11.190+0300] {processor.py:186} INFO - Started process (PID=21969) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:54:11.196+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T21:54:11.198+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:54:11.198+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:54:11.211+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T21:54:11.228+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:54:11.228+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T21:54:11.242+0300] {logging_mixin.py:190} INFO - [2025-10-10T21:54:11.242+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T21:54:11.267+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T22:16:02.264+0300] {processor.py:186} INFO - Started process (PID=25557) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:16:02.270+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:16:02.272+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:02.272+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:16:02.283+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:16:02.311+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:02.311+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:16:02.327+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:16:02.327+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:16:02.353+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.098 seconds
+[2025-10-10T22:17:01.369+0300] {processor.py:186} INFO - Started process (PID=25882) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:17:01.376+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:17:01.378+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:01.378+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:17:01.391+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:17:01.412+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:01.412+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:17:01.429+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:01.428+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:17:01.460+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.098 seconds
+[2025-10-10T22:17:50.269+0300] {processor.py:186} INFO - Started process (PID=26111) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:17:50.275+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:17:50.278+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:50.278+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:17:50.291+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:17:50.318+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:50.318+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:17:50.333+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:50.333+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:17:50.361+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.100 seconds
+[2025-10-10T22:17:58.630+0300] {processor.py:186} INFO - Started process (PID=26175) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:17:58.631+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:17:58.634+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:58.634+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:17:58.645+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:17:58.664+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:58.663+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:17:58.681+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:17:58.680+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:17:58.711+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.089 seconds
+[2025-10-10T22:18:48.711+0300] {processor.py:186} INFO - Started process (PID=26582) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:18:48.718+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:18:48.720+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:48.720+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:18:48.732+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:18:48.750+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:48.749+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:18:48.764+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:48.764+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:18:48.790+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T22:18:53.254+0300] {processor.py:186} INFO - Started process (PID=26628) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:18:53.255+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:18:53.257+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:53.257+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:18:53.267+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:18:53.284+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:53.283+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:18:53.298+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:18:53.298+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:18:53.326+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.078 seconds
+[2025-10-10T22:19:17.707+0300] {processor.py:186} INFO - Started process (PID=27095) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:19:17.708+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:19:17.711+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:17.710+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:19:17.722+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:19:17.748+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:17.747+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:19:17.764+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:19:17.763+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:19:17.795+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.094 seconds
+[2025-10-10T22:20:18.649+0300] {processor.py:186} INFO - Started process (PID=27458) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:20:18.656+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:20:18.659+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:18.658+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:20:18.673+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:20:18.695+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:18.694+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:20:18.713+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:20:18.712+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:20:18.753+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.112 seconds
+[2025-10-10T22:21:15.905+0300] {processor.py:186} INFO - Started process (PID=27864) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:21:15.912+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:21:15.916+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:21:15.915+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:21:15.951+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:21:15.992+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:21:15.992+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:21:16.042+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:21:16.042+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:21:16.113+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.215 seconds
+[2025-10-10T22:22:23.408+0300] {processor.py:186} INFO - Started process (PID=28333) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:22:23.414+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:22:23.417+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:22:23.416+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:22:23.429+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:22:23.459+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:22:23.458+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:22:23.477+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:22:23.477+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:22:23.510+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.108 seconds
+[2025-10-10T22:23:23.355+0300] {processor.py:186} INFO - Started process (PID=28692) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:23:23.361+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:23:23.364+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:23.364+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:23:23.377+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:23:23.395+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:23.394+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:23:23.411+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:23:23.411+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:23:23.441+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.094 seconds
+[2025-10-10T22:24:35.870+0300] {processor.py:186} INFO - Started process (PID=29465) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:24:35.876+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:24:35.879+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:24:35.878+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:24:35.894+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:24:35.922+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:24:35.922+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:24:35.937+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:24:35.936+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:24:35.967+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.104 seconds
+[2025-10-10T22:25:36.881+0300] {processor.py:186} INFO - Started process (PID=29805) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:25:36.883+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:25:36.886+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:36.885+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:25:36.900+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:25:36.919+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:36.919+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:25:36.935+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:25:36.935+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:25:36.965+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.094 seconds
+[2025-10-10T22:26:36.228+0300] {processor.py:186} INFO - Started process (PID=30258) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:26:36.230+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:26:36.232+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:36.232+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:26:36.243+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:26:36.260+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:36.260+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:26:36.275+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:26:36.275+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:26:36.306+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T22:29:17.215+0300] {processor.py:186} INFO - Started process (PID=31272) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:29:17.221+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:29:17.224+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:17.223+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:29:17.235+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:29:17.263+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:17.263+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:29:17.279+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:29:17.279+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:29:17.306+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.098 seconds
+[2025-10-10T22:32:14.738+0300] {processor.py:186} INFO - Started process (PID=31905) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:32:14.745+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:32:14.747+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:14.747+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:32:14.758+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:32:14.787+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:14.787+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:32:14.802+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:32:14.801+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:32:14.826+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.095 seconds
+[2025-10-10T22:33:12.580+0300] {processor.py:186} INFO - Started process (PID=32544) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:33:12.581+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:33:12.584+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:12.583+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:33:12.595+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:33:12.612+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:12.611+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:33:12.627+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:33:12.627+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:33:12.662+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.088 seconds
+[2025-10-10T22:34:08.389+0300] {processor.py:186} INFO - Started process (PID=32772) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:34:08.395+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:34:08.398+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:08.398+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:34:08.408+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:34:08.425+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:08.424+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:34:08.440+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:34:08.440+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:34:08.465+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.082 seconds
+[2025-10-10T22:35:05.215+0300] {processor.py:186} INFO - Started process (PID=33171) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:35:05.221+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:35:05.224+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:05.223+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:35:05.235+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:35:05.252+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:05.252+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:35:05.268+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:35:05.268+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:35:05.297+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.089 seconds
+[2025-10-10T22:36:09.931+0300] {processor.py:186} INFO - Started process (PID=33938) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:36:09.937+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:36:09.940+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:09.939+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:36:09.952+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:36:09.969+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:09.969+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:36:09.984+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:36:09.983+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:36:10.009+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.085 seconds
+[2025-10-10T22:37:09.632+0300] {processor.py:186} INFO - Started process (PID=34823) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:37:09.638+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:37:09.641+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:09.640+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:37:09.652+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:37:09.669+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:09.669+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:37:09.685+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:37:09.684+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:37:09.714+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.089 seconds
+[2025-10-10T22:38:04.687+0300] {processor.py:186} INFO - Started process (PID=35643) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:38:04.693+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:38:04.696+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:04.695+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:38:04.706+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:38:04.723+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:04.722+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:38:04.737+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:38:04.737+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:38:04.763+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.082 seconds
+[2025-10-10T22:39:07.746+0300] {processor.py:186} INFO - Started process (PID=36555) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:39:07.752+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:39:07.755+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:07.754+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:39:07.766+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:39:07.784+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:07.783+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:39:07.799+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:39:07.798+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:39:07.862+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.124 seconds
+[2025-10-10T22:40:11.169+0300] {processor.py:186} INFO - Started process (PID=37400) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:40:11.170+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:40:11.172+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:40:11.172+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:40:11.183+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:40:11.201+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:40:11.201+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:40:11.221+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:40:11.221+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:40:11.249+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.088 seconds
+[2025-10-10T22:41:20.207+0300] {processor.py:186} INFO - Started process (PID=38293) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:41:20.213+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:41:20.216+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:20.215+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:41:20.228+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:41:20.246+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:20.246+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:41:20.276+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:41:20.276+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:41:20.308+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.109 seconds
+[2025-10-10T22:42:18.159+0300] {processor.py:186} INFO - Started process (PID=39019) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:42:18.165+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:42:18.168+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:18.167+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:42:18.180+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:42:18.198+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:18.197+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:42:18.212+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:42:18.212+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:42:18.237+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T22:43:19.021+0300] {processor.py:186} INFO - Started process (PID=39594) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:43:19.027+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:43:19.030+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:43:19.030+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:43:19.042+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:43:19.062+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:43:19.061+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:43:19.079+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:43:19.079+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:43:19.109+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.095 seconds
+[2025-10-10T22:44:19.196+0300] {processor.py:186} INFO - Started process (PID=40406) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:44:19.202+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:44:19.205+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:19.204+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:44:19.215+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:44:19.233+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:19.233+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:44:19.248+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:44:19.248+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:44:19.281+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.091 seconds
+[2025-10-10T22:45:18.536+0300] {processor.py:186} INFO - Started process (PID=41255) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:45:18.542+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:45:18.545+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:18.545+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:45:18.557+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:45:18.575+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:18.575+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:45:18.589+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:45:18.589+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:45:18.615+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.084 seconds
+[2025-10-10T22:46:16.683+0300] {processor.py:186} INFO - Started process (PID=41779) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:46:16.684+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:46:16.686+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:16.686+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:46:16.697+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:46:16.713+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:16.713+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:46:16.727+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:46:16.727+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:46:16.752+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.076 seconds
+[2025-10-10T22:47:18.461+0300] {processor.py:186} INFO - Started process (PID=42409) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:47:18.470+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:47:18.475+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:18.474+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:47:18.489+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:47:18.509+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:18.509+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:47:18.528+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:47:18.528+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:47:18.567+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.113 seconds
+[2025-10-10T22:48:16.968+0300] {processor.py:186} INFO - Started process (PID=42652) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:48:16.975+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:48:16.980+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:16.980+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:48:16.993+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:48:17.014+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:17.013+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:48:17.031+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:48:17.030+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:48:17.061+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.100 seconds
+[2025-10-10T22:49:09.600+0300] {processor.py:186} INFO - Started process (PID=42925) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:49:09.606+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:49:09.609+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:09.608+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:49:09.619+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:49:09.636+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:09.635+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:49:09.651+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:49:09.651+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:49:09.678+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.084 seconds
+[2025-10-10T22:50:08.422+0300] {processor.py:186} INFO - Started process (PID=43236) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:50:08.428+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:50:08.431+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:08.431+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:50:08.442+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:50:08.459+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:08.459+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:50:08.475+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:50:08.475+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:50:08.505+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.091 seconds
+[2025-10-10T22:51:06.373+0300] {processor.py:186} INFO - Started process (PID=43629) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:51:06.380+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:51:06.382+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:06.382+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:51:06.392+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:51:06.409+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:06.408+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:51:06.423+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:51:06.423+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:51:06.447+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.082 seconds
+[2025-10-10T22:52:05.425+0300] {processor.py:186} INFO - Started process (PID=43890) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:52:05.431+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:52:05.434+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:05.433+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:52:05.444+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:52:05.465+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:05.465+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:52:05.481+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:52:05.481+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:52:05.512+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.093 seconds
+[2025-10-10T22:53:13.633+0300] {processor.py:186} INFO - Started process (PID=44547) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:53:13.639+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:53:13.642+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:13.641+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:53:13.655+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:53:13.672+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:13.672+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:53:13.688+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:13.687+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:53:13.720+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.094 seconds
+[2025-10-10T22:53:54.027+0300] {processor.py:186} INFO - Started process (PID=44914) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:53:54.028+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:53:54.031+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:54.031+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:53:54.043+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:53:54.079+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:54.079+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:53:54.119+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:53:54.119+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:53:54.185+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.165 seconds
+[2025-10-10T22:54:55.688+0300] {processor.py:186} INFO - Started process (PID=45256) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:54:55.694+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:54:55.697+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:55.696+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:54:55.709+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:54:55.727+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:55.727+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:54:55.742+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:54:55.742+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:54:55.768+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.088 seconds
+[2025-10-10T22:55:57.778+0300] {processor.py:186} INFO - Started process (PID=45676) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:55:57.784+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:55:57.787+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:57.787+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:55:57.797+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:55:57.814+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:57.813+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:55:57.828+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:55:57.828+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:55:57.853+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.082 seconds
+[2025-10-10T22:56:59.981+0300] {processor.py:186} INFO - Started process (PID=46016) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:56:59.984+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:56:59.986+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:56:59.986+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:56:59.997+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:57:00.017+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:00.017+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:57:00.033+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:57:00.032+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:57:00.059+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T22:58:09.815+0300] {processor.py:186} INFO - Started process (PID=46651) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:58:09.816+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:58:09.819+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:09.819+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:58:09.829+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:58:09.847+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:09.847+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:58:09.862+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:09.862+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:58:09.890+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.082 seconds
+[2025-10-10T22:58:50.169+0300] {processor.py:186} INFO - Started process (PID=47091) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:58:50.175+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:58:50.178+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:50.178+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:58:50.188+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:58:50.205+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:50.204+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:58:50.220+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:58:50.220+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:58:50.249+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.086 seconds
+[2025-10-10T22:59:48.291+0300] {processor.py:186} INFO - Started process (PID=47349) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:59:48.297+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T22:59:48.303+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:48.302+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:59:48.316+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T22:59:48.338+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:48.338+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T22:59:48.358+0300] {logging_mixin.py:190} INFO - [2025-10-10T22:59:48.357+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T22:59:48.395+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.112 seconds
+[2025-10-10T23:00:52.048+0300] {processor.py:186} INFO - Started process (PID=47877) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:00:52.055+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T23:00:52.060+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:52.060+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:00:52.073+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:00:52.105+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:52.104+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:00:52.138+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:00:52.138+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T23:00:52.176+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.138 seconds
+[2025-10-10T23:01:25.595+0300] {processor.py:186} INFO - Started process (PID=48369) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:01:25.601+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T23:01:25.603+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.603+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:01:25.614+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:01:25.763+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.762+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:tutorial_objectstorage
+[2025-10-10T23:01:25.783+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.783+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:tutorial_objectstorage
+[2025-10-10T23:01:25.798+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.798+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:tutorial_objectstorage
+[2025-10-10T23:01:25.823+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.822+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tutorial_objectstorage
+[2025-10-10T23:01:25.838+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.838+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tutorial_objectstorage
+[2025-10-10T23:01:25.854+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.853+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tutorial_objectstorage
+[2025-10-10T23:01:25.869+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.868+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tutorial_objectstorage
+[2025-10-10T23:01:25.869+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.869+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:01:25.884+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.883+0300] {dag.py:3262} INFO - Creating ORM DAG for tutorial_objectstorage
+[2025-10-10T23:01:25.884+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:01:25.884+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T23:01:25.910+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.321 seconds
+[2025-10-10T23:02:36.373+0300] {processor.py:186} INFO - Started process (PID=48751) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:02:36.379+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T23:02:36.382+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:36.381+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:02:36.393+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:02:36.410+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:36.409+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:02:36.427+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:02:36.426+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T23:02:36.465+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.100 seconds
+[2025-10-10T23:03:35.827+0300] {processor.py:186} INFO - Started process (PID=49522) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:03:35.829+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T23:03:35.832+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:35.831+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:03:35.841+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:03:35.857+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:35.857+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:03:35.873+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:03:35.873+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T23:03:35.933+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.112 seconds
+[2025-10-10T23:04:32.947+0300] {processor.py:186} INFO - Started process (PID=50013) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:04:32.956+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T23:04:32.960+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:32.959+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:04:32.971+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:04:32.990+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:32.990+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:04:33.007+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:04:33.007+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T23:04:33.047+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.107 seconds
+[2025-10-10T23:05:37.119+0300] {processor.py:186} INFO - Started process (PID=50665) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:05:37.120+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T23:05:37.123+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:37.122+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:05:37.133+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:05:37.154+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:37.154+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:05:37.170+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:05:37.170+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T23:05:37.221+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.108 seconds
+[2025-10-10T23:06:38.214+0300] {processor.py:186} INFO - Started process (PID=50982) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:06:38.220+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-10-10T23:06:38.223+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:38.222+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:06:38.234+0300] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-10-10T23:06:38.251+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:38.251+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-10T23:06:38.266+0300] {logging_mixin.py:190} INFO - [2025-10-10T23:06:38.266+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-10-10T23:06:38.308+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.103 seconds

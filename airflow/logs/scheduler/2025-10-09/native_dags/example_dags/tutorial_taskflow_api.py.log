@@ -1,0 +1,71 @@
+[2025-10-09T23:47:04.677+0300] {processor.py:186} INFO - Started process (PID=44443) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:47:04.678+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-10-09T23:47:04.680+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.680+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:47:04.689+0300] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:47:04.828+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.828+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api
+[2025-10-09T23:47:04.845+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.845+0300] {override.py:1900} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api
+[2025-10-09T23:47:04.862+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.861+0300] {override.py:1900} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api
+[2025-10-09T23:47:04.885+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.885+0300] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tutorial_taskflow_api
+[2025-10-09T23:47:04.898+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.898+0300] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tutorial_taskflow_api
+[2025-10-09T23:47:04.911+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.911+0300] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tutorial_taskflow_api
+[2025-10-09T23:47:04.924+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.924+0300] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tutorial_taskflow_api
+[2025-10-09T23:47:04.925+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.924+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:47:04.938+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.938+0300] {dag.py:3262} INFO - Creating ORM DAG for tutorial_taskflow_api
+[2025-10-09T23:47:04.939+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:47:04.938+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-10-09T23:47:04.963+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.292 seconds
+[2025-10-09T23:48:46.476+0300] {processor.py:186} INFO - Started process (PID=45047) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:48:46.482+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-10-09T23:48:46.485+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:46.484+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:48:46.496+0300] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:48:46.527+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:46.526+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:48:46.544+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:46.543+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-10-09T23:48:46.571+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.104 seconds
+[2025-10-09T23:49:47.153+0300] {processor.py:186} INFO - Started process (PID=45521) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:49:47.155+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-10-09T23:49:47.157+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:47.157+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:49:47.168+0300] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:49:47.188+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:47.188+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:49:47.205+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:47.204+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-10-09T23:49:47.237+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.091 seconds
+[2025-10-09T23:50:42.284+0300] {processor.py:186} INFO - Started process (PID=45748) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:50:42.290+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-10-09T23:50:42.293+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:42.292+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:50:42.302+0300] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:50:42.319+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:42.319+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:50:42.336+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:42.336+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-10-09T23:50:42.384+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.105 seconds
+[2025-10-09T23:51:37.918+0300] {processor.py:186} INFO - Started process (PID=46163) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:51:37.924+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-10-09T23:51:37.927+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:37.926+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:51:37.936+0300] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:51:37.953+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:37.953+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:51:37.968+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:37.968+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-10-09T23:51:37.995+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.083 seconds
+[2025-10-09T23:52:34.268+0300] {processor.py:186} INFO - Started process (PID=46421) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:52:34.274+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-10-09T23:52:34.276+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:34.276+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:52:34.285+0300] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:52:34.302+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:34.301+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:52:34.316+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:34.316+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-10-09T23:52:34.340+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.078 seconds
+[2025-10-09T23:53:26.426+0300] {processor.py:186} INFO - Started process (PID=46656) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:53:26.432+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-10-09T23:53:26.434+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:26.434+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:53:26.444+0300] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:53:26.461+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:26.461+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:53:26.476+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:26.475+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-10-09T23:53:26.502+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.082 seconds
+[2025-10-09T23:54:25.750+0300] {processor.py:186} INFO - Started process (PID=47138) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:54:25.756+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-10-09T23:54:25.759+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:25.758+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:54:25.769+0300] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:54:25.788+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:25.788+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:54:25.806+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:25.805+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-10-09T23:54:25.841+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.098 seconds
+[2025-10-09T23:55:23.119+0300] {processor.py:186} INFO - Started process (PID=47514) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:55:23.126+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-10-09T23:55:23.128+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:23.128+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:55:23.140+0300] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-10-09T23:55:23.159+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:23.158+0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-10-09T23:55:23.173+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:55:23.173+0300] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-10-09T23:55:23.198+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.086 seconds

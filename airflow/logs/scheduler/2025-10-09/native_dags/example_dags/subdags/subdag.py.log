@@ -1,0 +1,50 @@
+[2025-10-09T23:46:57.527+0300] {processor.py:186} INFO - Started process (PID=44343) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:46:57.528+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-09T23:46:57.530+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:46:57.530+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:46:57.532+0300] {processor.py:927} WARNING - No viable dags retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:46:57.543+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-10-09T23:48:40.373+0300] {processor.py:186} INFO - Started process (PID=44992) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:48:40.374+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-09T23:48:40.376+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:48:40.376+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:48:40.379+0300] {processor.py:927} WARNING - No viable dags retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:48:40.393+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2025-10-09T23:49:41.018+0300] {processor.py:186} INFO - Started process (PID=45459) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:49:41.018+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-09T23:49:41.021+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:49:41.021+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:49:41.023+0300] {processor.py:927} WARNING - No viable dags retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:49:41.035+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2025-10-09T23:50:11.694+0300] {processor.py:186} INFO - Started process (PID=45618) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:50:11.695+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-09T23:50:11.698+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:50:11.697+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:50:11.701+0300] {processor.py:927} WARNING - No viable dags retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:50:11.714+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2025-10-09T23:51:06.753+0300] {processor.py:186} INFO - Started process (PID=45901) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:51:06.754+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-09T23:51:06.757+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:51:06.757+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:51:06.760+0300] {processor.py:927} WARNING - No viable dags retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:51:06.772+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2025-10-09T23:52:01.181+0300] {processor.py:186} INFO - Started process (PID=46276) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:52:01.187+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-09T23:52:01.190+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:01.189+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:52:01.192+0300] {processor.py:927} WARNING - No viable dags retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:52:01.203+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2025-10-09T23:52:56.837+0300] {processor.py:186} INFO - Started process (PID=46531) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:52:56.843+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-09T23:52:56.846+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:52:56.845+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:52:56.848+0300] {processor.py:927} WARNING - No viable dags retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:52:56.859+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2025-10-09T23:53:49.984+0300] {processor.py:186} INFO - Started process (PID=46837) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:53:49.990+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-09T23:53:49.992+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:53:49.992+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:53:49.997+0300] {processor.py:927} WARNING - No viable dags retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:53:50.012+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2025-10-09T23:54:20.584+0300] {processor.py:186} INFO - Started process (PID=47068) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:54:20.585+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-09T23:54:20.590+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:20.589+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:54:20.593+0300] {processor.py:927} WARNING - No viable dags retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:54:20.609+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2025-10-09T23:54:51.693+0300] {processor.py:186} INFO - Started process (PID=47342) to work on /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:54:51.699+0300] {processor.py:914} INFO - Processing file /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-09T23:54:51.702+0300] {logging_mixin.py:190} INFO - [2025-10-09T23:54:51.702+0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:54:51.704+0300] {processor.py:927} WARNING - No viable dags retrieved from /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-09T23:54:51.718+0300] {processor.py:208} INFO - Processing /home/hsooni/cafe_sales_etl/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
